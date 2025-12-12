@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Controversia</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Controversia 2</title>
+          <date when="2025-12-11">Dec 11, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-12-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="141-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jsjasx-d1e58">
+      <head>Controversia 2</head> 
+      <head type="question-title">An Christus Dominus ita sit mediator inter Deum et hominem ut alii mediatores secundarii adhiberi nequeant? Adeoque sancti non sint invocandi?</head>
+      <p>
+        <lb ed="#K" n="25"/>CONTROVERSIA II
+        <lb ed="#K"/>An Christus Dominus ita sit Mediator 
+        <lb ed="#K"/>inter Deum et hominem ut alii Mediatores 
+        <lb ed="#K"/>secundarii adhiberi nequeant? adeoque Sancti 
+        <lb ed="#K"/>non sint invocandi?
+      </p>
+      <p>
+        <lb ed="#K"/>Praenoto Mediator vocatur ille qui inter aliquos dissidentes aut certe non con<lb ed="#K" break="no"/>iunctos 
+        <pb ed="#K" n="141-v"/>
+        medium se inter ponit ut eos redigat ad concordiam vel novo foedere coniun<lb ed="#K" break="no"/>gat,
+        quae mediatio de qua maxime hic disputamus 4 modis fieri potest. Primo discer<lb ed="#K" break="no"/>nendo
+        et iudicando causam, quomodo arbitri dici possunt mediatores. Et hic 
+        <lb ed="#K"/>primus modus tribuitur Christo a <name>Sancto Ambroso</name>in <ref>caput 2 primo ad Thimoteum</ref>.
+        <lb ed="#K"/>Secundo, referendo hinc <unclear>inde paectae</unclear> et conditiones utriusque paris, quomodo omnes
+        <lb ed="#K"/>inter nuncii dici possunt mediatores. Et in hac significatione videtur
+        <lb ed="#K"/>accipiendum nomen mediatoris, cum <name>Moyses</name> dicit <ref>Deuteronomii 5</ref> <quote>Ego
+        medius fini inter Deum et vos<!-- 5:5, actually: "Ego sequester et medius fui inter Dominum et vos." --></quote>. Et hic etiam modus Christo convenit,
+        <lb ed="#K"/>qui annunciavit hominibus Dei voluntatem, et leges. Et propterea dicitur ad <ref>Hebr. 9 <!-- 9:15 --></ref>
+        <lb ed="#K"/><quote>mediator novi Testamenti</quote>. Tertio orando et supplicando uni parti pro altera. 
+        <lb ed="#K"/>Sed quoque convenit Christo qui ad <ref>Romanos 8</ref> dicitur <quote>interpellare pro nobis</quote> <!-- 8:34 -->.
+        <lb ed="#K"/>Quarto: soluendo et satisfaciendo uni parti pro altera. Hic modus mediatio<lb ed="#K" break="no"/>nis
+        <unclear>propriissime</unclear> convenit Christo qui in tota Scriptura describitur ut
+        <lb ed="#K"/>Hostia pro peccato. Primi tres modi mediationis communes sunt Christo cum
+        <lb ed="#K"/>aliis. Quartus proprie soli Christo convenit. Unde <ref>prima ad Thimo. secundo</ref>
+        <lb ed="#K"/>postquam Apostolus dixerat: <quote>unus mediator Dei et hominum, homo Christus
+        <lb ed="#K"/>Iesus</quote><!-- 2:5 -->. Mox addit causam dicens: <quote>qui dedit semet ipsum redemptionem
+        <lb ed="#K"/>pro multis</quote><!-- 2:6 -->. Idem etiam <ref>ad Romanos 8</ref>. Et <ref>prima Ioannis 2</ref> ubi Christus
+        <lb ed="#K"/>dicitur <quote>advocatus</quote> et interpellator apud Deum pro nobis. His itaque est
+        <lb ed="#K"/>inter nos et adversarios utrum nomen mediatoris soli Christo compe<lb ed="#K" break="no"/>tat,
+        an etiam potest competere sanctis.
+      </p>
+      <p>
+        <lb ed="#K"/>Praenoto secundo: Haeretici moderni etsi primitus simul negaverunt
+        <lb ed="#K"/>cultum et invocationem sanctorum, modo tamen aliquantum saltem plurimi resi<lb ed="#K" break="no"/>puerunt:
+        et non sic maliciose in sanctos Dei <unclear>debacahantur</unclear>, adeoque
+        <lb ed="#K"/>concedunt illis cultum debitum exhibendum, sed tamen invocandos sanctos,
+        <lb ed="#K"/>ac pro intercessoribus ac mediatoribus ad Deum adhibendos negant.
+      </p>
+      <p>
+        <lb ed="#K"/>Praenoto tertio: Fidem moderni haeretici affirmant sanctos qui sunt
+        <lb ed="#K"/>adhuc in militante Ecclesia, seu in corpore <unclear>vinunt, passe</unclear> pro nobis
+        <lb ed="#K"/>intercedere ad Deum, et licitum eorum orationes postulare, <unclear>nescis</unclear>
+        <lb ed="#K"/>vero sanctos invocare qui migrarunt ad Patriam caelestem et cum Deo
+        <pb ed="#K" n="142-r"/>
+        <lb ed="#K"/>suo regnant. Quod quam rationabiliter et consequenter docent
+        <lb ed="#K"/>prudens decudicabit et infra patebit.
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+      
