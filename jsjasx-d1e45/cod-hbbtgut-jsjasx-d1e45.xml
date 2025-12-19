@@ -17,7 +17,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title></title>
+          <title/>
           <date when="2025-10-24">October 24, 2025</date>
         </edition>
       </editionStmt>
@@ -57,99 +57,99 @@
     </front>
     <body>
       <div xml:id="jsjasx-d1x45">
-      <head>Quaestio prooemialis</head> 
-      <head type="question-title">Qui nam sint aut fuerint praecipui errores haereticorum circa incarnationem</head> 
-        <p>
-          <lb ed="#K" n="1"/>Praecipuam Sacrae Theolgoiae partem controversam esse nemo unquam dubitavit,
-          <lb ed="#K"/>specatata illius sive singularim utilitate sive magna ad salutem necessitate.
-          <lb ed="#K"/>Cum enim multa elia in Theologia sine periculo ignorari, et interdum etiam cum
-          <lb ed="#K"/>laude oppugnari possint, de Deo, de Christo, de Ecclesia, sacramentis, Iustificatione,
-          <lb ed="#K"/>auxilio gratiae, aliisque, per multis gravissimis et difficillimis quaestionibus, quae
-          <lb ed="#K"/>ad ipsa fidei fundamenta pertinent; inscitiam <unclear>prae se ferre</unclear> hac in re periculo non
-          <lb ed="#K"/>vacat in homine sapiente, si enim vel unum quid horum adversarius labefactare
-          <lb ed="#K"/>disputanda valuerit, totum quod in Christum credimus attestante <name>Divo Augus<lb ed="#K" break="no"/>tino</name>,
-          auferat necesse sit. Faces hic quanta seges meriti et gloriae fide<lb ed="#K" break="no"/>libus
+      <head xml:id="jsjasx-d1x45-Hd1e108">Quaestio prooemialis</head> 
+      <head xml:id="jsjasx-d1x45-Hd1e110" type="question-title">Qui nam sint aut fuerint praecipui errores haereticorum circa incarnationem</head> 
+        <p xml:id="jsjasx-d1x45-d1e113">
+          <lb ed="#K" n="1"/>Praecipuam Sacrae Theologiae partem controversam esse nemo unquam dubitavit,
+          <lb ed="#K" n="2"/>specatata illius sive singularim utilitate sive magna ad salutem necessitate.
+          <lb ed="#K" n="3"/>Cum enim multa elia in Theologia sine periculo ignorari, et interdum etiam cum
+          <lb ed="#K" n="4"/>laude oppugnari possint, de Deo, de Christo, de Ecclesia, sacramentis, Iustificatione,
+          <lb ed="#K" n="5"/>auxilio gratiae, aliisque, per multis gravissimis et difficillimis quaestionibus, quae
+          <lb ed="#K" n="6"/>ad ipsa fidei fundamenta pertinent; inscitiam <unclear>prae se ferre</unclear> hac in re periculo non
+          <lb ed="#K" n="7"/>vacat in homine sapiente, si enim vel unum quid horum adversarius labefactare
+          <lb ed="#K" n="8"/>disputanda valuerit, totum quod in Christum credimus attestante <name xml:id="jsjasx-d1x45-Nd1e134">Divo Augus<lb ed="#K" break="no" n="9"/>tino</name>,
+          auferat necesse sit. Faces hic quanta seges meriti et gloriae fide<lb ed="#K" break="no" n="10"/>libus
           sit haereticorum impetum et furorem frangere ab ovili Domini feras
-          <lb ed="#K"/>illas arcere, se et Ecclesiam Christi ab illorum venenatis telis <unclear>protegere</unclear>. 
-          <lb ed="#K"/>At mimme id <unclear>praestabimus</unclear>, si prius in his quaestionibus diu et multum versati,
-          <lb ed="#K"/>armis Ecclesiae diligenter instructi ne fuerimus. Quia vero ex multis aliis
-          <lb ed="#K"/>quaestionibus nobis hic annus <unclear>praescripsit</unclear> controversias de Verbo Incarna<lb ed="#K" break="no"/>to,
-          ut pote quam materiam etiam Theologia Speculativa tractabat, huius com<lb ed="#K" break="no"/>plementum
-          <unclear>sunt</unclear> praesentes lectiones, de quibus agemus, spectando moder<lb ed="#K" break="no"/>norum 
+          <lb ed="#K" n="11"/>illas arcere, se et Ecclesiam Christi ab illorum venenatis telis <unclear>protegere</unclear>. 
+          <lb ed="#K" n="12"/>At minime id <unclear>praestabimus</unclear>, si prius in his quaestionibus diu et multum versati,
+          <lb ed="#K" n="13"/>armis Ecclesiae diligenter instructi ne fuerimus. Quia vero ex multis aliis
+          <lb ed="#K" n="14"/>quaestionibus nobis hic annus <unclear>praescripsit</unclear> controversias de Verbo Incarna<lb ed="#K" break="no" n="15"/>to,
+          ut pote quam materiam etiam Theologia Speculativa tractabat, huius com<lb ed="#K" break="no" n="16"/>plementum
+          <unclear>sunt</unclear> praesentes lectiones, de quibus agemus, spectando moder<lb ed="#K" break="no" n="17"/>norum 
           temporum exigentiam, ut scilicet illos errores convellamus, quibus
-          <lb ed="#K"/>moderni haeretici involuuntur, et alios ad se per trahere satagunt.
-          <lb ed="#K"/>Interim pro meliori notitia, etiam alia in eadem materia per stringere
-          <lb ed="#K"/>non oberit.
+          <lb ed="#K" n="18"/>moderni haeretici involuuntur, et alios ad se per trahere satagunt.
+          <lb ed="#K" n="19"/>Interim pro meliori notitia, etiam alia in eadem materia per stringere
+          <lb ed="#K" n="20"/>non oberit.
         </p>
-        <p>
-          <lb ed="#K" n="18"/>QUAESTIO PROOEMIALIS
-          <lb ed="#K"/>Qui nam sint aut fuerint praecipui 
-          <lb ed="#K"/>Errores Haereticorum circa Incar<lb ed="#K" break="no"/>nationem
+        <p xml:id="jsjasx-d1x45-d1e173">
+          <lb ed="#K" n="21"/>QUAESTIO PROOEMIALIS
+          <lb ed="#K" n="22"/>Qui nam sint aut fuerint praecipui 
+          <lb ed="#K" n="23"/>Errores Haereticorum circa Incar<lb ed="#K" break="no" n="24"/>nationem
         </p>
-        <p>
-          <lb ed="#K"/>Cum in Christo Domino tam Divina quam humana natura reperiatur,
-          <lb ed="#K"/>circa utramque multa impie confixit haereticorum perversitas sed quia quae
-          <lb ed="#K"/>concernunt naturam Dei Divinam, pertinent ad materiam de Deo, uti quod
-          <lb ed="#K"/>in personis Divinis detur distinctio personalis, quam negabant <unclear>Servetiani</unclear>. 
-          <lb ed="#K"/>Quod Christus ante Incarnationem nihil huerit nisi in mente Dei per
-          <lb ed="#K"/>ideam, ut blasphemabant Ebionitae, ideo illa non adduco. Circa natu<lb ed="#K" break="no"/>ram
+        <p xml:id="jsjasx-d1x45-d1e184">
+          <lb ed="#K" n="25"/>Cum in Christo Domino tam Divina quam humana natura reperiatur,
+          <lb ed="#K" n="26"/>circa utramque multa impie confixit haereticorum perversitas sed quia quae
+          <lb ed="#K" n="27"/>concernunt naturam Dei Divinam, pertinent ad materiam de Deo, uti quod
+          <lb ed="#K" n="28"/>in personis Divinis detur distinctio personalis, quam negabant <unclear>Servetiani</unclear>. 
+          <lb ed="#K" n="29"/>Quod Christus ante Incarnationem nihil habuerit nisi in mente Dei per
+          <lb ed="#K" n="30"/>ideam, ut blasphemabant Ebionitae, ideo illa non adduco. Circa natu<lb ed="#K" break="no" n="31"/>ram
           Christi humanam erroneos aliquorum sensus commemorabo, non quidem
-          <lb ed="#K"/>singulos refutando, quia et tempus ne sufficeret, et minus necessarium
-          <lb ed="#K"/>est eruderare insana capita in antis infernalibus sepulta, sed 
-          <lb ed="#K"/>tantum referenda pro notitia perfecti Theologi. <unclear>Controvertemus</unclear>
+          <lb ed="#K" n="32"/>singulos refutando, quia et tempus ne sufficeret, et minus necessarium
+          <lb ed="#K" n="33"/>est eruderare insana capita in antis infernalibus sepulta, sed 
+          <lb ed="#K" n="34"/>tantum referenda pro notitia perfecti Theologi. <unclear>Controvertemus</unclear>
           <pb ed="#K" n="136-v"/>
-          <lb ed="#K"/>vero de erroribus in quos de lapsi praesentis seculi haeretici.
-          <lb ed="#K"/>Atque in primis Abaptistiae docuerunt Christum non habuisse veram car<lb ed="#K" break="no"/>nem
+          <lb ed="#K" n="1"/>vero de erroribus in quos de lapsi praesentis seculi haeretici.
+          <lb ed="#K" n="2"/>Atque in primis Abaptistiae docuerunt Christum non habuisse veram car<lb ed="#K" break="no" n="3"/>nem
           ex Virgine assumptum. Secundo nostro seculo Lutherani asseruerunt
-          <lb ed="#K"/>Christi carnem habere attributa Divinitatis, ac praecipue omnnipraesentiam,
-          <lb ed="#K"/>et dicunt hypostaticam unionem consistere in ista communicatione 
-          <lb ed="#K"/>attributorum ipsi carni et humanitati Christi. Christum purum esse 
-          <lb ed="#K"/>hominem error fuit <name>Arii</name> damnatus in Niceno Concilio.
-          <lb ed="#K"/>Haeresis fuit Diosceri, Eutichetis, et Acephalorum in Christo post 
-          <lb ed="#K"/>Incarnationem unam tantum fuisse naturam factam per conversionem Divini<lb ed="#K" break="no"/>tatis
+          <lb ed="#K" n="4"/>Christi carnem habere attributa Divinitatis, ac praecipue omnipraesentiam,
+          <lb ed="#K" n="5"/>et dicunt hypostaticam unionem consistere in ista communicatione 
+          <lb ed="#K" n="6"/>attributorum ipsi carni et humanitati Christi. Christum purum esse 
+          <lb ed="#K" n="7"/>hominem error fuit <name xml:id="jsjasx-d1x45-Nd1e229">Arii</name> damnatus in Niceno Concilio.
+          <lb ed="#K" n="8"/>Haeresis fuit Diosceri, Eutichetis, et Acephalorum in Christo post 
+          <lb ed="#K" n="9"/>Incarnationem unam tantum fuisse naturam factam per conversionem Divini<lb ed="#K" break="no" n="10"/>tatis
           in carnem, quia verbum caro factum est, et unum fieri alterum, iuxta
-          <lb ed="#K"/>illos est verti in illud: unde asserebant Divinitatem verbi fuisse
-          <lb ed="#K"/>natam, passam, mortuam, etc, ita tamen ut Christi caro ne sit eiusdem natura
-          <lb ed="#K"/>cum nostra, sed solum apparens et phantastica, ut potius Verbum simu<lb ed="#K" break="no"/>laverit
+          <lb ed="#K" n="11"/>illos est verti in illud: unde asserebant Divinitatem verbi fuisse
+          <lb ed="#K" n="12"/>natam, passam, mortuam, etc, ita tamen ut Christi caro ne sit eiusdem natura
+          <lb ed="#K" n="13"/>cum nostra, sed solum apparens et phantastica, ut potius Verbum simu<lb ed="#K" break="no" n="14"/>laverit
           se hominem et natum, passum, quam revera fuerit.
         </p>
-        <p>
-          <lb ed="#K"/>Cherintus separabat olim Iesum a Christo, et Iesum purum esse homi<lb ed="#K" break="no"/>nem
+        <p xml:id="jsjasx-d1x45-d1e248">
+          <lb ed="#K" n="15"/>Cherintus separabat olim Iesum a Christo, et Iesum purum esse homi<lb ed="#K" break="no" n="16"/>nem
           contentebat ex Iozeph et Maria natum, Christum autem esse filium
-          <lb ed="#K"/>Dei qui tempore baptismi in Iesum descenderit in forma Culumbae.
-          <lb ed="#K"/>Sicut in Christo duae admittendae naturae, Divina et humana, ita
-          <lb ed="#K"/>in eadem esse duas personas docuit <name>Nestorius</name>, quam doctrinam dam<lb ed="#K" break="no"/>navit 
+          <lb ed="#K" n="17"/>Dei qui tempore baptismi in Iesum descenderit in forma Culumbae.
+          <lb ed="#K" n="18"/>Sicut in Christo duae admittendae naturae, Divina et humana, ita
+          <lb ed="#K" n="19"/>in eadem esse duas personas docuit <name xml:id="jsjasx-d1x45-Nd1e261">Nestorius</name>, quam doctrinam dam<lb ed="#K" break="no" n="20"/>navit 
           Concilium Ephesianum. Unam fuisse in Christo voluntatem
-          <lb ed="#K"/>idque Divinam, nullam vero humanam, error fuit <name>Macarii Episcopi Anti<lb ed="#K" break="no"/>ocheni</name>
+          <lb ed="#K" n="21"/>idque Divinam, nullam vero humanam, error fuit <name xml:id="jsjasx-d1x45-Nd1e267">Macarii Episcopi Anti<lb ed="#K" break="no" n="22"/>ocheni</name>
           et aliorum qui dicti sint monotelitae, et damnantur in sixta
-          <lb ed="#K"/>Synodo, ubi definitur in Christo duas esse voluntates Divinam 
-          <lb ed="#K"/>quae aequinalis est Patri et humanam, qua factus est obediens usque ad 
-          <lb ed="#K"/>mortem. Christum in Cruce adhuc viventem fuisse lancea vulnera<lb ed="#K" break="no"/>tum 
+          <lb ed="#K" n="23"/>Synodo, ubi definitur in Christo duas esse voluntates Divinam 
+          <lb ed="#K" n="24"/>quae aequinalis est Patri et humanam, qua factus est obediens usque ad 
+          <lb ed="#K" n="25"/>mortem. Christum in Cruce adhuc viventem fuisse lancea vulnera<lb ed="#K" break="no" n="26"/>tum 
           fuit quorumdam error contra apertum Evangelii testimonium
-          <lb ed="#K"/><ref>Ioannis 19<!-- 19:34 --></ref>. Christum nunquam resurrexisse, sed tandem aliquam
-          <lb ed="#K"/>de resurrecturum error fuit Corinthi. Ascendisse Christum
-          <lb ed="#K"/>in caelum absque carno humana docuit <name>Apelles</name> teste <name>Divo Augustino</name>
-          <lb ed="#K"/><ref>libro de haeresibus</ref>. Quod attinet ad sanctissimam Animam 
-          <lb ed="#K"/>Christi, Admogitae docebant Christum ignorasse diem iudicii, quem
-          <lb ed="#K"/>sequuntur omnes fere Neoterici haeretici, cum asserunt animam
+          <lb ed="#K" n="27"/><ref xml:id="jsjasx-d1x45-Rd1e282">Ioannis 19<!-- 19:34 --></ref>. Christum nunquam resurrexisse, sed tandem aliquam
+          <lb ed="#K" n="28"/>de resurrecturum error fuit Corinthi. Ascendisse Christum
+          <lb ed="#K" n="29"/>in caelum absque carno humana docuit <name xml:id="jsjasx-d1x45-Nd1e291">Apelles</name> teste <name xml:id="jsjasx-d1x45-Nd1e293">Divo Augustino</name>
+          <lb ed="#K" n="30"/><ref xml:id="jsjasx-d1x45-Rd1e296">libro de haeresibus</ref>. Quod attinet ad sanctissimam Animam 
+          <lb ed="#K" n="31"/>Christi, Admogitae docebant Christum ignorasse diem iudicii, quem
+          <lb ed="#K" n="32"/>sequuntur omnes fere Neoterici haeretici, cum asserunt animam
           <pb ed="#K" n="137"/>
-          <lb ed="#K"/>Christi paulatim didicesse quae vere ignorabat, et aliquid egisse
-          <lb ed="#K"/>quod defuit corrigi. De Descensu etiam eius ad inferos multa
-          <lb ed="#K"/>somniabant: Et imprimis <name>Bucerus</name> et <name>Beza</name> contendunt descen<lb ed="#K" break="no"/>sum
-          Christi ad Inferos, nil aliud esse, quam sepultum fuisse. <name>Calvinus</name>
-          <lb ed="#K"/>vero docebat Christum ideo dici ad inferos descendisse, quia passus
-          <lb ed="#K"/>est dolores damnatorum, id est incredibilem passus est animi anxietatem,
-          <lb ed="#K"/>qualem pateretur, qui sciret se aeternum damnandum, <name>Calvinus</name> enim
-          <lb ed="#K"/>nullum agnoscit locum subterraneum inferni, sed poenas damnatorum 
-          <lb ed="#K"/>nil aliud esse vult, quam terrorem et anxietatem conscientiae cognitan<lb ed="#K" break="no"/>tis
+          <lb ed="#K" n="1"/>Christi paulatim didicesse quae vere ignorabat, et aliquid egisse
+          <lb ed="#K" n="2"/>quod defuit corrigi. De Descensu etiam eius ad inferos multa
+          <lb ed="#K" n="3"/>somniabant: Et imprimis <name xml:id="jsjasx-d1x45-Nd1e311">Bucerus</name> et <name xml:id="jsjasx-d1x45-Nd1e313">Beza</name> contendunt descen<lb ed="#K" break="no" n="4"/>sum
+          Christi ad Inferos, nil aliud esse, quam sepultum fuisse. <name xml:id="jsjasx-d1x45-Nd1e318">Calvinus</name>
+          <lb ed="#K" n="5"/>vero docebat Christum ideo dici ad inferos descendisse, quia passus
+          <lb ed="#K" n="6"/>est dolores damnatorum, id est incredibilem passus est animi anxietatem,
+          <lb ed="#K" n="7"/>qualem pateretur, qui sciret se aeternum damnandum, <name xml:id="jsjasx-d1x45-Nd1e326">Calvinus</name> enim
+          <lb ed="#K" n="8"/>nullum agnoscit locum subterraneum inferni, sed poenas damnatorum 
+          <lb ed="#K" n="9"/>nil aliud esse vult, quam terrorem et anxietatem conscientiae cognitan<lb ed="#K" break="no" n="10"/>tis
           Deum sibi infestum. Porro Christum cepisse versari in inferno
-          <lb ed="#K"/>cum in horto contristari caepit et oraret: profundius vero descen<lb ed="#K" break="no"/>disse 
+          <lb ed="#K" n="11"/>cum in horto contristari caepit et oraret: profundius vero descen<lb ed="#K" break="no" n="12"/>disse 
           dum clamavit: Deus, Deus meus ut quid dereliquisti me<!-- Matt. 27:46-->.
-          <lb ed="#K"/>Sicut Calvinistae ita etiam impii eorum asseclae multos de Christo errores 
-          <lb ed="#K"/>seminarunt; verba gratia, Christum non esse mortuum pro omnibus, sed pro solis praedesti<lb ed="#K" break="no"/>natis,
+          <lb ed="#K" n="13"/>Sicut Calvinistae ita etiam impii eorum asseclae multos de Christo errores 
+          <lb ed="#K" n="14"/>seminarunt; verba gratia, Christum non esse mortuum pro omnibus, sed pro solis praedesti<lb ed="#K" break="no" n="15"/>natis,
           Christum in cruce desperasse et alios sexcentos. Nos tamen
-          <lb ed="#K"/>his et aliis blasphemiis missis, accedamus ad ea refutanda
-          <lb ed="#K"/>de quibus communius moderno tempore nobiscum litigant adver<lb ed="#K" break="no"/>sarii. 
+          <lb ed="#K" n="16"/>his et aliis blasphemiis missis, accedamus ad ea refutanda
+          <lb ed="#K" n="17"/>de quibus communius moderno tempore nobiscum litigant adver<lb ed="#K" break="no" n="18"/>sarii. 
           Quare sit.
         </p>
       </div>
