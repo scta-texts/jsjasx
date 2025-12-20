@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Controversia 1</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Controversia 1</title>
+          <date when="2025-04-03">Oct 30, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-10-30" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="137-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jsjasx-d1e51">
+      <head xml:id="jsjasx-d1e51-Hd1e108">Controversia 1</head> 
+      <head xml:id="jsjasx-d1e51-Hd1e110" type="question-title">Utrum Christus secundum humanitatem sit ubique?</head>
+      <p xml:id="jsjasx-d1e51-d1e113">
+        <lb ed="#K" n="19"/>CONTROVERSIA I
+        <lb ed="#K" n="20"/>Utrum Christus secundum humanitatem sit Ubique?
+      </p>
+      <p xml:id="jsjasx-d1e51-d1e120">
+        <lb ed="#K" n="21"/>Error hic est Lutheranorum docentium Christum secundum humanitatem esse ubique.
+        <lb ed="#K" n="22"/>Porro originem inde habet: erat his inter Lutheranos et sacramentarios
+        <lb ed="#K" n="23"/>de praesentia Corporis Christi in Eucharistia, quam negabant sacramentarii asse<lb ed="#K" break="no" n="24"/>rebant
+        Lutherani, utebantur sacramentarii hoc argumento: unum ideoque 
+        <lb ed="#K" n="25"/>corpus non potest esse simul in diversis locis. Sed corpus Christi post ascen<lb ed="#K" break="no" n="26"/>sionem
+        est in caelo. Ergo non potest esse simul in Altari. Lutherani non
+        <lb ed="#K" n="27"/>videbant se posse evadare nisi adhibita distinctione. Itaque concede<lb ed="#K" break="no" n="28"/>bant
+        unum idemque corpus non posse simul esse in diversis locis quando non
+        <lb ed="#K" n="29"/>est ubique, negabant tamen non posse simul esse in diversis locis, quando est
+        <lb ed="#K" n="30"/>ubique. Ut ergo saluarent corporis Christi praesentiam in caelo et in altari 
+        <lb ed="#K" n="31"/>dixerunt corpus eius ubique; sed diverso modo in caelo localiter
+        <lb ed="#K" n="32"/>visibiliter in Eucharistia sacramentaliter, ubique illocaliter et invisi<lb ed="#K" break="no" n="33"/>biliter
+        <lb ed="#K" n="34"/>haec eorum figmenta. Sed contra.
+        <pb ed="#K" n="137-v"/>
+      </p>
+      <p xml:id="jsjasx-d1e51-d1e155">
+        <lb ed="#K" n="1"/>Dicendum est. Christus secundum humanitatem non est ubique. Ita Sacro 
+        <lb ed="#K" n="2"/>Sancta Orthodoxa fides contra Lutheranos.
+      </p>
+      <p xml:id="jsjasx-d1e51-d1e163">
+        <lb ed="#K" n="3"/>Probatur primo ex scriptura: <ref xml:id="jsjasx-d1e51-Rd1e167">Ioannis 11</ref> dicit Christus: <quote xml:id="jsjasx-d1e51-Qd1e169">Lazarus mor<lb ed="#K" break="no" n="4"/>tuus
+        est et gaudeo propter vos ut credatis quia non eram ibi</quote>. Item <ref xml:id="jsjasx-d1e51-Rd1e174">Ioannis 6</ref>
+        <lb ed="#K" n="5"/>cum vidisset turba quod Iesus ne esset ibi, neque discipuli eius ascenderunt
+        <lb ed="#K" n="6"/><unclear>innaviculas</unclear> et venerunt Capernaum <unclear>querestes</unclear> Iesum. Item <ref xml:id="jsjasx-d1e51-Rd1e184">Marci 16</ref>:
+        <lb ed="#K" n="7"/>Iesum quaeritis Nazarenum Crucifixum surrexit non est hic. Etc, etc. 
+      </p>
+      <p xml:id="jsjasx-d1e51-d1e189">
+        <lb ed="#K" n="8"/>Probatur secundo ratione: si secundum humanitatem fuisse ubique seu in omni<lb ed="#K" break="no" n="9"/>bus
+        locis, sicut Deus secundum Divinitatem est ubique ne potuisse de loco in lo<lb ed="#K" break="no" n="10"/>cum
+        migrare sicut nec Deus potest proprie loquendo. Ad quod enim debuisset
+        <lb ed="#K" n="11"/>migrare illuc ubi est, ille qui ubique est: Atqui Christum secundum humanitatem
+        <lb ed="#K" n="12"/>migrasse de loco in locum est certissimum, nam ex utero migravit
+        <lb ed="#K" n="13"/>in Praesepe, mox in Aegyptum, postea in Nazareth, de inde ascendit
+        <lb ed="#K" n="14"/>cum parentibus Ierosolimam, hinc in Galileam, etc, etc, ut diserte sacra
+        <lb ed="#K" n="15"/>testantur Evangelia.
+      </p>
+      <p xml:id="jsjasx-d1e51-d1e209">
+        <lb ed="#K" n="16"/>Respondent Lutherani: ex scriptura solum colligitur quod Christus non fuit
+        <lb ed="#K" n="17"/>ubique localiter et visibiliter, de facto tamen fuit ubique illocaliter et invisi<lb ed="#K" break="no" n="18"/>biliter.
+        Contra est primo, quia ex hac <unclear>responsiorce</unclear> sequitur corpus et sangui<lb ed="#K" break="no" n="19"/>ne
+        Christi in instanti conceptionis fuisse localiter in utero materno,
+        <lb ed="#K" n="20"/>et illocaliter in toto mundo, ac proinde in utero conceptum esse localiter,
+        <lb ed="#K" n="21"/>in toto mundo illocaliter. Item in cruce passum esse visibiliter et lo<lb ed="#K" break="no" n="22"/>caliter,
+        in toto mundo invisibiliter et illocaliter. Contra secundo.
+        <lb ed="#K" n="23"/>Distinctio illa non habet locum in anima Christi, quando in triduo mortis
+        <lb ed="#K" n="24"/>fuit separata a corpore, tunc enim nusquam fuit localiter et visibiliter, 
+        <lb ed="#K" n="25"/>sed ubicunque tunc fuit, ibi fuit illocaliter et invisibiliter. At certum 
+        <lb ed="#K" n="26"/>est non fuisse tunc unique, quia dum deservit corpus et descendit ad infe<lb ed="#K" break="no" n="27"/>ros,
+        non mansit in corpore. Et similiter quando ab inferis <unclear>rediit</unclear> ad 
+        <lb ed="#K" n="28"/>corpus, non mansit apud inferos, quomodo ergo potuit esse ubique. Contra est
+        <lb ed="#K" n="29"/>tertio. Substantia quae ubique est, locum mutare non potest ut patet in substantia
+        <lb ed="#K" n="30"/>Dei, quae cum per se sit immensa et ubique praesens, nullo modo, nec visibi<lb ed="#K" break="no" n="31"/>liter 
+        nec invisibiliter potest de loco in locum migrare, motu et mutatione
+        <lb ed="#K" n="32"/>proprie dicta, nisi ad summum metaphorica, qualiter dicitur <ref xml:id="jsjasx-d1e51-Rd1e252">Genesis 18</ref>
+        <lb ed="#K" n="33"/><quote xml:id="jsjasx-d1e51-Qd1e255">Dixit itaque Dominus, descendam et videbo.</quote>
+        <pb ed="#K" n="138-r"/>
+        <lb ed="#K" n="1"/>Atqui humanitas Christi proprie locum mutabat motu proprio non metaphorice.
+        <lb ed="#K" n="2"/>Ergo non fuit ubique. Dices: locum mutabat humanitas Christi
+        <lb ed="#K" n="3"/>quo ad esse visibiliter et localiter conceditur, quo ad esse invisibiliter
+        <lb ed="#K" n="4"/>et illocaliter negatur. Contra est non disputo hic de modis vel ac<lb ed="#K" break="no" n="5"/>cidentibus
+        humanitatis Christi, cuius modi sit esse visibile, esse invisi<lb ed="#K" break="no" n="6"/>bile 
+        esse locale, esse illocale. Sed de ipsa substantia, nam si haec
+        <lb ed="#K" n="7"/>re ipsa sit ubique, non potest re ipsa moveri de loco in locum.
+      </p>
+      <p xml:id="jsjasx-d1e51-d1e276">
+        <lb ed="#K" n="8"/>Respondent secundo Lutherani: Christum non fuisse ubique tempore
+        <lb ed="#K" n="9"/>suae mortalibus, esse tamen ubique iam in corpore glorioso post suam resur<lb ed="#K" break="no" n="10"/>rectionem.
+        Contra est. Constat ex Evangelio et Symbolo fidei 
+        <lb ed="#K" n="11"/>Christum etiam post resurrectionem ascendisse ad caelum, ad Discipulos
+        <lb ed="#K" n="12"/>ante ascensionem aliquoties venisse, ac proinde locum mutasse. Deinde
+        <lb ed="#K" n="13"/>etiam Lutherani credunt Christum venturum in die iudicii. Dicunt
+        <lb ed="#K" n="14"/>ipsi: in ascensione ad caelum, ly caelum figurate debet accipi pro gloria,
+        <lb ed="#K" n="15"/>Regno, et maiestate, non autem pro certo loco. Sed contra est. Christus descen<lb ed="#K" break="no" n="16"/>det 
+        ad iudicium de caelo, non descendet autem de Gloria et Regno. Ergo
+        <lb ed="#K" n="17"/>de vero caelo corporali.
+      </p>
+      <p xml:id="jsjasx-d1e51-d1e300">
+        <lb ed="#K" n="18"/>Probatur tertio conclusio authoritate Sanctorum Patrum. <ref xml:id="jsjasx-d1e51-Rd1e304">Sanctus Gregorius
+        <lb ed="#K" n="19"/>Homilia 29 de ascensione</ref>: <quote xml:id="jsjasx-d1e51-Qd1e309">cum per humanitatem ascenderet in caelum,
+        per Divinitatem suam terram pariter continebat et caelum</quote>. <ref xml:id="jsjasx-d1e51-Rd1e311">Sanctus Augustinus
+        <lb ed="#K" n="20"/>tractatu 70 in Ioannem</ref>: <quote xml:id="jsjasx-d1e51-Qd1e316">Sed a quibus inquit homo abscedebat Deus
+        <lb ed="#K" n="21"/>non recedebat, et idem ipse Christus homo et Deus. Ergo et ibat per id 
+        <lb ed="#K" n="22"/>quod homo erat et manebat per id quod Deus erat</quote>. Et <ref xml:id="jsjasx-d1e51-Rd1e324">Epistola 57
+        <lb ed="#K" n="23"/>.ad Dardanum</ref>: <quote xml:id="jsjasx-d1e51-Qd1e329">Christus ubique per id quod Deus est, in caelo autem per id
+        <lb ed="#K" n="24"/>quod homo est</quote>. <ref xml:id="jsjasx-d1e51-Rd1e334">Sanctus Ambrosius Libro secundo, de fide capite quarto</ref>, <quote xml:id="jsjasx-d1e51-Qd1e336">neque Deus de
+        <lb ed="#K" n="25"/>loco in locum transit qui ubique semper est, ut homo est qui vadit ipse qui
+        <lb ed="#K" n="26"/>venit</quote>. Confirmatur: si corpus et sanguis Christi est ubique, est etiam
+        <lb ed="#K" n="27"/>in pane et vino, imo in omni vibo et potu. Quid ergo necesse est 
+        <lb ed="#K" n="28"/>ire ad Ecclesiam pro corpore et sanguine Christi? Domi habetur quod foris 
+        <lb ed="#K" n="29"/>quaeritur. 
+      </p>
+      <p xml:id="jsjasx-d1e51-d1e351">
+        <lb ed="#K" n="30"/>Obiicitur primo. QUando duae res in separabiliter et indistan<lb ed="#K" break="no" n="31"/>ter
+        inter se sunt unitae, tunc ubi est una ibi alteram esse necesse est.
+        <pb ed="#K" n="138-v"/>
+        <lb ed="#K" n="1"/>Sed ita natura humana est unita cum natura Divinam.
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
