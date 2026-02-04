@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Controversia 3</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Controversia 3</title>
+          <date when="2025-04-03">Feb 3, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="137-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jsjasx-d1e65">
+      <head>Controversia 3</head> 
+      <head type="question-title">Utrum Christus secundum humanitatem sit ubique?</head>
+      <p>
+        <lb ed="#K" n="???"/>CONTROVERSIA III
+        <lb ed="#K"/>An Christus Dominus ita satis fecerit pro
+        <lb ed="#K"/>peccatis nostris ut nulla satisfactio ex par<lb ed="#K"/>te
+        nostri requiratur ubi breviter et
+        <lb ed="#K"/>primo de Bonis Operibus?
+      </p>
+      <p>
+        <lb ed="#K"/>Praenoto Lutherani sic docent quod opera bona non sint necessaria ad salutem,
+        <lb ed="#K"/>nisi necessitate praesentiae hoc est: bona opera debent poni, quoniam fides non esset
+        <lb ed="#K"/>sine nec vera nisi fructus bonos faceret, quaemadmodum ignis non esset ignis
+        <lb ed="#K"/>si non calefaceret. Tamen opera bona non habent ullam relationem ad salu<lb ed="#K"/>tem, 
+        quasi sint merita causae, conditiones, etc. In quo distingui dicunt fidem
+        <lb ed="#K"/>ab operibus, quoniam fides habet relationem ad salutem, quia illam appre<lb ed="#K"/>hendit,
+        et ideo necessaria dicitur ad salutem. Opera vera nullam omnino
+        <lb ed="#K"/>relationem habent, et ideo sunt quidem necessaria, sed non ad salutem.
+        <lb ed="#K"/>E contra Catholica Orthodoxa Ecclesia docet opera bona homini iusto
+        <lb ed="#K"/>esse necessaria ad salutem, non solum ratione praesentiae: sed etiam efficien<lb ed="#K"/>tiae, 
+        quoniam efficiunt salutem, et sine ipsis sola fides non efficit salutem.
+        <lb ed="#K"/>Intelligitur autem hoc necessarium hominibus usum rationis habentibus, et
+        <lb ed="#K"/>qui tamdiu post adeptam remissionis gratiam supervivunt, donec
+        <lb ed="#K"/>occasio implendae legis occurrat; non enim negamus quod infantes,
+        <lb ed="#K"/>imo etiam ad ultimi recens baptizati salventur absque operibus si con<lb ed="#K"/>tinuo 
+        ex hac vita decedant.
+        <pb ed="#K" n="147-v"/>
+        <lb ed="#K"/>Censentur enim totam legem implere, qui post iustificationem adeptam,
+        <lb ed="#K"/>legis praecepta non violarunt, et qui charitatem quae est legis plenitudo,
+        <lb ed="#K"/>saltem habitualiter in corde gerunt. His praenotatis. 
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum primo. Opera bona et sunt necessaria ad vitam aeternam
+        <lb ed="#K"/>consequendam. Et sunt meritoria eiusdem. Ita Fides Catholica. 
+      </p>
+      <p>
+        <lb ed="#K"/>
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
