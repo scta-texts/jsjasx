@@ -60,9 +60,9 @@
       <head>Controversia 3</head> 
       <head type="question-title">An Christus Dominus ita satis fecerit pro peccatis nostris ut nulla satisfactio ex parte nostri requiratur ubi breviter et primo de Bonis Operibus?</head>
       <p>
-        <lb ed="#K" n="???"/>CONTROVERSIA III
+        <lb ed="#K" n="11"/>CONTROVERSIA III
         <lb ed="#K"/>An Christus Dominus ita satis fecerit pro
-        <lb ed="#K"/>peccatis nostris ut nulla satisfactio ex par<lb ed="#K"/>te
+        <lb ed="#K"/>peccatis nostris ut nulla satisfactio ex par<lb ed="#K" break="no"/>te
         nostri requiratur ubi breviter et
         <lb ed="#K"/>primo de Bonis Operibus?
       </p>
@@ -70,18 +70,18 @@
         <lb ed="#K"/>Praenoto Lutherani sic docent quod opera bona non sint necessaria ad salutem,
         <lb ed="#K"/>nisi necessitate praesentiae hoc est: bona opera debent poni, quoniam fides non esset
         <lb ed="#K"/>sine nec vera nisi fructus bonos faceret, quaemadmodum ignis non esset ignis
-        <lb ed="#K"/>si non calefaceret. Tamen opera bona non habent ullam relationem ad salu<lb ed="#K"/>tem, 
+        <lb ed="#K"/>si non calefaceret. Tamen opera bona non habent ullam relationem ad salu<lb ed="#K" break="no"/>tem, 
         quasi sint merita causae, conditiones, etc. In quo distingui dicunt fidem
-        <lb ed="#K"/>ab operibus, quoniam fides habet relationem ad salutem, quia illam appre<lb ed="#K"/>hendit,
+        <lb ed="#K"/>ab operibus, quoniam fides habet relationem ad salutem, quia illam appre<lb ed="#K" break="no"/>hendit,
         et ideo necessaria dicitur ad salutem. Opera vera nullam omnino
         <lb ed="#K"/>relationem habent, et ideo sunt quidem necessaria, sed non ad salutem.
         <lb ed="#K"/>E contra Catholica Orthodoxa Ecclesia docet opera bona homini iusto
-        <lb ed="#K"/>esse necessaria ad salutem, non solum ratione praesentiae: sed etiam efficien<lb ed="#K"/>tiae, 
+        <lb ed="#K"/>esse necessaria ad salutem, non solum ratione praesentiae: sed etiam efficien<lb ed="#K" break="no"/>tiae, 
         quoniam efficiunt salutem, et sine ipsis sola fides non efficit salutem.
         <lb ed="#K"/>Intelligitur autem hoc necessarium hominibus usum rationis habentibus, et
         <lb ed="#K"/>qui tamdiu post adeptam remissionis gratiam supervivunt, donec
         <lb ed="#K"/>occasio implendae legis occurrat; non enim negamus quod infantes,
-        <lb ed="#K"/>imo etiam ad ultimi recens baptizati salventur absque operibus si con<lb ed="#K"/>tinuo 
+        <lb ed="#K"/>imo etiam ad ultimi recens baptizati salventur absque operibus si con<lb ed="#K" break="no"/>tinuo 
         ex hac vita decedant.
         <pb ed="#K" n="147-v"/>
         <lb ed="#K"/>Censentur enim totam legem implere, qui post iustificationem adeptam,
@@ -98,17 +98,17 @@
         <lb ed="#K"/>ad vitam ingredi serva mandata. Ad hebreos 10. Pacientia vobis 
         <lb ed="#K"/>necessaria est ut facientes voluntatem Dei reportetis promissiones. Dum 
         <lb ed="#K"/>dicit patientiam esse necessaria, opera bona docet Apostolus, nam patientia
-        <lb ed="#K"/>opus est quoddam bonum, cum sit arectus virtutis a fide distinctae, imo opus per<lb ed="#K"/>fectum,
+        <lb ed="#K"/>opus est quoddam bonum, cum sit arectus virtutis a fide distinctae, imo opus per<lb ed="#K" break="no"/>fectum,
         iuxta Iacobum capite primo. Habetur insuper hoc loco patientiam esse
         <lb ed="#K"/>necessariam non solum ratione praesentiae, sed etiam ratione relationis ad salutem, 
         <lb ed="#K"/>id enim significat illud: ut reportetis promissiones. Nam si tantum necessaria
         <lb ed="#K"/>esset ratione praesentiae, satis fuisset dicere: patientia vobis necessaria est. 
         <lb ed="#K"/>Sed additur ratio necessitatis et dicitur tu reportetis promissionem per quod
-        <lb ed="#K"/>significatur relatio aliqua patientiae ad acquisitionem promissionis, id enim vide<lb ed="#K"/>mus 
-        in omnibus similibus loquendi formis: cibus est necessarius ut nutria<lb ed="#K"/>mur, 
+        <lb ed="#K"/>significatur relatio aliqua patientiae ad acquisitionem promissionis, id enim vide<lb ed="#K" break="no"/>mus 
+        in omnibus similibus loquendi formis: cibus est necessarius ut nutria<lb ed="#K" break="no"/>mur, 
         vestis ne frigeamus, ubi semper relatio causae alicuius exprimitur.
-        <lb ed="#K"/>Secunda Petri secundo. Satagite ut per bona opera certam vestram vocationem et electio<lb ed="#K"/>nem
-        faciatis. Iacobi secundo. quid prodest fratres mei si fidem dicat se quis habe<lb ed="#K"/>re 
+        <lb ed="#K"/>Secunda Petri secundo. Satagite ut per bona opera certam vestram vocationem et electio<lb ed="#K" break="no"/>nem
+        faciatis. Iacobi secundo. quid prodest fratres mei si fidem dicat se quis habe<lb ed="#K" break="no"/>re 
         opera autem non habeat? Mathei 5. nisi abundaverit iustitia vestra plus 
         <lb ed="#K"/>quam scribarum et pharizeorum, non intrabitis in Regnum Caelorum.
         <lb ed="#K"/>Has et alias Scripturas conantur adversarii eludere distinctione illa prima
@@ -119,16 +119,168 @@
         <lb ed="#K"/>ex aliis locis Scripturae opera bona mereri, seu concurrere etiam effective ad
         <lb ed="#K"/>salutem, sic ad Philippenses secundo, cum metu et tremore vestram salutem 
         <lb ed="#K"/>operamini. Secunda ad Corinth: 7. Tristitia quae est secundum Deum paenitentiam 
-        <lb ed="#K"/>in salutem stabilem operatur. Hic clare apparet vis efficientiae, tristi<lb ed="#K"/>tia
+        <lb ed="#K"/>in salutem stabilem operatur. Hic clare apparet vis efficientiae, tristi<lb ed="#K" break="no"/>tia
         <lb ed="#K"/>enim vere efficit paenitentiam in homine, id est detestationem
         <lb ed="#K"/>peccati, et propositum peccata vitandi: ipsa vero paenitentia vere 
         <pb ed="#K" n="148"/>
         <lb ed="#K"/>efficit stabilem salutem, proinde non est necessaria solum ratione praesentiae, 
         <lb ed="#K"/>sed etiam causae. Item secunda ad Corinthios 4. Id quod in praesenti est
-        <lb ed="#K"/>momentaneum et level tribulationis nostrae, supra modum in sublimitate aeter<lb ed="#K"/>num
-        gloriae pondus operatur in nobis. Quid apertius dici potuit, si patien<lb ed="#K"/>tia 
+        <lb ed="#K"/>momentaneum et level tribulationis nostrae, supra modum in sublimitate aeter<lb ed="#K" break="no"/>num
+        gloriae pondus operatur in nobis. Quid apertius dici potuit, si patien<lb ed="#K" break="no"/>tia 
         tribulationis operatur pondus aeternae gloriae? quis negare potest, relationem
         <lb ed="#K"/>| aliquam esse inter patientiam et salutem?
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur secundo eadem pars conclusionis: Deus in Scripturis indicat se
+        <lb ed="#K"/>velle tu legem servemus. Vel ergo serio vult ut eam servemus? Vel ioco?
+        <lb ed="#K"/>Si serio vult, serio tenemur eam servare. Si ioco vult, cur serio puniat 
+        <lb ed="#K"/>transgressores? Et non ne blasphemum est dicere Deum in negotio nostrae sa<lb ed="#K" break="no"/>lutis 
+        ioco nobiscum agere, aut in actionibus suis leortatem praeseferre? 
+        <lb ed="#K"/>Deinde si fides sola saluaret et opera necessaria non essent nisi ratione
+        <lb ed="#K"/>praesentiae tu fructus et signa fidei, sequeretur fidem salvare posse etiam si
+        <lb ed="#K"/>careret omni bono opere, et coniuncta esset omnibus vitiis et pecca<lb ed="#K" break="no"/>tis.
+        Hoc autem est manifeste falsum, et Scripturis ac rationi repugnans, 
+        <lb ed="#K"/>nam nil corinquinatum intoribit in Regnum Dei. Ergo, etc. Probatur sequela,
+        <lb ed="#K"/>opera non requiruntur in actu salvandi nisi per accidens iuxta adver<lb ed="#K" break="no"/>sarios,
+        nullam enim ipsa vim salvandi habent, neque addunt fidei neque tollunt 
+        <lb ed="#K"/>a fide vim quam habet salvandi, tu adversarii concedunt. Ergo bonis
+        <lb ed="#K"/>operibus sublatis ad huc fides salvaret. Quemadmodum enim ignis 
+        <lb ed="#K"/>per calorem calefacit, si tollerentur ab igne omnes aliae qualitates 
+        <lb ed="#K"/>quae per accidens sit cum calore coiunctae, ad huc sine dubio calefaceret.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur secunda pars conclusions ex Scripturis, ubi vita aeterna vocatur merces
+        <lb ed="#K"/>seu praemium bonorum operum. Mathei 5. Gaudete et exultate quoniam merces vestra co<lb ed="#K" break="no"/>pioga 
+        est in caelis. Mathei 20. Voca operarios et redde illis mercedem. Math: 25: 
+        <lb ed="#K"/>Venite benedicti Patris mei possidete paratum vobis regnum a constitutione
+        <lb ed="#K"/>mundi, e surivi enim et didisstis mihi manducare, etc. ad Romanos 2, Deus
+        <lb ed="#K"/>reddet unicuique secundum opera sua iis quidem, qui secundum patientiam boni operis
+        <lb ed="#K"/>gloriam et honorem, et incorruptionem quaerunt, vitam aeternam, etc. Prima ad Corinth. 3. 
+        <lb ed="#K"/>Unusquisque propriam mercedem accipiet secundum suum laborem. Ad Galatas 6. qui
+        <lb ed="#K"/>seminat in Spiritu, de spiritu metet vitam aeternam. Secunda ad Corinthios 4
+        <lb ed="#K"/>Quod in praesenti est momentaneum et leve tribulationis nostrae, aeternum gloriae 
+        <lb ed="#K"/>pondus operatur. Secunda ad Thimoteum 4. bonum certamen certavi, cursum con<lb ed="#K" break="no"/>sumavi, 
+        <lb ed="#K"/>, fidem servavi. In reliquo reposita est mihi corona iustitiae. 
+        <pb ed="#K" n="148-v"/>
+        <lb ed="#K"/>Apocalp: 3. ambulabunt mecum in albis quia digni sunt. Secunda ad Thessalon. primo 
+        <lb ed="#K"/>Ut digni habeamini Regno Dei pro quo et patimini. Haec et alia complura
+        <lb ed="#K"/>testimonia tam clara et aperta sunt, ut nullo modo ab adversariis eludi 
+        <lb ed="#K"/>possint, nam perspicue tradunt vitam aeternam esse mercedem et coronam, quaedan<lb ed="#K" break="no"/>da
+        sit iustis intuitu bonorum operum. Unde valde miror Calvinum fuisse tam 
+        <lb ed="#K"/>impudentem, tu hoc ausus sit negare. 
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur primo. Vita aeterna vocatur in Scripturis hereditas. Sed haere<lb ed="#K" break="no"/>ditas
+
+        <lb ed="#K"/>filiis debetur non ex merito et labore sed iure filiationis et adoptionis. 
+        <lb ed="#K"/>Ergo, etc. Respondeo primo retorqueo, vita aeterna vocatur in scripturis etiam merces,
+        <lb ed="#K"/>tu ex nostris probationibus constat. Ergo datur intuitu meritorum. Ergo non 
+        <lb ed="#K"/>solo iure adoptionis. Respondeo secundo. nos non esse filios Dei per naturam, sed per 
+        <lb ed="#K"/>adoptionem. Deinde alii re ipsa adoptantur ante usum rationis in baptismo
+        <lb ed="#K"/>ut parnuli. Alii posta usum rationis in prima iustificatione ut adulti. 
+        <lb ed="#K"/>Postremo pariculi qui ante usum rationis adoptantur et moriuntur accipiunt vi<lb ed="#K" break="no"/>tam
+        aeternam solo titulo hereditatis. Adulti vero qui usu rationis utuntur, 
+        <lb ed="#K"/>et in adoptione filiorum usque, ad mortem perseverant, duplici titulo accipiunt
+        <lb ed="#K"/>vitam aeternam, altero mercedis altero haereditatis. Hoc indicavit Apostolus 
+        <lb ed="#K"/>ad Colosenses 3. quodcunque facitis, ex animo operamini, sicut domino et 
+        <lb ed="#K"/>non hominibus, scientes quod a Domino accipietis retributionem hereditatis. 
+        <lb ed="#K"/>Ut significaret vitam aeternam non salum titulo hereditatis, sed etiam mercedis 
+        <lb ed="#K"/>seu retributionis conferri adultis. Nec hoc mirum debet esse aut novum est.
+        <lb ed="#K"/>Primo quia cum non sint per naturam filii, sed per adoptionem, potuit Deus hac 
+        <lb ed="#K"/>conditione eos adoptare, ut non advirent haereditatem, nisi obtemperent eius 
+        <lb ed="#K"/>mandatis, et sic hereditatem promereantur. Secundo quia simile quid Christo 
+        <lb ed="#K"/>accidit, nam iure haereditatis (supposita unione hypostatica) debebatur 
+        <lb ed="#K"/>ei gloria omnis, et exaltatio nominis: et tamen suis meretis illam opti<lb ed="#K" break="no"/>nuit
+        iuxta Apostolum ad Philippenses 2<!-- 2:8 --> humiliavit semet ipsam factus 
+        <lb ed="#K"/>obediens usque ad mortem, mortem autem crucis, propter quod et Deus exaltavit eum etc. 
+        <lb ed="#K"/>Si ergo Christo qui fuit naturalis filius Dei, data est gloria corporis et exal<lb ed="#K" break="no"/>tatio
+        duplici titulo haereditatis et mercedis, quid mirum de nobis, 
+        <lb ed="#K"/>qui sumus tantum filii adoptivi Dei.
+      </p>
+      <p>
+        <lb ed="#K"/>Urgetur. Vita aeterna vocatur in Scripturis et haereditas qui<lb ed="#K" break="no"/>dem
+        et merces, sed merces improprie haereditas proprie. Respondeo unde tibi hoc?
+        <pb ed="#K" n="149"/>
+        <lb ed="#K"/>Cur non e contrario potius dicis vocari proprie mercedem, improprie haereditatem? 
+        <lb ed="#K"/>Quo pro bas tuum? Deinde si gloria corporis quae Christo data est habuit proprie
+        <lb ed="#K"/>rationem mercedis et haereditatis: cur et non gloria quae nobis datur? Non enim 
+        <lb ed="#K"/>repugnat aliquid proprie esse et haereditatem et proprie mercedem.
+      </p>
+      <p>
+        <lb ed="#K"/>Urgetur. Si ita est ergo feliciores parvuli quam adulti. nam hi suis
+        <lb ed="#K"/>laboribus debent acquirere hoc, quod parvulis liberali donatione con<lb ed="#K" break="no"/>ceditur.
+        Respondeo adulti feliciores sunt duplici de causa: primo quia suo mento adeat 
+        <lb ed="#K"/>haereditatem quod magis est honorificam. Secundo quia quo plura et maiora sunt 
+        <lb ed="#K"/>maiora sunt | illorum merita, eo maiorem haereditatem consequuntur. Hinc oritur magnum
+        <lb ed="#K"/>discrimen inter illos et parvulos, nam parvuli debent esse contenti illo par<lb ed="#K" break="no"/>te
+        haereditatis, quae illis Divina liberalitate obvenit, adulti possunt ad 
+        <lb ed="#K"/>maiorem aspirare, et quo magis crescunt eorum merita, eo maior illis portio 
+        <lb ed="#K"/>de putatur. Iuxta illud prima ad Corinthios 19, unas quisque propriam mercedem
+        <lb ed="#K"/>accipet secundum suem laborem.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur secundo. Ad Roman. 6 Stipendium peccati mors, gratia autem 
+        <lb ed="#K"/>Dei vita aeterna. Hinc apparet mortem aeternam dari propter mala opera,
+        <lb ed="#K"/>vitam autem aeternam mere ex gratia Dei. Quodsi Catholicorum sententia 
+        <lb ed="#K"/>esset vera, debuisset Apostolus sic dicere: stipendium peccati mors stipen<lb ed="#K" break="no"/>dium
+
+        <lb ed="#K"/>bonorum operum vita aeterna. Respondeo Apostolus vitam aeternam vocat gratiam 
+        <lb ed="#K"/>consensu quo vocatur misericordia Psalmo 102. qui coronat te in misericor<lb ed="#K" break="no"/>dia
+        et miserationibus. Quia scilicet datur ex meritis quae fundantur et ha<lb ed="#K" break="no"/>bentur
+        ex gratia et misericordia. Hinc fit ut corona quae illis tribuitur,
+        <lb ed="#K"/>vocari etiam possit corona misericordiae, non quidem respectu ipsorum merito<lb ed="#K" break="no"/>rum, 
+        <lb ed="#K"/>quia illis debetur ex iustitia, secundum Apostolus secunda ad Thimot 4 reposito 
+        <lb ed="#K"/>eo mihi corona iustitiae, quam reddet mihi Domines in illa die iustus 
+        <lb ed="#K"/>Iudex. Sed respectu nostri, quibus ipsa quoque merita ex misericordia con<lb ed="#K" break="no"/>cessa
+        sunt. Ita sentit Divus Augustinus, libro de correctione et gratia
+        <lb ed="#K"/>capite 13. Item libro de gratia et libero arbitrio capite 8 et 9. ubi etiam 
+        <lb ed="#K"/>aperte fatetur Apostolum recte potuisse dicere: stipendium iustitae vita
+        <lb ed="#K"/>aeterna, sicut dixit stipendeum peccati mors. Imo iam hoc antea dixerat 
+        <lb ed="#K"/>Apostolus si non iisdem verbis, saltem eodem sensu ad Roman 2. Reddet unicuique 
+        <lb ed="#K"/>secundum opera sua, iis quidem qui secundum patientiam boni operis gloriam et honorem 
+        <lb ed="#K"/>et incorruptionem, quaerunt, vitam aeternam: iis autem qui sunt ex contentione et
+        <lb ed="#K"/>acquiescunt veritati, iram et indignationem. Id est Deus damnabit
+        <pb ed="#K" n="149-v"/>
+        <lb ed="#K"/>impios propter mala, ita coronabit iustos propter bona opera. 
+        <lb ed="#K"/>Ergo simili modo sicut impiorum stipendium erit mors, ita iustorum stipendium | erit vita aeterna. 
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur tertio. Lucae 17 dicitur. Cum feceritis omnia quae praecepta sunt
+        <lb ed="#K"/>vobis, dicere servi inutiles sumus. Certe si inutiles sumus, quid meremur?
+        <lb ed="#K"/>Respondeo quaerendo. an Christus vocet servos illos inutiles qui servant omnia
+        <lb ed="#K"/>praecepta, an eos qui non servant? Si prius, ergo servi Dei possunt omnia praecep<lb ed="#K" break="no"/>ta
+        servare quod est contra Calvinum. Si posse posterius, nil contra nos concluditur
+        <lb ed="#K"/>fatemur enim eos qui non servant mandata, servos esse inutiles, et non mere<lb ed="#K" break="no"/>ri
+        vitam aeternam. Respondeo secundo. verba Christi adducta possunt habere tri<lb ed="#K" break="no"/>plicem
+        sensum: primo nos ex nobis sumus servi in utiles, quia licet fa<lb ed="#K" break="no"/>ciamus
+        omnia quae praecepta sunt, non tamen nostris viribus, sed gratia Dei
+        <lb ed="#K"/>facimus. Ita explicat Divus Ambrosius libro 8 in Lucam. Secundo nos
+        <lb ed="#K"/>sumus servi inutiles respectu Dei, licet enim omnia praecepta servemus,
+        <lb ed="#K"/>nullam tamen inde utilitatem Deo praestamus, qui bonorum nostrorum non indi<lb ed="#K" break="no"/>get
+        ita exponit Chrisostomus. Tertio nos sumus servi inutiles
+        <lb ed="#K"/>etiamsi omnia praecepta exequamur, quia nisi Deus liberali pacto no<lb ed="#K" break="no"/>biscum
+        convenire voluisset, nullam mercedem ex iustitia potuissemus a Deo
+        <lb ed="#K"/>petere. Ita exponit Divus Augusti Sermone 3 de verbis Domini. Ex
+        <lb ed="#K"/>his sensibus tribus eligant quem volunt adversarii, et facile adver<lb ed="#K" break="no"/>tent
+        se nihil contra merita bonorum operum efficere. Hoc solum <unclear>mirum</unclear>
+        <lb ed="#K"/>cum tam diligenter inquirant testimonia scripturae, quibus voca-|mur
+        <lb ed="#K"/>servi inutiles, nolint scire eundem Christum Dominum dixisse Math. 25.
+        <lb ed="#K"/>Euge serve bone et fidelis, quia supra pauca fecisti fidelis supra
+        <lb ed="#K"/>culta, te constituam, intra, in gaudium Divi, etc.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur quarto. Ad Romanos 8,  non sunt condigne passiones huius tempo<lb ed="#K" break="no"/>ris 
+        ad futuram gloriam. Hinc patet nullam esse proportionem inter nostra opera et vitam
+        <lb ed="#K"/>aeternam. Atqui inter meritum et praemium debet esse proportio, Ergo etc. Respondeo primo
+        <lb ed="#K"/>retorqueo opponendeo scripturae scripturam, secunda ad Thessalonicenses 1<!-- 1:5 -->
+        <lb ed="#K"/>digni habeamini in Regno Dei pro quo et patimini: Respondeo secundo Inter meritum
+        <lb ed="#K"/>et praemium debet esse proportio relationis et causalitatis Concedo. Debet esse
+        <lb ed="#K"/>proportio durationis nego. Si igitur spectetur duratio temporis, nulla est proportio 
+        <lb ed="#K"/>inter opera praesentia et futuram gloriam, nam haec perpetua est, illa momentanea
+        <lb ed="#K"/>sunt. Si vero spectetur gratia aqua praecedunt opera meritoria, iam inter illa
+        <pb ed="#K" n="150"/>
+        <lb ed="#K"/>et gloriam caelestem est proportio, quia gratia est semen gloriae ut loquuntur
+        <lb ed="#K"/>Theologi.
       </p>
       </div>
     </body>
