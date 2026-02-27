@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Controversia</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Controversia 2</title>
+          <date when="2025-12-11">Dec 11, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-12-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="141-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jsjasx-d1e58">
+      <head>Controversia 2</head> 
+      <head type="question-title">An Christus Dominus ita sit mediator inter Deum et hominem ut alii mediatores secundarii adhiberi nequeant? Adeoque sancti non sint invocandi?</head>
+      <p>
+        <lb ed="#K" n="25"/>CONTROVERSIA II
+        <lb ed="#K"/>An Christus Dominus ita sit Mediator 
+        <lb ed="#K"/>inter Deum et hominem ut alii Mediatores 
+        <lb ed="#K"/>secundarii adhiberi nequeant? adeoque Sancti 
+        <lb ed="#K"/>non sint invocandi?
+      </p>
+      <p>
+        <lb ed="#K"/>Praenoto Mediator vocatur ille qui inter aliquos dissidentes aut certe non con<lb ed="#K" break="no"/>iunctos 
+        <pb ed="#K" n="141-v"/>
+        medium se inter ponit ut eos redigat ad concordiam vel novo foedere coniun<lb ed="#K" break="no"/>gat,
+        quae mediatio de qua maxime hic disputamus 4 modis fieri potest. Primo discer<lb ed="#K" break="no"/>nendo
+        et iudicando causam, quomodo arbitri dici possunt mediatores. Et hic 
+        <lb ed="#K"/>primus modus tribuitur Christo a <name>Sancto Ambrosio</name>in <ref>caput 2 primo ad Timotheum</ref>.
+        <lb ed="#K"/>Secundo, referendo hinc <unclear>inde pactae</unclear> et conditiones utriusque paris, quomodo omnes
+        <lb ed="#K"/>internuncii dici possunt mediatores. Et in hac significatione videtur
+        <lb ed="#K"/>accipiendum nomen mediatoris, cum <name>Moyses</name> dicit <ref>Deuteronomii 5</ref> <quote>Ego
+        medius fui inter Deum et vos<!-- 5:5, actually: "Ego sequester et medius fui inter Dominum et vos." --></quote>. Et hic etiam modus Christo convenit,
+        <lb ed="#K"/>qui annunciavit hominibus Dei voluntatem, et leges. Et propterea dicitur ad <ref>Hebr. 9 <!-- 9:15 --></ref>
+        <lb ed="#K"/><quote>mediator novi Testamenti</quote>. Tertio orando et supplicando uni parti pro altera. 
+        <lb ed="#K"/>Sed quoque convenit Christo qui ad <ref>Romanos 8</ref> dicitur <quote>interpellare pro nobis</quote> <!-- 8:34 -->.
+        <lb ed="#K"/>Quarto: soluendo et satisfaciendo uni parti pro altera. Hic modus mediatio<lb ed="#K" break="no"/>nis
+        <unclear>propriissime</unclear> convenit Christo qui in tota Scriptura describitur ut
+        <lb ed="#K"/>Hostia pro peccato. Primi tres modi mediationis communes sunt Christo cum
+        <lb ed="#K"/>aliis. Quartus proprie soli Christo convenit. Unde <ref>prima ad Thimotheum secundo</ref>
+        <lb ed="#K"/>postquam Apostolus dixerat: <quote>unus mediator Dei et hominum, homo Christus
+        <lb ed="#K"/>Iesus</quote><!-- 2:5 -->. Mox addit causam dicens: <quote>qui dedit semetipsum redemptionem
+        <lb ed="#K"/>pro multis</quote><!-- 2:6 -->. Idem etiam <ref>ad Romanos 8</ref>. Et <ref>prima Ioannis 2</ref> ubi Christus
+        <lb ed="#K"/>dicitur <quote>advocatus</quote> et interpellator apud Deum pro nobis. His itaque est
+        <lb ed="#K"/>inter nos et adversarios utrum nomen mediatoris soli Christo compe<lb ed="#K" break="no"/>tat,
+        an etiam potest competere sanctis.
+      </p>
+      <p>
+        <lb ed="#K"/>Praenoto secundo: Haeretici moderni etsi primitus simul negaverunt
+        <lb ed="#K"/>cultum et invocationem sanctorum, modo tamen aliquantum saltem plurimi resi<lb ed="#K" break="no"/>puerunt:
+        et non sic maliciose in sanctos Dei <unclear>debacchabantur</unclear>, adeoque
+        <lb ed="#K"/>concedunt illis cultum debitum exhibendum, sed tamen invocandos sanctos,
+        <lb ed="#K"/>ac pro intercessoribus ac mediatoribus ad Deum adhibendos negant.
+      </p>
+      <p>
+        <lb ed="#K"/>Praenoto tertio: Fidem moderni haeretici affirmant sanctos qui sunt
+        <lb ed="#K"/>adhuc in militante Ecclesia, seu in corpore <unclear>vivunt, posse</unclear> pro nobis
+        <lb ed="#K"/>intercedere ad Deum, et licitum eorum orationes postulare, <unclear>nescis</unclear>
+        <lb ed="#K"/>vero sanctos invocare qui migrarunt ad Patriam caelestem et cum Deo
+        <pb ed="#K" n="142-r"/>
+        <lb ed="#K"/>suo regnant. Quod quam rationabiliter et consequenter docent
+        <lb ed="#K"/>prudens decudicabit et infra patebit.
+      </p>
+      <p>
+        <lb ed="#K"/>Praenoto quarto. Triplicem esse cultum ex communi Ecclesiae et Theologorum
+        <lb ed="#K"/>sensu, Latriae Hyperduliae, et Duliae. Postremum Cultum tribuit Ecclesia
+        <lb ed="#K"/>Catholica Sanctis. Medium cultum tribuit Beatissimae Matri. Primum Cultum
+        <lb ed="#K"/>soli Deo tribuit. Unde nulla creatura potest adorari cultu latriae nisi solus
+        <lb ed="#K"/>et unicus Deus, solis Deus invocandus tanquam supremus rerum omnium
+        <lb ed="#K"/>dominus ac largitor omnium donorum, tum naturae girum gratiae. Adeoque:
+        <lb ed="#K"/>non licet in hoc sensu a sanctis petere, ut nobis tanquam authores
+        <lb ed="#K"/>Divinorum beneficiorum, gloriam vel gratiam aliaque ad beatitudinem media con<lb ed="#K" break="no"/>cedant, 
+        sed ut a Deo nobis id impetrent. Unde si invocantur
+        <lb ed="#K"/>Sancti, etsi quid a Deo nobis impetrant, semper impetrant per merita
+        <lb ed="#K"/>Christi, quod patet ex communi Ecclesiae methodo quae de Sanctis illam
+        <lb ed="#K"/>formam habet, verba gratia Concede nobis Deus intercessione huius sancti hoc
+        <lb ed="#K"/>beneficium etc. Ex his. <unclear>Sit P.I.</unclear>
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum est. Sancti in caelo regnantes tanquam Dei amici,
+        <lb ed="#K"/>Religioso cultu sunt honorandi, et ut nostri apud Deum Intercessores
+        <lb ed="#K"/>invocandi. Ita Sacro Sancta Catholica Ecclesia <!-- this from "Sacro" to "ecclesia" is crossed out; next to it, "Orthodoxi" is written in another hand than that of the normal author -->
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur primo auctoritate scripturae. <ref>Danielis tertio</ref> Azarias ita orat
+        <lb ed="#K"/><quote>non auferas misericordiam tuam a nobis propter Abraham delictum tuum
+        <lb ed="#K"/>et Isaac servum tuum, et Israel Sanctum tuum</quote>. Sanctus Petrus promittit
+        <lb ed="#K"/>quoque post obitum suum pro fidelibus frequenter se oraturum, <ref>secunda Petri primo</ref>
+        <lb ed="#K"/><quote>Dabo autem operam et frequenter habere vos post obitum meum, ut horum
+        <lb ed="#K"/>memoriam faciatis</quote>. <ref>Jeremiae 15</ref> <quote>Dixit Dominus ad me: Si steterit
+        <lb ed="#K"/>Moyses et Samuel coram me, non est anima mea ad populum istum. Ergo Moyses
+        <lb ed="#K"/>et Samuel iam mortui poterant et solebant orare pro populo Judaeorum.</quote>
+        <lb ed="#K"/><ref>Secundo Machabeorum capite ultimo <!-- 2 Macc. 15 --></ref>. Judas in visione quadam vidit Choniam <!-- Onias -->
+        <lb ed="#K"/>Pontificem et Jeremiam prophetam qui, eam obierant orantes pro populo Judaeorum.
+        <lb ed="#K"/><ref>Lucae 16</ref> Epulo orat pro fratribus suis, Ergo multo iusti orant pro Ecclesia.
+        <lb ed="#K"/>Praeterea scripturae aperte docent communionem Ecclesiae triumphantis
+        <lb ed="#K"/>cum militante, ut habetur <ref>ad Hebreos 14</ref>, <ref>ad Galatas 4</ref>, <ref>ad Colosenses 1</ref>,
+        <lb ed="#K"/>Et <ref>ad Ephesios 4</ref> dicitur Christus esse caput supra omnem Ecclesiam utique
+        <pb ed="#K" n="142-v"/>
+        <lb ed="#K"/>supra tam militantem quam triumphantem. At communio ista exi<lb ed="#K" break="no"/>git
+        necessario ut membra pro invicem sint solicita, et invicem se invent,
+        <lb ed="#K"/>haec enim est natura membrorum sub uno capite viventium ut <ref>Apostolus</ref>
+        <lb ed="#K"/>docet <ref>ad Romanos 14</ref>. Et <ref>primum ad Corinthios 12</ref>.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur secundo concedunt adversarii et habetur clare in scripturis
+        <lb ed="#K"/>non solum posse, verum etiam utile ac pium esse invocare homines sanctos 
+        <lb ed="#K"/>interius ad huc degentes. Patet id ex Apostolo <ref>secunda ad Thessalo: tertio</ref>.
+        <quote>Fratres orate pro nobis ut sermo Dei currat</quote>, etc, et <ref>ad Colossenses 4</ref>
+        <lb ed="#K"/><quote>Orationi instate orantes simul etiam pro nobis</quote>. <ref> Romanos 15to</ref>
+        <lb ed="#K"/><quote>Obsecro vos fratres ut adiuvetis me in orationibus pro me ad
+        <lb ed="#K"/>Deum</quote>. Et ipse Deus ad postulandum huiusmodi patrocinium hortatur
+        <lb ed="#K"/><ref>Job 42</ref>. <quote>Ite ad servum meum Job, et offerte holocaustum pro vobis
+        <lb ed="#K"/>Iob autem servus meus orabit pro vobis, faciem eius aspiciam ut non
+        <lb ed="#K"/>invocandos concedunt Adversarii</quote>. Ergo multo magis utile ac pium
+        <lb ed="#K"/>erit invocare sanctos in caelesti gloria cum Christo Regnantes et
+        <lb ed="#K"/>in perfecto illius amore ac favore in aeternum constitutos qui sit
+        <lb ed="#K"/>maiore charitate praedicti, quam antea de sua immortalitate securi, et
+        <lb ed="#K"/>nostra incolumitate solliciti.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur tertio. Quia invocatio sanctorum fuit usurpata in primi
+        <lb ed="#K"/>tua Ecclesia, non primum instituta post tempora Sancti Augustini, ut volunt haere<lb ed="#K"/>tici.
+        Sic <name>Gregorius Nazianzenus</name><ref>Oratione in Cyprianum</ref> in fine hac habet:
+        <lb ed="#K"/><quote>Tu vero nos ab alta propius respice, nostrumque Sermonem ac vitam dirige, et
+        <lb ed="#K"/>sanctum ovile hoc pasce, aut una rege, aut reliqua quantum possibile
+        <lb ed="#K"/>est ad meliora dispone, molestosque, lupos abige, ac sanctae Trinitatis
+        <lb ed="#K"/>cui nunc adstas, splendorem nobis perfectionem et clariorem gra<lb ed="#K"/>tificare,
+        quam adoramus, quam glorificamus</quote>, etc. Item in oratione in
+        <lb ed="#K"/>laudem <name>Basilii Magni</name> in fine: <quote>Tu autem Sacrum ac Divinum caput
+        <lb ed="#K"/>ex alto nos respice, et carnis stimulum instructionem nostram a Deo
+        <lb ed="#K"/>nobis datam, aut tuis siste <unclear>precibus</unclear> aut fortiter me ferre
+        <lb ed="#K"/>persuade, totamque vitam nobis in melius permuta</quote>, etc. <name>Gregorius
+        <lb ed="#K"/>Nissenus</name><ref>in laudem Sancti Theodori Martiris</ref> citra finem haec habet <quote>
+        <pb ed="#K" n="143-r"/>
+        <lb ed="#K"/>multorum beneficiorum indigemus intercede ac deprecare pro patria
+        <lb ed="#K"/>apud communem Regem ac Dominum, timemus afflictiones, expetamus
+        <lb ed="#K"/>pericula non longe absunt scelesti Scythiae ------ 
+        <lb ed="#K"/>et bellum adversum nos parturientes: ut miles pro pugna pro nobis: ut mar<lb ed="#K"/>tir
+        pro conservis utare libertate loquendi</quote>, etc. <unclear>pete macem, ut his publici</unclear> con<lb ed="#K"/>ventus
+        non desinant: ne debacchetur atque grassetur adversus Altaria
+        <lb ed="#K"/>rabiosus et sceleratus barbarus. <ref>Sanctum Ephrem Sermone de Sanctis Mar<lb ed="#K"/>tiribus</ref>:
+        precamur beatissimi martires, qui pro domino salvatore, proque 
+        <lb ed="#K"/>illius charitate sponte tormenta subiistis, atque adeo familiarius
+        <lb ed="#K"/>Deo coniuncti estis, ut pro nobis miseris et peccatoribus et negligen<lb ed="#K"/>tiae
+        Squalore sordenti Dominum interpellare dignemini, etc. <name>Nectarius Consta<lb ed="#K"/>ntinopolitanus</name>
+        <ref>oratione de Sancto Theodoro Martire</ref>: <quote>O splendor martirum
+        <lb ed="#K"/>et decus sanctorum; O vere Dei donum, O custos et invictissime defen<lb ed="#K"/>sor
+        fidelium, ne obliviscaris nostrae paupertatis et humilitatis: sed 
+        <lb ed="#K"/>semper pro nobis intercede</quote>. <name>Chrisostomus</name> <ref>homil. 26 in epistolam
+        <lb ed="#K"/>posteriorem ad Corinth</ref>: <quote>non longe a fine: quin sepulchra servorum
+        <lb ed="#K"/>crucifixi, Regiis aulis sit spendidiora, non aedificiorum amplitudine
+        <lb ed="#K"/>ac splendore, sed quod multo amplius est convenientium studio. Nam 
+        <lb ed="#K"/>et ipse ille purpura indutus peregre proficiscitur sepulcha illa 
+        complexurus et fastu posito, consistit sanctos rogans, ut sibi apud
+        <lb ed="#K"/>Deum patrocinentur. Et Tabernaculorum artificem, (id est Paulum Apostolum)
+        <lb ed="#K"/>ac piscatorem (id est, Petrum) patronos etiam mortuos precatur, ipse Diadema ges<lb ed="#K"/>tans:
+        audebis ne igitur, dic quaeso, horum dominum dicere mortuum, cuius
+        <lb ed="#K"/>famuli etiam mortui huius mundi Regum sunt patroni?</quote> Hi omnes sancti
+        <lb ed="#K"/>et plures caeteri vixerunt multo ante tempora Augustini. Sed quid plura?
+        <lb ed="#K"/>Solius Originis antiquissimi omnium referam circa hoc sensum et verba,
+        <lb ed="#K"/>qui in tractatu, qui inscribitur threni seu planctus, sic orat: incipiam
+        <lb ed="#K"/>me genibus <unclear>prosternere</unclear>, et deprecari universos sanctos, ut mihi non
+        <lb ed="#K"/>audenti petere Deum propter nimietatem peccati succurant. O Sancti
+        <lb ed="#K"/>Dei vos lacrymis et fletu pleno dolore deprecor, ut <unclear>praecidatis</unclear>
+        <lb ed="#K"/>misericordiis eius pro me misere, etc.
+      </p>
+      <p>
+        <pb ed="#K" n="143-v"/>
+        <lb ed="#K"/>Probatur quarto authoritate Conciliorum. Sic <ref>Concilium Chalcedonese sexta<!-- 4th, in fact -->
+        <lb ed="#K"/>synodo generali capite 7</ref>. Item <ref>septima synodo generali actione sexta in fine</ref>:
+        <lb ed="#K"/>cum timore (inquit Synodus) omnia agamus postulantes intercessiones
+        <lb ed="#K"/>incontaminatae Dei <unclear>parae item</unclear> Sanctorum Angelorum omniumque Sanctorum.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur quinto quotidiano experientia quae ex frequentibus beneficiis ac mi<lb ed="#K"/>raculis
+        per sanctorum invocationem omni aevo obtentis manifeste osten<lb ed="#K"/>dit
+        hanc Deo gratam, nobisque per utilem esse. Nam alii sanitatem corporis
+        <lb ed="#K"/>alii donum castitatis alii <unclear>perfectum</unclear> in studiis, alio virtorias de hostibus
+        <lb ed="#K"/>alii alia beneficia per intercessionem sanctorum a Deo petunt et impetrant.
+        <lb ed="#K"/>Qua de re legantur autentici scriptores, Sanctus Gregorius, Theodoretus,
+        <lb ed="#K"/>Ambrosius, Gregorius, in Augustinus et alii plurimi. Imo etiam nostris
+        <lb ed="#K"/>teruntur manibus libri pleni miraculosis effectibus per intercessionem
+        <lb ed="#K"/>Beatissimae matris Sanctorumque <ref>petratis</ref>.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur primo: Invocatio Sanctorum cedit in iniuriam Dei. Ergo
+        <lb ed="#K"/>non est admittenda. Probatur antecedens. Solus Deus vult invocari, iuxta illud <ref>Deutero. 6</ref>.
+        <lb ed="#K"/>Et <ref>Mathei 4</ref>. Dominum Deum adorabis et illi soli servies. Ergo Catho<lb ed="#K"/>lici
+        faciunt iniuriam Deo quando invocant Sanctos. Respondeo primo retorque
+        <lb ed="#K"/>Argumentum. Solus Deus vult invocari iuxta Scripturam Citatam. Ergo 
+        <lb ed="#K"/>adversarii faciunt iniuriam Deo quando invocant Sanctos in hac
+        <lb ed="#K"/>vita existentes. Et Apostolus fecit iniuriam Deo eum scripsit Thessa<lb ed="#K"/>lonicensibus:
+        <quote>fratres orat pro nobis</quote>, et similiter <ref>Iacobus</ref> fecit
+        <lb ed="#K"/>iniuriam Deo, cum Christianos hortatus est orate pro invicem ut salvemini.
+        <lb ed="#K"/>Respondeo secundo. Illa verba Dominum Deum tuum ad orabis et illi soli servies
+        <lb ed="#K"/>sic debent intelligi: non adorabis falsos Deos, sicut gentiles faciunt
+        <lb ed="#K"/>sed unum verum Deum, cui soli tanquam vero Deo Divinum cultum exhibebis.
+        <lb ed="#K"/>Qui sensus clare exprimitur <ref>Exodi <unclear>20<!-- 20:3 --></unclear></ref>. <quote>Non habebis Deos alienos coram
+        <lb ed="#K"/>me non adorabis eos neque coles. Ego sum Dominus Deus tuus.</quote>
+        <lb ed="#K"/>Sicut ergo contra hoc praeceptum non peccant illi qui petunt suffragia
+        <lb ed="#K"/>viventium in terra: ita nec illi qui <unclear>petunt</unclear> suffragia viventium in caelo.
+      </p>
+      <p>
+        <lb ed="#K"/>Et ratio est. Quia neutri adorant eos tanquam Deos, neutri colunt
+        <lb ed="#K"/>illos cultu latriae, sed petunt intercessionem eorum apud verum Deum.
+        <pb ed="#K" n="144-r"/>
+        <lb ed="#K"/>At petere intercessionem apud verum Deum, non est colere aut adorare falsos
+        <lb ed="#K"/>Deos. Sic petere intercessionem <unclear>aulicorum</unclear> apud Imperatorem non est colere
+        <lb ed="#K"/>aulicos tanquam Imperatores, sed tanquam amicos et domesticos Imperatoris.
+      </p>
+      <p>
+        <lb ed="#K"/>Urgetur. Ad Romanos 10 dicitur: quomodo invocabunt in quem
+        <lb ed="#K"/>non crediderunt? Atqui in nullum sanctum credimus Ergo nullus sanctus est
+        <lb ed="#K"/>invocandus. Respondeo retorqueo sicut prima <unclear>procedit</unclear> retorsio. Respondeo secundo Ibi
+        <lb ed="#K"/>scriptura dicit de invocatione qua aliquis invocatur ut Deus et pri<lb ed="#K"/>mus
+        author bonorum. Quemadmodum igitur non fit iniuria sed honor Regibus
+        <lb ed="#K"/>quando eorum amici honorantur et ad eos legati mittuntur: ita nec Deo
+        <lb ed="#K"/>fit iniuria. Porro quod sancti non sunt invocandi tanquam primi autho<lb ed="#K"/>res
+        gratiarum, sed solum tanquam intercessores et impetratores gratiarum,
+        <lb ed="#K"/>iam dictum est in praenotato. Nec nomen invocationis vel fidei in scri<lb ed="#K"/>pturis 
+        super pueros hos, et nomina patrum eorum. Ex quo loco docet Sanctus Augustinus
+        <lb ed="#K"/><ref>libro locutionum de Genesi</ref> invocationem non solum Dei sed etiam hominum esse.
+        <lb ed="#K"/>Et in <ref>Epistola ad Philemonem<!-- 1:5 --></ref>, dicit Apostolus - <quote>gratias ago Deo meo
+        <lb ed="#K"/>audiens charitatem tuam et fidem quam habes in domino Iesu et in omnes sanctos</quote>.
+        <lb ed="#K"/><ref>In quem locum Sanctus Hieronymus</ref>: <quote>ostendit etiam in sanctos habere deberi fidem</quote>.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur secundo. Invocatio sanctorum est iniuriosa Christo. Ergo
+        <lb ed="#K"/>non est admittenda. Probatur antecedens <ref>prima ad Timotheum 2<!-- 2:5 --></ref> dicitur: <quote>unus est mediator
+        <lb ed="#K"/>Dei et hominum homo Christus Iesus</quote>. Ergo invocatio aliorum mediatorum
+        <lb ed="#K"/>est iniuriosa Christo. Firmatur <ref>ad Ephesios 4</ref> per ipsum habemus accessum
+        <lb ed="#K"/>ad patrem. Respondeo primo. retorqueo si est iniuriosa Christo invocatio sanctorum regnan<lb ed="#K"/>tium
+        in caelo propter hanc rationem, etiam erit iniuriosa Christo invocatio Sancto<lb ed="#K"/>rum
+        viventium in terris, quam tamen adversarii admittunt. Respondeo secundo. nego antecedens ad proba<lb ed="#K"/>tionem
+        dico unus est mediator Christus Iesus mediatione quarto modo accepta
+        <lb ed="#K"/><ref>(sicut vidimus in praenoto primo)</ref> concedo, mediatione etiam aliis modis recepta 
+        <lb ed="#K"/>nego. Christus ergo dicitur unicus mediator noster non quam solus est, sed quia
+        <lb ed="#K"/>principalis. Ideo autem est principalis quia per proprium sanguinem rede<lb ed="#K"/>mit
+        nos a servitute Diaboli, et Deo reconciliavit quod nemo alius
+        <lb ed="#K"/>fecit. Sic explicat Apostolus loco citato. Cum enim dixisset: <quote>unus
+        est mediator Dei et hominum homo Christus Iesus</quote>. Mox addit<!-- 2 Tim 2:6 -->: <quote>qui dedit 
+        <pb ed="#K" n="144-v"/>
+        <lb ed="#K"/>redemptionem semetipsum pro omnibus.</quote> Et <ref>prima Petri<!-- 1:18-19 --></ref> <unclear>anio</unclear>
+        <lb ed="#K"/><quote>scientes quod corruptibilibus auro vel argento redempti estis, sed pretioso
+        <lb ed="#K"/>sanguine quasi agni immaculati Christi</quote>. At sancti sunt tantum mediatores
+        <lb ed="#K"/>secundarii, quia postquam a Christo redempti sumus, intercedunt pro nobis ut redem<lb ed="#K"/>ptionis
+        fructum percipiamus. Neque haec intercessio ullo modo obscurat offi<lb ed="#K"/>cium
+        mediatoris Christi. Primo quia intercessio viventium in terris non obscurat
+        <lb ed="#K"/>illud. Ergo nec intercessio sanctorum existentium in caelo. Secundo quia sicut
+        <lb ed="#K"/>nos pro nobis ipsis postumus orare Deum sine iniuria Christi: sic sancti
+        <lb ed="#K"/>nobiscum possunt idem <unclear>praestare</unclear>, adhibentur enim quasi comprecatores, ut nostris
+        <lb ed="#K"/>orationibus suas adiungant. Tertio quia omnem vim intercedendi et impe<lb ed="#K"/>trandi,
+        quam habent aceperunt ex meritis Christi. Unde potius ad honorem 
+        <lb ed="#K"/>ipsius cedit, quod ipse sit principalis mediator, et alii sint secundarii, qui ab
+        <lb ed="#K"/>ipso in omnibus dependeant. Sicut cedit ad honorem Regis, quod alii 
+        <lb ed="#K"/>omnes si quid recte faciunt in Republica, ipsius imperio et authori<lb ed="#K"/>tate 
+        faciant. Deinde Christus unus dicitur mediator non tantum ratione
+        <lb ed="#K"/>officii, quia conciliat Deum homini, sed etiam ratione naturae, quia est medius
+        <lb ed="#K"/>inter Deum et hominem, quia ipse et Deus et homo, quod erat necessarium
+        <lb ed="#K"/>ad reconciliandum hominem Deo. Ita accipiunt fere omnes Sancti Patres
+        <lb ed="#K"/><ref>Chrisostumus</ref>, <ref>Theophilactus</ref>, <ref>Theodoretus</ref>, <ref>Epiphanius</ref>, <ref>Cyrillus</ref>, <ref>Hylarius</ref>,
+        <lb ed="#K"/><ref>Ambrosius</ref>, <ref>Augustinus</ref>, et caeteri. Postremo unicus Christus mediator dicitur
+        <lb ed="#K"/>in quantum ita est mediator, ut ipse nullo mediatore indigeat, nam sancti caete<lb ed="#K"/>ri
+        etsi mediatores sunt inter Deum et nos, quia Deum suis precibus nobis
+        <lb ed="#K"/><unclear>praepicium</unclear> reddunt, tamen et ipsi indiguerunt reconciliari Deo per mediatorem
+        <lb ed="#K"/>Christum, et nunc etiam quidquid nobis impetrant a Deo, per Christum impetrant, 
+        <lb ed="#K"/>Christus autem nec per se nec pro nobis ullo mediatore indiguit vel indiget.
+        <lb ed="#K"/>Sed ut dicitur <ref>ad Hebreos 7<!-- 7:25 --></ref>, <quote>accedit <!-- accedit --> per semetipsum ad Deum</quote>.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur tertio. Invocatio sanctorum est signum diffidentiae in Deum.
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+      
