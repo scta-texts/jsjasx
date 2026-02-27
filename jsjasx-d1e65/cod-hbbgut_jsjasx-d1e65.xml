@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Controversia 3</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Controversia 3</title>
+          <date when="2025-04-03">Feb 3, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="137-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jsjasx-d1e65">
+      <head xml:id="jsjasx-d1e65-Hd1e108">Controversia 3</head> 
+      <head xml:id="jsjasx-d1e65-Hd1e110" type="question-title">An Christus Dominus ita satis fecerit pro peccatis nostris ut nulla satisfactio ex parte nostri requiratur ubi breviter et primo de Bonis Operibus?</head>
+      <p xml:id="jsjasx-d1e65-d1e113">
+        <lb ed="#K" n="11"/>CONTROVERSIA III
+        <lb ed="#K" n="12"/>An Christus Dominus ita satis fecerit pro
+        <lb ed="#K" n="13"/>peccatis nostris ut nulla satisfactio ex par<lb ed="#K" break="no" n="14"/>te
+        nostri requiratur ubi breviter et
+        <lb ed="#K" n="15"/>primo de Bonis Operibus?
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e126">
+        <lb ed="#K" n="16"/>Praenoto Lutherani sic docent quod opera bona non sint necessaria ad salutem,
+        <lb ed="#K" n="17"/>nisi necessitate praesentiae hoc est: bona opera debent poni, quoniam fides non esset
+        <lb ed="#K" n="18"/>sine nec vera nisi fructus bonos faceret, quemadmodum ignis non esset ignis
+        <lb ed="#K" n="19"/>si non calefaceret. Tamen opera bona non habent ullam relationem ad salu<lb ed="#K" break="no" n="20"/>tem, 
+        quasi sint merita causae, conditiones, etc. In quo distingui dicunt fidem
+        <lb ed="#K" n="21"/>ab operibus, quoniam fides habet relationem ad salutem, quia illam appre<lb ed="#K" break="no" n="22"/>hendit,
+        et ideo necessaria dicitur ad salutem. Opera vera nullam omnino
+        <lb ed="#K" n="23"/>relationem habent, et ideo sunt quidem necessaria, sed non ad salutem.
+        <lb ed="#K" n="24"/>E contra Catholica Orthodoxa Ecclesia docet opera bona homini iusto
+        <lb ed="#K" n="25"/>esse necessaria ad salutem, non solum ratione praesentiae: sed etiam efficien<lb ed="#K" break="no" n="26"/>tiae, 
+        quoniam efficiunt salutem, et sine ipsis sola fides non efficit salutem.
+        <lb ed="#K" n="27"/>Intelligitur autem hoc necessarium hominibus usum rationis habentibus, et
+        <lb ed="#K" n="28"/>qui tamdiu post adeptam remissionis gratiam supervivunt, donec
+        <lb ed="#K" n="29"/>occasio implendae legis occurrat; non enim negamus quod infantes,
+        <lb ed="#K" n="30"/>imo etiam ad ultimi recens baptizati salventur absque operibus si con<lb ed="#K" break="no" n="31"/>tinuo 
+        ex hac vita decedant.
+        <pb ed="#K" n="147-v"/>
+        <lb ed="#K" n="1"/>Censentur enim totam legem implere, qui post iustificationem adeptam,
+        <lb ed="#K" n="2"/>legis praecepta non violarunt, et qui charitatem quae est legis plenitudo,
+        <lb ed="#K" n="3"/>saltem habitualiter in corde gerunt. His praenotatis. 
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e172">
+        <lb ed="#K" n="4"/>Dicendum primo. Opera bona et sunt necessaria ad vitam aeternam
+        <lb ed="#K" n="5"/>consequendam. Et sunt meritoria eiusdem. Ita Fides Catholica. 
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e180">
+        <lb ed="#K" n="6"/>Probatur prima pars ex Scripturis: <ref xml:id="jsjasx-d1e65-Rd1e184">Mathei 7<!-- 7:19 --></ref> <quote xml:id="jsjasx-d1e65-Qd1e188" source="http://scta.info/resource/mt7_19@1-12">omnis arbor qui non
+        <lb ed="#K" n="7"/>fert fructum bonum excindetur et in ignem mittetur</quote>. Item <ref xml:id="jsjasx-d1e65-Rd1e193">Mathei 19 <!-- 19:21 --></ref>. <quote xml:id="jsjasx-d1e65-Qd1e197" source="http://scta.info/resource/mt19_17@13-20">Si vis
+        <lb ed="#K" n="8"/>ad vitam ingredi serva mandata</quote>. <ref xml:id="jsjasx-d1e65-Rd1e203">Ad hebreos 10</ref>. <quote xml:id="jsjasx-d1e65-Qd1e205" source="http://scta.info/resource/hebr10_36@1-11">Patientia vobis 
+        <lb ed="#K" n="9"/>necessaria est ut facientes voluntatem Dei reportetis promissiones</quote>. Dum 
+        <lb ed="#K" n="10"/>dicit patientiam esse necessaria, opera bona docet <ref xml:id="jsjasx-d1e65-Rd1e212">Apostolus</ref>, nam patientia
+        <lb ed="#K" n="11"/>opus est quoddam bonum, cum sit a rectus virtutis a fide distinctae, imo <quote xml:id="jsjasx-d1e65-Qd1e216" source="http://scta.info/resource/iac1_4@3-4">opus per<lb ed="#K" break="no" n="12"/>fectum</quote>,
+        iuxta <ref xml:id="jsjasx-d1e65-Rd1e222">Iacobum capite primo</ref><!-- 1:4 -->. Habetur insuper hoc loco patientiam esse
+        <lb ed="#K" n="13"/>necessariam non solum ratione praesentiae, sed etiam ratione relationis ad salutem, 
+        <lb ed="#K" n="14"/>id enim significat illud: ut reportetis promissiones. Nam si tantum necessaria
+        <lb ed="#K" n="15"/>esset ratione praesentiae, satis fuisset dicere: patientia vobis necessaria est. 
+        <lb ed="#K" n="16"/>Sed additur ratio necessitatis et dicitur tu reportetis promissionem per quod
+        <lb ed="#K" n="17"/>significatur relatio aliqua patientiae ad acquisitionem promissionis, id enim vide<lb ed="#K" break="no" n="18"/>mus 
+        in omnibus similibus loquendi formis: cibus est necessarius ut nutria<lb ed="#K" break="no" n="19"/>mur, 
+        vestis ne frigeamus, ubi semper relatio causae alicuius exprimitur.
+        <lb ed="#K" n="20"/><ref xml:id="jsjasx-d1e65-Rd1e241">Secunda Petri secundo<!-- 2 Peter 1:10 --></ref>. <quote xml:id="jsjasx-d1e65-Qd1e245" source="http://scta.info/resource/IIpetr1_10@4-14">Satagite ut per bona opera certam vestram vocationem et electio<lb ed="#K" break="no" n="21"/>nem
+        faciatis</quote>. <ref xml:id="jsjasx-d1e65-Rd1e251">Iacobi secundo<!-- 2:14 --></ref>. <quote xml:id="jsjasx-d1e65-Qd1e259" source="http://scta.info/resource/iac2_14@1-14">quid prodest <!-- proderit --> fratres mei si fidem dicat se quis habe<lb ed="#K" break="no" n="22"/>re 
+        opera autem non habeat?</quote> <ref xml:id="jsjasx-d1e65-Rd1e259">Mathei 5</ref>. <quote xml:id="jsjasx-d1e65-Qd1e261" source="http://scta.info/resource/mt5_20@5-18">nisi abundaverit iustitia vestra plus 
+        <lb ed="#K" n="23"/>quam scribarum et pharizeorum, non intrabitis in Regnum Caelorum</quote>.
+        <lb ed="#K" n="24"/>Has et alias Scripturas conantur adversarii eludere distinctione illa prima
+        <lb ed="#K" n="25"/>adhibita: nempe opera esse necessaria necessitate praesentiae non efficientia.
+        <lb ed="#K" n="26"/>Omnia opera iustorum sunt damnabilia et peccata mortalia secundum Calvinum. 
+        <lb ed="#K" n="27"/>Quomodo ergo fides vina dicetur ab his fructibus qui mortiferi sunt
+        <lb ed="#K" n="28"/>adeoque quomodo necessarii etiam necessitate praesentiae? Deinde constat 
+        <lb ed="#K" n="29"/>ex aliis locis Scripturae opera bona mereri, seu concurrere etiam effective ad
+        <lb ed="#K" n="30"/>salutem, sic <ref xml:id="jsjasx-d1e65-Rd1e282">ad Philippenses secundo</ref>, cum metu et tremore vestram salutem 
+        <lb ed="#K" n="31"/>operamini. <ref xml:id="jsjasx-d1e65-Rd1e286">Secunda ad Corinth: 7<!-- 2 Cor 7:10 --></ref>. <quote xml:id="jsjasx-d1e65-Qd1e290" source="http://scta.info/resource/IIcor7_10@5-16">Tristitia quae est secundum Deum paenitentiam 
+        <lb ed="#K" n="32"/>in salutem stabilem operatur</quote>. Hic clare apparet vis efficientiae, tristi<lb ed="#K" break="no" n="33"/>tia
+        <lb ed="#K" n="34"/>enim vere efficit paenitentiam in homine, id est detestationem
+        <lb ed="#K" n="35"/>peccati, et propositum peccata vitandi: ipsa vero paenitentia vere 
+        <pb ed="#K" n="148"/>
+        <lb ed="#K" n="1"/>efficit stabilem salutem, proinde non est necessaria solum ratione praesentiae, 
+        <lb ed="#K" n="2"/>sed etiam causae. Item <ref xml:id="jsjasx-d1e65-Rd1e308">secunda ad Corinthios 4<!-- 4:17 --></ref>. <quote xml:id="jsjasx-d1e65-Qd1e312" source="http://scta.info/resource/IIcor4_17@1-20">Id quod in praesenti est
+        <lb ed="#K" n="3"/>momentum et level tribulationis nostrae, supra modum in sublimitate aeter<lb ed="#K" break="no" n="4"/>num
+        gloriae pondus operatur in nobis.</quote> Quid apertius dici potuit, si patien<lb ed="#K" break="no" n="5"/>tia 
+        tribulationis operatur pondus aeternae gloriae? quis negare potest, relationem
+        <lb ed="#K" n="6"/>aliquam esse inter patientiam et salutem?
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e325">
+        <lb ed="#K" n="7"/>Probatur secundo eadem pars conclusionis: Deus in Scripturis indicat se
+        <lb ed="#K" n="8"/>velle ut legem servemus. Vel ergo serio vult ut eam servemus? Vel ioco?
+        <lb ed="#K" n="9"/>Si serio vult, serio tenemur eam servare. Si ioco vult, cur serio puniat 
+        <lb ed="#K" n="10"/>transgressores? Et nonne blasphemum est dicere Deum in negotio nostrae sa<lb ed="#K" break="no" n="11"/>lutis 
+        ioco nobiscum agere, aut in actionibus suis levitatem prae se ferre? 
+        <lb ed="#K" n="12"/>Deinde si fides sola saluaret et opera necessaria non essent nisi ratione
+        <lb ed="#K" n="13"/>praesentiae ut fructus et signa fidei, sequeretur fidem salvare posse etiam si
+        <lb ed="#K" n="14"/>careret omni bono opere, et coniuncta esset omnibus vitiis et pecca<lb ed="#K" break="no" n="15"/>tis.
+        Hoc autem est manifeste falsum, et Scripturis ac rationi repugnans, 
+        <lb ed="#K" n="16"/>nam nihil coinquinatum introibit in Regnum Dei. Ergo, etc. Probatur sequela,
+        <lb ed="#K" n="17"/>opera non requiruntur in actu salvandi nisi per accidens iuxta adver<lb ed="#K" break="no" n="18"/>sarios,
+        nullam enim ipsa vim salvandi habent, neque addunt fidei neque tollunt 
+        <lb ed="#K" n="19"/>a fide vim quam habet salvandi, ut adversarii concedunt. Ergo bonis
+        <lb ed="#K" n="20"/>operibus sublatis ad huc fides salvaret. Quemadmodum enim ignis 
+        <lb ed="#K" n="21"/>per calorem calefacit, si tollerentur ab igne omnes aliae qualitates 
+        <lb ed="#K" n="22"/>quae per accidens sint cum calore coniunctae, ad huc sine dubio calefaceret.
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e362">
+        <lb ed="#K" n="23"/>Probatur secunda pars conclusionis ex Scripturis, ubi vita aeterna vocatur merces
+        <lb ed="#K" n="24"/>seu praemium bonorum operum. <ref xml:id="jsjasx-d1e65-Rd1e368">Mathei 5<!-- 5:12 --></ref>. <quote xml:id="jsjasx-d1e65-Qd1e381" source="http://scta.info/resource/mt5_12@1-10">Gaudete et exultate quoniam merces vestra co<lb ed="#K" break="no" n="25"/>piosa 
+        est in caelis</quote>. <ref xml:id="jsjasx-d1e65-Rd1e374">Mathei 20<!-- 10:8 --></ref>. <quote xml:id="jsjasx-d1e65-Qd1e379" source="http://scta.info/resource/mt20_8@11-16">Voca operarios et redde illis mercedem</quote>. <ref xml:id="jsjasx-d1e65-Rd1e381">Math: 25<!-- 25:35 --></ref>: 
+        <lb ed="#K" n="26"/><quote xml:id="jsjasx-d1e65-Qd1e386" source="http://scta.info/resource/mt25_34@10-20 http://scta.info/resource/mt25_35@1-6">Venite benedicti Patris mei possidete paratum vobis regnum a constitutione
+        <lb ed="#K" n="27"/>mundi, esurivi enim et dedistis mihi manducare,</quote> etc. <ref xml:id="jsjasx-d1e65-Rd1e391">ad Romanos 2<!-- 2:6-7 --></ref>, Deus
+        <lb ed="#K" n="28"/><quote xml:id="jsjasx-d1e65-Qd1e396" source="http://scta.info/resource/rom2_6@2-6 http://scta.info/resource/rom2_7@1-15">reddet unicuique secundum opera sua iis quidem, qui secundum patientiam boni operis
+        <lb ed="#K" n="29"/>gloriam et honorem, et incorruptionem quaerunt, vitam aeternam</quote>, etc. <ref xml:id="jsjasx-d1e65-Rd1e402">Prima ad Corinth. 3<!-- 3:8 -->.</ref> 
+        <lb ed="#K" n="30"/><quote xml:id="jsjasx-d1e65-Qd1e408" source="http://scta.info/resource/Icor3_8@9-16">Unusquisque propriam mercedem accipiet secundum suum laborem</quote>. <ref xml:id="jsjasx-d1e65-Rd1e410">Ad Galatas 6</ref>. <quote xml:id="jsjasx-d1e65-Qd1e427" source="http://scta.info/resource/gal6_8@19-28">qui
+        <lb ed="#K" n="31"/>seminat in Spiritu, de spiritu metet vitam aeternam</quote>. <ref xml:id="jsjasx-d1e65-Rd1e414">Secunda ad Corinthios 4<!-- 4:17 --></ref>
+        <lb ed="#K" n="32"/><quote xml:id="jsjasx-d1e65-Qd1e420" source="http://scta.info/resource/IIcor4_17@3-19">Quod in praesenti est momentaneum et leve tribulationis nostrae, aeternum gloriae 
+        <lb ed="#K" n="33"/>pondus operatur</quote>. <ref xml:id="jsjasx-d1e65-Rd1e425">Secunda ad Thimoteum 4<!-- 4:7 --></ref>. <quote xml:id="jsjasx-d1e65-Qd1e429" source="http://scta.info/resource/IItim4_7@1-7">bonum certamen certavi, cursum con<lb ed="#K" break="no" n="34"/>sumavi, 
+        <lb ed="#K" n="35"/>fidem servavi</quote>. In reliquo reposita est mihi corona iustitiae. 
+        <pb ed="#K" n="148-v"/>
+        <lb ed="#K" n="1"/><ref xml:id="jsjasx-d1e65-Rd1e439">Apocalp: 3<!-- 3:4 --></ref>. <quote xml:id="jsjasx-d1e65-Qd1e444" source="http://scta.info/resource/ap3_4@13-19">ambulabunt mecum in albis quia digni sunt</quote>. <ref xml:id="jsjasx-d1e65-Rd1e446">Secunda ad Thessalon. primo<!-- 2 Thess. 1:5 --></ref>
+        <lb ed="#K" n="2"/><quote xml:id="jsjasx-d1e65-Qd1e451" source="http://scta.info/resource/IIth1_5@6-14">Ut digni habeamini Regno Dei pro quo et patimini</quote>. Haec et alia complura
+        <lb ed="#K" n="3"/>testimonia tam clara et aperta sunt, ut nullo modo ab adversariis eludi 
+        <lb ed="#K" n="4"/>possint, nam perspicue tradunt vitam aeternam esse mercedem et coronam, quaedam danda
+        <lb ed="#K" n="5"/>sit iustis intuitu bonorum operum. Unde valde miror Calvinum fuisse tam 
+        <lb ed="#K" n="6"/>impudentem, tu hoc ausus sit negare. 
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e463">
+        <lb ed="#K" n="7"/>Obiicitur primo. Vita aeterna vocatur in Scripturis hereditas. Sed haere<lb ed="#K" break="no" n="8"/>ditas
+        <lb ed="#K" n="9"/>filiis debetur non ex merito et labore sed iure filiationis et adoptionis. 
+        <lb ed="#K" n="10"/>Ergo, etc. Respondeo primo retorqueo, vita aeterna vocatur in scripturis etiam merces,
+        <lb ed="#K" n="11"/>ut ex nostris probationibus constat. Ergo datur intuitu meritorum. Ergo non 
+        <lb ed="#K" n="12"/>solo iure adoptionis. Respondeo secundo. nos non esse filios Dei per naturam, sed per 
+        <lb ed="#K" n="13"/>adoptionem. Deinde alii re ipsa adoptantur ante usum rationis in baptismo
+        <lb ed="#K" n="14"/>ut parvuli. Alii post usum rationis in prima iustificatione ut adulti. 
+        <lb ed="#K" n="15"/>Postremo parvuli qui ante usum rationis adoptantur et moriuntur accipiunt vi<lb ed="#K" break="no" n="16"/>tam
+        aeternam solo titulo hereditatis. Adulti vero qui usu rationis utuntur, 
+        <lb ed="#K" n="17"/>et in adoptione filiorum usque ad mortem perseverant, duplici titulo accipiunt
+        <lb ed="#K" n="18"/>vitam aeternam, altero mercedis altero haereditatis. Hoc indicavit Apostolus 
+        <lb ed="#K" n="19"/><ref xml:id="jsjasx-d1e65-Rd1e492">ad Colosenses 3</ref>. <quote xml:id="jsjasx-d1e65-Qd1e494" source="http://scta.info/resource/col3_23@1-5">quodcumque facitis, ex animo operamini</quote>, sicut domino et 
+        <lb ed="#K" n="20"/>non hominibus, scientes quod a Domino accipietis retributionem hereditatis. 
+        <lb ed="#K" n="21"/>Ut significaret vitam aeternam non solum titulo hereditatis, sed etiam mercedis 
+        <lb ed="#K" n="22"/>seu retributionis conferri adultis. Nec hoc mirum debet esse aut novum est.
+        <lb ed="#K" n="23"/>Primo quia cum non sint per naturam filii, sed per adoptionem, potuit Deus hac 
+        <lb ed="#K" n="24"/>conditione eos adoptare, ut non advenirent haereditatem, nisi obtemperent eius 
+        <lb ed="#K" n="25"/>mandatis, et sic hereditatem promereantur. Secundo quia simile quid Christo 
+        <lb ed="#K" n="26"/>accidit, nam iure haereditatis (supposita unione hypostatica) debebatur 
+        <lb ed="#K" n="27"/>ei gloria omnis, et exaltatio nominis: et tamen suis meritis illam opti<lb ed="#K" break="no" n="28"/>nuit
+        iuxta Apostolum <ref xml:id="jsjasx-d1e65-Rd1e516">ad Philippenses 2<!-- 2:8 --></ref> <quote xml:id="jsjasx-d1e65-Qd1e542" source="http://scta.info/resource/phil2_8@1-11 http://scta.info/resource/phil2_9@1-6">humiliavit semet ipsum factus 
+        <lb ed="#K" n="29"/>obediens usque ad mortem, mortem autem crucis, propter quod et Deus exaltavit eum</quote> etc. 
+        <lb ed="#K" n="30"/>Si ergo Christo qui fuit naturalis filius Dei, data est gloria corporis et exal<lb ed="#K" break="no" n="31"/>tatio
+        duplici titulo haereditatis et mercedis, quid mirum de nobis, 
+        <lb ed="#K" n="32"/>qui sumus tantum filii adoptivi Dei.
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e529">
+        <lb ed="#K" n="33"/>Urgetur. Vita aeterna vocatur in Scripturis et haereditas qui<lb ed="#K" break="no" n="34"/>dem
+        et merces, sed merces improprie haereditas proprie. Respondeo unde tibi hoc?
+        <pb ed="#K" n="149"/>
+        <lb ed="#K" n="1"/>Cur non e contrario potius dicis vocari proprie mercedem, improprie haereditatem? 
+        <lb ed="#K" n="2"/>Quo probas tuum? Deinde si gloria corporis quae Christo data est habuit proprie
+        <lb ed="#K" n="3"/>rationem mercedis et haereditatis: cur et non gloria quae nobis datur? Non enim 
+        <lb ed="#K" n="4"/>repugnat aliquid proprie esse et haereditatem et proprie mercedem.
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e547">
+        <lb ed="#K" n="5"/>Urgetur. Si ita est ergo feliciores parvuli quam adulti. nam hi suis
+        <lb ed="#K" n="6"/>laboribus debent acquirere hoc, quod parvulis liberali donatione con<lb ed="#K" break="no" n="7"/>ceditur.
+        Respondeo adulti feliciores sunt duplici de causa: primo quia suo merito adeant 
+        <lb ed="#K" n="8"/>haereditatem quod magis est honorificum. Secundo quia quo plura et maiora sunt 
+        <lb ed="#K" n="9"/>maiora sunt | illorum merita, eo maiorem haereditatem consequuntur. Hinc oritur magnum
+        <lb ed="#K" n="10"/>discrimen inter illos et parvulos, nam parvuli debent esse contenti illo par<lb ed="#K" break="no" n="11"/>te
+        haereditatis, quae illis Divina liberalitate obvenit, adulti possunt ad 
+        <lb ed="#K" n="12"/>maiorem aspirare, et quo magis crescunt eorum merita, eo maior illis portio 
+        <lb ed="#K" n="13"/>deputatur. Iuxta illud <ref xml:id="jsjasx-d1e65-Rd1e568">prima ad Corinthios 3</ref>, unas quisque propriam mercedem
+        <lb ed="#K" n="14"/>accipiet secundum suum laborem.
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e574">
+        <lb ed="#K" n="15"/>Obiicitur secundo. <ref xml:id="jsjasx-d1e65-Rd1e578">Ad Roman. 6<!-- 6:23 --></ref> <quote xml:id="jsjasx-d1e65-Qd1e582" source="http://scta.info/resource/rom6_23@1-9">Stipendium peccati mors, gratia autem 
+        <lb ed="#K" n="16"/>Dei vita aeterna</quote>. Hinc apparet mortem aeternam dari propter mala opera,
+        <lb ed="#K" n="17"/>vitam autem aeternam mere ex gratia Dei. Quodsi Catholicorum sententia 
+        <lb ed="#K" n="18"/>esset vera, debuisset Apostolus sic dicere: stipendium peccati mors stipen<lb ed="#K" break="no" n="19"/>dium
+
+        <lb ed="#K" n="20"/>bonorum operum vita aeterna. Respondeo <ref xml:id="jsjasx-d1e65-Rd1e596">Apostolus</ref> vitam aeternam vocat gratiam 
+        <lb ed="#K" n="21"/>consensu quo vocatur misericordia <ref xml:id="jsjasx-d1e65-Rd1e600">Psalmo 102</ref>. <quote xml:id="jsjasx-d1e65-Qd1e602" source="http://scta.info/resource/ps102_4@7-13">qui coronat te in misericor<lb ed="#K" break="no" n="22"/>dia
+        et miserationibus</quote>. Quia scilicet datur ex meritis quae fundantur et ha<lb ed="#K" break="no" n="23"/>bentur
+        ex gratia et misericordia. Hinc fit ut corona quae illis tribuitur,
+        <lb ed="#K" n="24"/>vocari etiam possit corona misericordiae, non quidem respectu ipsorum merito<lb ed="#K" break="no" n="25"/>rum, 
+        <lb ed="#K" n="26"/>quia illis debetur ex iustitia, secundum Apostolum <ref xml:id="jsjasx-d1e65-Rd1e616">secunda ad Thimot 4</ref> reposito 
+        <lb ed="#K" n="27"/>est mihi corona iustitiae, quam reddet mihi Dominus in illa die iustus 
+        <lb ed="#K" n="28"/>Iudex. Sed respectu nostri, quibus ipsa quoque merita ex misericordia con<lb ed="#K" break="no" n="29"/>cessa
+        sunt. Ita sentit <name xml:id="jsjasx-d1e65-Nd1e625">Divus Augustinus</name>, <ref xml:id="jsjasx-d1e65-Rd1e627">libro de correctione et gratia
+        <lb ed="#K" n="30"/>capite 13</ref>. Item <ref xml:id="jsjasx-d1e65-Rd1e632">libro de gratia et libero arbitrio capite 8 et 9</ref>. ubi etiam 
+        <lb ed="#K" n="31"/>aperte fatetur Apostolum recte potuisse dicere: stipendium iustitiae vita
+        <lb ed="#K" n="32"/>aeterna, sicut dixit stipendium peccati mors. Imo iam hoc antea dixerat 
+        <lb ed="#K" n="33"/>Apostolus si non iisdem verbis, saltem eodem sensu <ref xml:id="jsjasx-d1e65-Rd1e641">ad Romanos 2</ref>. Reddet unicuique 
+        <lb ed="#K" n="34"/>secundum opera sua, iis quidem qui secundum patientiam boni operis gloriam et honorem 
+        <lb ed="#K" n="35"/>et incorruptionem, quaerunt, vitam aeternam: iis autem qui sunt ex contentione et
+        <lb ed="#K" n="36"/>acquiescunt veritati, iram et indignationem. Id est Deus damnabit
+        <pb ed="#K" n="149-v"/>
+        <lb ed="#K" n="1"/>impios propter mala, ita coronabit iustos propter bona opera. 
+        <lb ed="#K" n="2"/>Ergo simili modo sicut impiorum stipendium erit mors, ita iustorum stipendium | erit vita aeterna. 
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e657">
+        <lb ed="#K" n="3"/>Obiicitur tertio. <ref xml:id="jsjasx-d1e65-Rd1e661">Lucae 17<!-- 17:10 --></ref> dicitur. <quote xml:id="jsjasx-d1e65-Qd1e665" source="http://scta.info/resource/lc17_10@4-14">Cum feceritis omnia quae praecepta sunt
+        <lb ed="#K" n="4"/>vobis, dicere servi inutiles sumus</quote>. Certe si inutiles sumus, quid meremur?
+        <lb ed="#K" n="5"/>Respondeo quaerendo. an Christus vocet servos illos inutiles qui servant omnia
+        <lb ed="#K" n="6"/>praecepta, an eos qui non servant? Si prius, ergo servi Dei possunt omnia praecep<lb ed="#K" break="no" n="7"/>ta
+        servare quod est contra Calvinum. Si posse posterius, nil contra nos concluditur
+        <lb ed="#K" n="8"/>fatemur enim eos qui non servant mandata, servos esse inutiles, et non mere<lb ed="#K" break="no" n="9"/>ri
+        vitam aeternam. Respondeo secundo. verba Christi adducta possunt habere tri<lb ed="#K" break="no" n="10"/>plicem
+        sensum: primo nos ex nobis sumus servi inutiles, quia licet fa<lb ed="#K" break="no" n="11"/>ciamus
+        omnia quae praecepta sunt, non tamen nostris viribus, sed gratia Dei
+        <lb ed="#K" n="12"/>facimus. Ita explicat Divus Ambrosius libro 8 in Lucam. Secundo nos
+        <lb ed="#K" n="13"/>sumus servi inutiles respectu Dei, licet enim omnia praecepta servemus,
+        <lb ed="#K" n="14"/>nullam tamen inde utilitatem Deo praestamus, qui bonorum nostrorum non indi<lb ed="#K" break="no" n="15"/>get
+        ita exponit Chrysostomus. Tertio nos sumus servi inutiles
+        <lb ed="#K" n="16"/>etiamsi omnia praecepta exequamur, quia nisi Deus liberali pacto no<lb ed="#K" break="no" n="17"/>biscum
+        convenire voluisset, nullam mercedem ex iustitia potuissemus a Deo
+        <lb ed="#K" n="18"/>petere. Ita exponit <name xml:id="jsjasx-d1e65-Nd1e701">Divus Augustinus</name> <ref xml:id="jsjasx-d1e65-Rd1e703">Sermone 3 de verbis Domini</ref>. Ex
+        <lb ed="#K" n="19"/>his sensibaus tribus eligant quem volunt adversarii, et facile adver<lb ed="#K" break="no" n="20"/>tent
+        se nihil contra merita bonorum operum efficere. Hoc solum <unclear>mirum</unclear>
+        <lb ed="#K" n="21"/>cum tam diligenter inquirant testimonia scripturae, quibus voca<lb ed="#K" break="no" n="22"/>mur
+        servi inutiles, nolint scire eundem Christum Dominum dixisse <ref xml:id="jsjasx-d1e65-Rd1e716">Math. 25<!-- 25:22 --></ref>.
+        <lb ed="#K" n="23"/><quote xml:id="jsjasx-d1e65-Qd1e721" source="http://scta.info/resource/mt25_21@5-23">Euge serve bone et fidelis, quia supra pauca fuisti fidelis supra
+        <lb ed="#K" n="24"/>multa, te constituam, intra, in gaudium Domini</quote>, etc.
+      </p> 
+      <p xml:id="jsjasx-d1e65-d1e727">
+        <lb ed="#K" n="25"/>Obiicitur quarto. <ref xml:id="jsjasx-d1e65-Rd1e731">Ad Romanos 8<!-- 8:18 --></ref>, <quote xml:id="jsjasx-d1e65-Qd1e735" source="http://scta.info/resource/rom8_18@4-12">non sunt condigne passiones huius tempo<lb ed="#K" break="no" n="26"/>ris 
+        ad futuram gloriam</quote>. Hinc patet nullam esse proportionem inter nostra opera et vitam
+        <lb ed="#K" n="27"/>aeternam. Atqui inter meritum et praemium debet esse proportio, Ergo etc. Respondeo primo
+        <lb ed="#K" n="28"/>retorqueo opponendo scripturae scripturam, <ref xml:id="jsjasx-d1e65-Rd1e745">secunda ad Thessalonicenses 1<!-- 1:5 --></ref>
+        <lb ed="#K" n="29"/><quote xml:id="jsjasx-d1e65-Qd1e750" source="http://scta.info/resource/IIth1_5@7-14">digni habeamini in Regno Dei pro quo et patimini</quote>: Respondeo secundo Inter meritum
+        <lb ed="#K" n="30"/>et praemium debet esse proportio relationis et causalitatis Concedo. Debet esse
+        <lb ed="#K" n="31"/>proportio durationis nego. Si igitur spectetur duratio temporis, nulla est proportio 
+        <lb ed="#K" n="32"/>inter opera praesentia et futuram gloriam, nam haec perpetua est, illa momentanea
+        <lb ed="#K" n="33"/>sunt. Si vero spectetur gratia a qua praecedunt opera meritoria, iam inter illa
+        <pb ed="#K" n="150"/>
+        <lb ed="#K" n="1"/>et gloriam caelestem est proportio, quia gratia est semen gloriae ut loquuntur
+        <lb ed="#K" n="2"/>Theologi. Sicut ergo sufficiens est proportio inter semen et arborem, ita gratiam
+        <lb ed="#K" n="3"/>et gloriam. Quod autem haec proportio sufficiat, licet nulla sit proportio du<lb ed="#K" break="no" n="4"/>rationis:
+        patet ex illo <ref xml:id="jsjasx-d1e65-Rd1e772">secunda ad Corinthios 4</ref><!-- 4:17 -->. <quote xml:id="jsjasx-d1e65-Qd1e775" source="http://scta.info/resource/IIcor4_17@1-20">Id quod in praesenti est momentaneum
+        <lb ed="#K" n="5"/>et leve tribulationis nostrae, aeternum gloriae pondus operatur in nobis.</quote> At
+        <lb ed="#K" n="6"/>quomodo operatur <unclear>proculdubio</unclear> non physice sed meritorie. Haec autem vis merendi
+        <lb ed="#K" n="7"/>est gratia. Potest haec doctrina confirmari a contrario, nam peccata im<lb ed="#K" break="no" n="8"/>piorum
+        transitoria <unclear>sunt</unclear>, at poena quam meruerunt est aeterna. Quare? quia sicut
+        <lb ed="#K" n="9"/>opera bona <unclear>procedunt</unclear> a gratia Dei, ita peccata ex formali vel virtuali con<lb ed="#K" break="no" n="10"/>temptu
+        Dei, hic autem contemptus habet proportionem cum poena aeterna sicut
+        <lb ed="#K" n="11"/>gratia cum gloria aeterna.
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e800">
+        <lb ed="#K" n="12"/>Obiicitur quinto. <ref xml:id="jsjasx-d1e65-Rd1e804">Ad Romanos 3<!-- 3:27 --></ref><quote xml:id="jsjasx-d1e65-Qd1e807">Exclusa est gloriatio tua, per quam
+        <lb ed="#K" n="13"/>legam? factorum? non: sed per legem fidei</quote>. At si fides excludit omnem
+        <lb ed="#K" n="14"/>gloriationem quae ex operibus nascitur, certe excludit omnia merita. Si quis enim
+        <lb ed="#K" n="15"/>vera merita haberet, de illis iure gloriari posset. Respondeo fides excludit
+        <lb ed="#K" n="16"/>gloriationem eorum qui in se gloriantur, quasi suis viribus iustitiam facere
+        <lb ed="#K" n="17"/>possint, et a se habeant, si quid boni habeant. Non autem excludit
+        <lb ed="#K" n="18"/>gloriationem eorum, qui in Deo gloriantur, hoc est qui iustitiam et merita
+        <lb ed="#K" n="19"/>Deo <unclear>iuvante</unclear> se habere posse confidunt, alioquin non diceret <ref xml:id="jsjasx-d1e65-Rd1e827">Apostolus<!-- 2 Cor 10:17 --></ref>:
+        <lb ed="#K" n="20"/><quote xml:id="jsjasx-d1e65-Qd1e833" source="http://scta.info/resource/IIcor10_17@1-6">qui gloriat, in Domino glorietur</quote>.
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e836">
+        <lb ed="#K" n="21"/>Obiicitur sexto. <ref xml:id="jsjasx-d1e65-Rd1e840">Isaiae 55<!-- 55:1 --></ref> <quote xml:id="jsjasx-d1e65-Qd1e844" source="http://scta.info/resource/is55_1@16-26">Venite emite absque argento, et absque ulla
+        <lb ed="#K" n="22"/>commutatione vinum et lac</quote>. Hic offertur nobis vita aeterna sine nostris
+        <lb ed="#K" n="23"/>meritis. Respondeo per vinum et lac non intelligitur hic vita aeterna, sed gratia praesen<lb ed="#K" break="no" n="24"/>tis
+        vitae, ut interpretatur <name xml:id="jsjasx-d1e65-Nd1e854">Divus Hieronymus</name>, et patet ex ipso contextu, qui
+        <lb ed="#K" n="25"/>sic habet: omnes sicientes venite ad aquas, et qui non habetis argentum
+        <lb ed="#K" n="26"/><unclear>properate</unclear>, emite, et comedite Venite, emite absque argento etc simile est
+        <lb ed="#K" n="27"/>illud <ref xml:id="jsjasx-d1e65-Rd1e863">Ioannis 7<!-- 7:37 --></ref>. <quote xml:id="jsjasx-d1e65-Qd1e868" source="http://scta.info/resource/io7_37@12-19">Si quis sitit veniat ad me et bibat.</quote> Ubi certum est Christum
+        <lb ed="#K" n="28"/>loqui de gratia praesentis, non de gloria futurae vitae. Fatemur autem primam
+        <lb ed="#K" n="29"/>gratiam gratis dari sine meritis, quodvis non sine opere et labore <unclear>nostro</unclear>.
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e877">
+        <lb ed="#K" n="30"/>Obiicitur septimo. Omnia opera hominum non sunt bona, sed sunt <unclear>peccaminosa</unclear>.
+        <lb ed="#K" n="31"/>Ergo quomodo possunt esse meritoria vitae aeternae. Probatur antecedens. <ref xml:id="jsjasx-d1e65-Rd1e885">Isaiae 64<!-- 64:6 --></ref>.
+        <lb ed="#K" n="32"/><quote xml:id="jsjasx-d1e65-Qd1e890" source="http://scta.info/resource/is64_6@1-13">Et facti sumus ut immundus omnes nos, et quasi pannus menstruatae univer<lb ed="#K" break="no" n="33"/>sae 
+        iustitiae nostrae.</quote> <ref xml:id="jsjasx-d1e65-Rd1e896">Ecclesiastici 7<!-- 7:21 --></ref> <quote xml:id="jsjasx-d1e65-Qd1e900" source="http://scta.info/resource/qoh7_21@1-13">non est enim homo iustus in terra qui faciat bo<lb ed="#K" break="no" n="34"/>num
+        et non peccet</quote>. Respondeo nego antecedens, ad probationem dico in priori testimonio in quo
+        <pb ed="#K" n="150-v"/>
+        <lb ed="#K" n="1"/>ponunt Calvinistae victoriam, nil est ad rem, primo quia non intelligitur de hominibus
+        <lb ed="#K" n="2"/><unclear>iustis</unclear>, de quibus est nostra quaestio, sed de impiis et sceleratis; nec de omni<lb ed="#K" break="no" n="3"/>bis
+        sed tantum de Iudaeis. Secundo nec de omnibus illorum operibus, sed solum
+        <lb ed="#K" n="4"/>de sacrificiis et neomeniis, in quibus illi maxime iustitiam suam colloca<lb ed="#K" break="no" n="5"/>bant,
+        quae tamen Deus execrabatur, iuxta illud <unclear>Isaiae</unclear> primo non offeratis ultra
+        <lb ed="#K" n="6"/>sacrificium frustra: incensum abominatio est mihi. Secundum textus scripturae
+        <lb ed="#K" n="7"/>dupliciter intelligi <unclear>potest</unclear>: primo nullus est iustus qui faciat aliquod bonum
+        <lb ed="#K" n="8"/>et non semper peccet omnibus suis actibus. Secundo nullus est iustus qui
+        <lb ed="#K" n="9"/>semper faciat bonum, et non aliquando peccet. Prior sensus aperte falsus
+        <lb ed="#K" n="10"/>est ut patet ex dictis. Posterior potest iterum duobus modis accipi: primo: 
+        <lb ed="#K" n="11"/>non est iustus qui semper faciat bonum, et non aliquando peccet mortaliter.
+        <lb ed="#K" n="12"/>Hoc falsum est et contra illud <ref xml:id="jsjasx-d1e65-Rd1e939">prima Ioannis 3<!-- 1 John 3:19 --></ref>. <quote xml:id="jsjasx-d1e65-Qd1e943" source="http://scta.info/resource/Iio3_9@1-9">Omnis qui natus est
+        <lb ed="#K" n="13"/>ex Deo peccatum non facit</quote>. Secundo non est iustus qui semper faciat bonum
+        <lb ed="#K" n="14"/>et non aliquando peccet venialiter. Hoc verum est iuxta illud <ref xml:id="jsjasx-d1e65-Rd1e950">Proverbi 24<!-- 24:16 --></ref>
+        <lb ed="#K" n="15"/><quote xml:id="jsjasx-d1e65-Qd1e955">Septies in die cadit iustus et resurget</quote>.
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e959">
+        <lb ed="#K" n="16"/>Obiicitur octavo. Christus Dominus meruit nobis vitam aeternam. Ergo
+        <lb ed="#K" n="17"/>eam nostris operibus non meremur. Firmatur, quia vel Christi meritum
+        <lb ed="#K" n="18"/>per se sufficit vel non? Si sufficit frustra exiguntur nostra merita. Si non
+        <lb ed="#K" n="19"/>sufficit facimus ei iniuriam. Hoc argumento valde triumphant adversarii, 
+        <lb ed="#K" n="20"/>cum revera nullius sit momenti, putant enim merita nostra opponi
+        <lb ed="#K" n="21"/>meritis Christi, ac proinde quantum laudis tribuitur nostris, tantum detrahitur
+        <lb ed="#K" n="22"/>meritis ipsius. At non ita est. Contra potius res se habet merita nostra
+        <lb ed="#K" n="23"/>nascuntur ex meritis Christi, et omnem vim suam inde accipiunt. Unde quid
+        <lb ed="#K" n="24"/>quid laudis et dignitatis habent, totum redundat in laudem et digni<lb ed="#K" break="no" n="25"/>tatem 
+        meritorum Christi. Hoc optime declarat similitudo quia utitur 
+        <lb ed="#K" n="26"/>Christus <ref xml:id="jsjasx-d1e65-Rd1e985">Ioannis 15<!-- 14:4-6 --></ref>. <quote xml:id="jsjasx-d1e65-Qd1e989" source="http://scta.info/resource/io15_5@1-5 http://scta.info/resource/io15_4@8-27">Ego sum vitis vos palmites: sicut palmes non
+        <lb ed="#K" n="27"/>potest ferre fructum a semet ipso, nisi manserit in vite, sic nec vos, nisi in
+        <lb ed="#K" n="28"/>me manseritis.</quote> Quis dicat detrahi aliquid de gloria vitis, si pal<lb ed="#K" break="no" n="29"/>mites
+        ipsius, multum fructum adferant? nemo sane meritis. Nam quidquid
+        <lb ed="#K" n="30"/>vivi succi et humoris habent palmites hoc totum habent a vite. Unde
+        <lb ed="#K" n="31"/>quo palmites magis fructiferi, eo vitis magis laudanda. Viderunt
+        <lb ed="#K" n="32"/>ergo adversarii quam non recte clament detrahi de gloria Christi, si
+        <pb ed="#K" n="151"/>
+        <lb ed="#K" n="1"/>servi eius fructum faciunt. Quomodo enim fructum faciunt, nisi quia in
+        <lb ed="#K" n="2"/>Christo sunt, et ab eo succum et humorem Divinae gratiae participant. Quid
+        <lb ed="#K" n="3"/>quid ergo laudis est in meritis <unclear>nostris</unclear> totum Christo adscribendum est.
+        <lb ed="#K" n="4"/>Cum autem obiiciunt alterutrum sequi: aut meritum nostrum non requiri: aut
+        <lb ed="#K" n="5"/>si requiritur, meritum Christi non esse sufficiens. Neganda consequentia.
+        <lb ed="#K" n="6"/>Nam ex hoc quod meritum nostrum requiritur, non recte adversarii colligunt,
+        <lb ed="#K" n="7"/>meritum Christi non esse sufficiens, non enim nostrum requiritur propter alterius insuffi<lb ed="#K" break="no" n="8"/>cientiam,
+        sed quia Deus sic ordinavit. Primo hinc colligitur meritum Christi
+        <lb ed="#K" n="9"/>esse efficacissimum, nam non solum nobis ius obtinuit vitae aeternae, sed etiam 
+        <lb ed="#K" n="10"/>vim et virtutem, acquirendi vitam aeternam per propria merita. Et ex eo quod sicut Deus
+        <lb ed="#K" n="11"/>sole utatur, ad mundum illustrandum, igne ad calefaciendum, aura et <unclear>pluviis</unclear>
+        <lb ed="#K" n="12"/>ad refrigerandum, non est in causa imbecillitas Dei quasi non posset ipse per
+        <lb ed="#K" n="13"/>se sine sole et igne et aura, mundum illustrare, calefacere, refrigerare:
+        <lb ed="#K" n="14"/>quin imo omnipotentia Dei inde agnoscitur quia potuit non solum
+        <lb ed="#K" n="15"/>ipse per se ista facere, sed etiam rebus creatis vim faciendi tribuere.
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e1044">
+        <lb ed="#K" n="16"/>Vrgetur. Ergo saltem dividitur gloria inter Deum et hominem,
+        <lb ed="#K" n="17"/>si non solis eius meritis sed etiam nostris salutem assequamur. Respondeo neque id verum
+        <lb ed="#K" n="18"/>est, nam merita nostra dona sunt Christi, et licet in opere bono quod nos Deo iu<lb ed="#K" break="no" n="19"/>vante
+        facimus, nihil sit nostrum quod non sit Dei, neque aliquid sit Dei quod non sit
+        <lb ed="#K" n="20"/>nostrum, sed totum faciat Deus et totum faciat homo: tamen ratio cur id opus
+        <lb ed="#K" n="21"/>sit dignum vita aeterna tota pendet a gratia; Denique nos ipsi non minus
+        <lb ed="#K" n="22"/>Christo sumus obstricti, nec minus salutem nostram totam atque integram illi
+        <lb ed="#K" n="23"/>acceptam referimus, cum illam meritis nostris acquirimus, quam si absque
+        <lb ed="#K" n="24"/>ullis meritis nostris acciperemus illam. Imo multo magis nunc
+        <lb ed="#K" n="25"/>debitores illi nos fatemur, quandoquidem, non solum per eius gratiam salva<lb ed="#K" break="no" n="26"/>mur,
+        sed etiam per eandem nobilissimo modo ac honorificentissimo salum<lb ed="#K" break="no" n="27"/>tem
+        assequimur.
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e1073">
+        <lb ed="#K" n="28"/>His breviter expenditis de necessitate bonorum operum, et illorum merito.
+        <lb ed="#K" n="29"/>Iam <ref xml:id="jsjasx-d1e65-Rd1e1079">ad secundum Controversiae punctum</ref>.
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e1082">
+        <lb ed="#K" n="30"/>Dicendum secundo satisfactio requiritur etiam ex parte nostri, suppo<lb ed="#K" break="no" n="31"/>sita 
+        et admissa Christi Domini pro peccatis nostris satisfactione, quae fuit 
+        <lb ed="#K" n="32"/>abundantissima. Ita fides Orthodoxa Catholica.
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e1091">
+        <lb ed="#K" n="33"/>Haec doctrina Catholica non tam probatione, quam explicatione indiget ratione illius
+        <lb ed="#K" n="34"/>difficultatis quam adversarii obiiciunt: nempe si Christus abundanter satis fecit
+        <pb ed="#K" n="151-v"/>
+        <lb ed="#K" n="1"/>ad quid nostra satisfactio? Dixi non tam opus probatione, clare enim sequitur
+        <lb ed="#K" n="2"/>ex assertione priore, quod si opera bona sunt necessaria utique necessaria et
+        <lb ed="#K" n="3"/>satisfactio quae unum ex praecipuis bonis operibus est maxime supposito reatu culpae:
+        <lb ed="#K" n="4"/>Vel si opera iustorum vim <unclear>habent</unclear> ut vitam aeternam vere et proprio mereantur,
+        <lb ed="#K" n="5"/>nullo modo negari potest, quin etiam efficacia sint pro reatu poenae saltem temporalis.
+        <lb ed="#K" n="6"/>Si quidem longe maius est gloria aeterna, quam poenae temporalis remissio.
+        <lb ed="#K" n="7"/>Nihilominus ut melius et evidentius haec constet veritas confirmare
+        <lb ed="#K" n="8"/>illam saltem breviter placet.
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e1120">
+        <lb ed="#K" n="9"/>Certum est primo. Omnes homines etiam qui ante adventum Christi Domini veniam
+        <lb ed="#K" n="10"/>peccatorum suorum obtinuerunt, id assecutos vi meritorum Christi et satisfactionis
+        <lb ed="#K" n="11"/>ab eo ponendae.
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e1130">
+        <lb ed="#K" n="12"/>Certum secundo. Opera satisfactoria revocari praecipue ad tria: orationem,
+        <lb ed="#K" n="13"/>Ieiunium, Et Eleemosynam. Cur autem haec tria praecipua a Theologis statuuntur
+        <lb ed="#K" n="14"/>duae sunt causae. Prima quia debemus satisfacere per ea bona quae nostra
+        <lb ed="#K" n="15"/>sunt, quoad eius fieri potest. Habemus autem tria genera bonorum: animi quando
+        <lb ed="#K" n="16"/>damus per orationem. Corporis quae Deo damus per <unclear>ieiunia</unclear>. Externa bona
+        <lb ed="#K" n="17"/>quando damus per Eleemosynam. Secunda ratio quia omnia vitia revocan<lb ed="#K" break="no" n="18"/>tur
+        ad illa tria quae Sanctus Ioannes posuit in sua <ref xml:id="jsjasx-d1e65-Rd1e1149">Epistola capite secundo<!-- 2:16 --></ref> <quote xml:id="jsjasx-d1e65-Qd1e1153" source="http://scta.info/resource/Iio2_16@10-15">Concu<lb ed="#K" break="no" n="19"/>piscentia 
+        carnis. Concupiscentia oculorum. Et superbia vitae.</quote> Eleemosyna concupiscentiam oculorum hoc est
+        <lb ed="#K" n="20"/>avaritiam. Oratio superbiam vitae. Revocantur autem ad <unclear>ieiunium</unclear> ea om<lb ed="#K" break="no" n="21"/>na
+        quae corpus affligunt et concupiscentiae carnis <unclear>repugnant</unclear> ut cilicia, lineres,
+        <lb ed="#K" n="22"/>et aliae corporis mortificationes. Revocatur ad Eleemosynam quae <unclear>repugnat</unclear>
+        <lb ed="#K" n="23"/>avaritiae aut certe in propriam utilitatem cedit ut opera omnia misericordiae.
+        <lb ed="#K" n="24"/>Revocantur ad orationem quae Deo proprie exhibentur, ut laudes, gratiarum
+        <lb ed="#K" n="25"/>actiones, actus contritionis, confessionis, etc. His positis, facile scripturis 
+        <lb ed="#K" n="26"/>probatur satisfactio, cum in illis tam frequenter nobis oratio ieiunium
+        <lb ed="#K" n="27"/>et eleemosyna iniungatur. Sed universalius.
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e1183">
+        <lb ed="#K" n="28"/>Probatur haec assertio Catholica ex testimoniis Sacrae Scripturae. <ref xml:id="jsjasx-d1e65-Rd1e1187">Lucae 3<!-- 3:7 --></ref>
+        <lb ed="#K" n="29"/>monemur <quote xml:id="jsjasx-d1e65-Qd1e1193">genimina viperarum</quote> facite fructus dignos paenitentiae. <ref xml:id="jsjasx-d1e65-Rd1e1195">Prover. 16</ref>
+        <lb ed="#K" n="30"/><quote xml:id="jsjasx-d1e65-Qd1e1199" source="http://scta.info/resource/prov16_6@1-5">misericordia et veritate redimitur iniquitas</quote>. An non redemptio aequivalet
+        <lb ed="#K" n="31"/>voci satisfactionis? Si ergo absurdum esset dicere nostris operibus satis
+        <lb ed="#K" n="32"/>fieri pro peccatis, multo esset absurdius dicere nostris operibus redimi pecca<lb ed="#K" break="no" n="33"/>ta.
+        Ergo profecto non est contra scripturam, dum dicimus nostris operibus satis fieri
+        <pb ed="#K" n="152"/>
+        <lb ed="#K" n="1"/>pro peccatis. <ref xml:id="jsjasx-d1e65-Rd1e1212">Tobiae 12</ref> <quote xml:id="jsjasx-d1e65-Qd1e1214">Eleemosyna a morte liberat, purgat peccata, et facit
+        <lb ed="#K" n="2"/>invenire misericordiam Dei.</quote> <ref xml:id="jsjasx-d1e65-Rd1e1219">Ezechielis 18</ref> <quote xml:id="jsjasx-d1e65-Qd1e1221">Si impius egerit paenitentiam,
+        <lb ed="#K" n="3"/>omnium iniquitatum eius non recordabor.</quote> Sanctus etiam Apostolus <ref xml:id="jsjasx-d1e65-Rd1e1226">secunda ad Corinth 7<!-- 7:10 --></ref>
+        <lb ed="#K" n="4"/>Inter alios fructus sanctae <quote xml:id="jsjasx-d1e65-Qd1e1233" source="http://scta.info/resource/IIcor7_10@5-11">tristitiae quae paenitentiam in salutem stabilem operatur</quote>
+        <lb ed="#K" n="5"/>ponit vindictam, adeoque approbat poenas quae vindictae nomine inveniuntur ad pae<lb ed="#K" break="no" n="6"/>nitentiam,
+        vindicta enim ad <unclear>praeteritum</unclear> respicit, et ad iustitiam pertinet, nec aliud est
+        <lb ed="#K" n="7"/>nisi id quod nos dicimus satisfactionem, ideo enim sumit unusquisque de peccatis
+        <lb ed="#K" n="8"/>suis vindictam vel a sacerdote iniunctam admittit, ut iniuria Deo facta ea ra<lb ed="#K" break="no" n="9"/>tione
+        compensetur. Plura hac in re testimonia scripturae recensere im<lb ed="#K" break="no" n="10"/>mensum
+        foret. Unicus pro omnibus stat nobis David, qui et si per Spiritum
+        <lb ed="#K" n="11"/>Sanctum optime nosset messiae venturi (de quo et prophetizabat) satisfactio<lb ed="#K" break="no" n="12"/>nem 
+        pro suis peccatis, imo pro peccatis totius generis humani, fore sufficientissi<lb ed="#K" break="no" n="13"/>mam 
+        et superabundantissimam, nihilominus pro adulterio commisso, tam rigidam egit 
+        <lb ed="#K" n="14"/>paenitentiam, ut de se testatur: rugiebam a gemitu cordis mei. Cinerem tanquam
+        <lb ed="#K" n="15"/>poenam manducabam, et potum meum cum fletu miscebam. Lacrymis meis stratum
+        <lb ed="#K" n="16"/>meum rigabam, etc.
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e1264">
+        <lb ed="#K" n="17"/>Obiicitur primo Solemne illud adversariorum satisfactio Christi est abundantis<lb ed="#K" break="no" n="18"/>sima 
+        et sufficientissima ut docetur <ref xml:id="jsjasx-d1e65-Rd1e1270">ad Romanos 5</ref>. Ad quid ergo nostra exigitur?
+        <lb ed="#K" n="19"/>Respondeo data iam est responsio ad hanc obiectionem supra in hac controversia obiectio<lb ed="#K" break="no" n="20"/>ne
+        ultima ante secundam conclusionem. Hic breviter dico: etsi Christus cumula<lb ed="#K" break="no" n="21"/>tissime
+        <lb ed="#K" n="22"/>satis fecit pro peccatis totius mundi, sed illa satisfactio non <unclear>prodest</unclear> no<lb ed="#K" break="no" n="23"/>bis,
+        nisi applicetur. Debet autem ex Dei dispositione per diversa media
+        <lb ed="#K" n="24"/>applicari, et quidem pro tollenda culpa mortali et reatu poenae aeternae, ap<lb ed="#K" break="no" n="25"/>plicatur
+        adultis partim per sacramenta baptismi et paenitentiae, partim
+        <lb ed="#K" n="26"/>per proprios actus fidei spei, timoris, et contritionis. Infantibus vero per 
+        <lb ed="#K" n="27"/>solum baptismum. Pro tollenda autem poena temporali, per nostram satisfac<lb ed="#K" break="no" n="28"/>tionem,
+        quae tamen vim habet ex meritis et satisfactione Christi, et hoc in<lb ed="#K" break="no" n="29"/>sinuat 
+        Apos: <ref xml:id="jsjasx-d1e65-Rd1e1298">ad Rom 8<!-- 8:17 --></ref> <quote xml:id="jsjasx-d1e65-Qd1e1302" source="http://scta.info/resource/rom8_17@6-17">Heredes quidem Dei coheredes autem Christi si tamen
+        <lb ed="#K" n="30"/>compatimur, ut et conglorificemur.</quote> Iam vero secundum adversarios debuisset
+        <lb ed="#K" n="31"/>Apostolus dicere: Coheredes Christi qui tam cumulate pro nobis passus est, ut non
+        <lb ed="#K" n="32"/>sit necesse nos etiam pati.
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e1313">
+        <lb ed="#K" n="33"/>Obiicitur secundo Scriptura docet <ref xml:id="jsjasx-d1e65-Rd1e1317">ad Romanos 3</ref>. Remissionem pecca<lb ed="#K" break="no" n="34"/>torum
+        esse gratuitam. Ut quid ergo nostra pro peccatis satisfactio? Respondeo gratuita
+        <lb ed="#K" n="35"/>est remissio peccatorum non ex eo sensu quasi vero nulla ex parte nostri satisfac<lb ed="#K" break="no" n="36"/>tio
+        requiratur, sed quia haec ipsa satisfactio fundatur in meritis Christi et
+        <pb ed="#K" n="152-v"/>
+        <lb ed="#K" n="1"/>gratia Dei speciali sine qua nihil boni possumus.
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e1331">
+        <lb ed="#K" n="2"/>Obiicitur tertio. Satisfactio Christi iuxta Catholicos est infinitae vola<lb ed="#K" break="no" n="3"/>ris
+        ac pretii. Ergo omne debitum per illam sublatum est. Ut quid ergo nostra
+        <lb ed="#K" n="4"/>satisfactio. Respondeo satisfactio Christi est infiniti pretii, sed finito modo per
+        <lb ed="#K" n="5"/>varia media nobis applicata est. Alioqui similiter liceret argumentari.
+        <lb ed="#K" n="6"/>Meritum Christi quo nobis <unclear>acquirit</unclear> dona gratiae, et vitam aeternam est infiniti
+        <lb ed="#K" n="7"/>pretii, Ergo non est necesse nos cooperari ad illa dona et vitam aeternam
+        <lb ed="#K" n="8"/>obtinendam. Ut quid ergo quotidie oramus: adveniat Regnum tuum.
+        <lb ed="#K" n="9"/>Ut quid oramus: dimitte nobis debita nostra: ideo scilicet oramus
+        <lb ed="#K" n="10"/>quia oratio est quoddam medium per quod applicatur nobis meritum Christi,
+        <lb ed="#K" n="11"/>similiter ergo nostra satisfactio voluit Apostolus vocat compassionem, est quod<lb ed="#K" break="no" n="12"/>dam 
+        medium, per quod applicatur nobis satisfactio Christi.
+      </p>
+      <p xml:id="jsjasx-d1e65-d1e1360">
+        <lb ed="#K" n="13"/>Obiicitur quarto. Fieret de facto iniuria Christo, si Deus accepta
+        <lb ed="#K" n="14"/>ab illo sufficientissima satisfactione nollet nobis condonare totum
+        <lb ed="#K" n="15"/>debitum, nisi accederet etiam nostra satisfactio. Respondeo Deus Pater accepit
+        <lb ed="#K" n="16"/>quidem sufficientem satisfactionem a Christo pro nobis, sic tamen ut <unclear>dictum</unclear> est,
+        <lb ed="#K" n="17"/>non applicat illam unicuique nostrum, nisi per media ab illo ordinata.
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
