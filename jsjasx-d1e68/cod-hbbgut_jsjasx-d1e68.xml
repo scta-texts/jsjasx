@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Controversia 4</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Controversia 3</title>
+          <date when="2025-04-03">Mar 9, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-03-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="152-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jsjasx-d1e68">
+      <head>Controversia 4</head> 
+      <head type="question-title">An Christus in cruce desperaverit?</head>
+      <p>
+        <lb ed="#K" n="18"/>CONTROVERSIA IV
+        <lb ed="#K"/>An CHristus<!-- sic --> in Cruce desperaverit?
+      </p>
+      <p>
+        <lb ed="#K"/>Praenoto <ref>Calvinus in harmonia Evangelica ad caput 27</ref> scribit:
+        <lb ed="#K"/><quote>Christum vocem desperationis emisissem cum dixit: Deus, Deus, meus ut quid
+        <lb ed="#K"/>dereliquisti me?</quote> et ibidem addit: <quote>videmus Christum ex omni parte sic ve<lb ed="#K"/>xatum
+        fuisse, ut desperatione obrutus, ab invocando Deo absisteret, quod
+        <lb ed="#K"/>erat saluti renunciare.</quote> Rationem alibi assignat; quia Christus
+        <lb ed="#K"/>sustinebat personam omnium nostrum, qui propter peccata, aeternae damna<lb ed="#K"/>tioni
+        eramus obnoxi; ergo debebat persolvere omnes penas, quae
+        <lb ed="#K"/>homini damnato debebantur. Et inter illas penas a despera<lb ed="#K"/>tio
+        Ergo, etc. Sic enim scribit <ref>libro 2 Institutionum capite a 6 paragrapho 10</ref>.
+        <lb ed="#K"/>Ex propheta retulimus fuisse propter scelera nostra a Patre percussum,
+        <lb ed="#K"/>attritum propter nostras infirmitates, quibus significabat, in locum scele<lb ed="#K"/>ratorum,
+        sponsorem, vadem, adeoque instar Rei submissum, qui dependeret
+        <pb ed="#K" n="153-r"/>
+        <lb ed="#K"/>ac persolveret omnes, quae ab illis ex petende erant poenas, uno 
+        <lb ed="#K"/>hoc duntaxat excepto, quod doloribus mortis non poterat de timeri.
+        <lb ed="#K"/>Et <ref>ibidem paragrapho <unclear>11</unclear></ref> manu Dei percussus et afflictus, omnia ira<lb ed="#K"/>ti
+        et punientis Dei signa expertus est. Si omnia certe etiam desperatio<lb ed="#K"/>nem 
+        expertus est. Et in <ref>parvo Cathachismo</ref> proponit hanc quaestionem:
+        <lb ed="#K"/><quote>quomodo autem fieri potest, ut Iesus Christus qui est salus mundi, in tali 
+        <lb ed="#K"/>fuerit damnatione?</quote> Et respondit: <quote>non in ea fuit, ut in ea permane<lb ed="#K"/>ret.</quote>
+        <lb ed="#K"/>Hoc est quod supra asserebat Christum sustinuisse mones poenas 
+        <lb ed="#K"/>damnatorum, uno hoc excepto, quod doloribus mortis non poterat detineri. 
+        <lb ed="#K"/>Idem docet <name>Beza</name> Calvini discipulus annotatione in <ref>caput 17 Matthei</ref> 
+        <lb ed="#K"/><quote>Iesus in inferorum gurgitem immersus <unclear>eriulat</unclear></quote>. Sed contra.
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
