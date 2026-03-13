@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Controversia 4</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Controversia 3</title>
+          <date when="2025-04-03">Mar 9, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-03-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="152-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jsjasx-d1e68">
+      <head>Controversia 4</head> 
+      <head type="question-title">An Christus in cruce desperaverit?</head>
+      <p>
+        <lb ed="#K" n="18"/>CONTROVERSIA IV
+        <lb ed="#K"/>An CHristus<!-- sic --> in Cruce desperaverit?
+      </p>
+      <p>
+        <lb ed="#K"/>Praenoto <ref>Calvinus in harmonia Evangelica ad caput 27</ref> scribit:
+        <lb ed="#K"/><quote>Christum vocem desperationis emisissem cum dixit: Deus, Deus, meus ut quid
+        <lb ed="#K"/>dereliquisti me?</quote> et ibidem addit: <quote>videmus Christum ex omni parte sic ve<lb ed="#K"/>xatum
+        fuisse, ut desperatione obrutus, ab invocando Deo absisteret, quod
+        <lb ed="#K"/>erat saluti renunciare.</quote> Rationem alibi assignat; quia Christus
+        <lb ed="#K"/>sustinebat personam omnium nostrum, qui propter peccata, aeternae damna<lb ed="#K"/>tioni
+        eramus obnoxi; ergo debebat persolvere omnes poenas, quae
+        <lb ed="#K"/>homini damnato debebantur. Et inter illas poenas a despera<lb ed="#K"/>tio
+        Ergo, etc. Sic enim scribit <ref>libro 2 Institutionum capite a 6 paragrapho 10</ref>.
+        <lb ed="#K"/>Ex propheta retulimus fuisse propter scelera nostra a Patre percussum,
+        <lb ed="#K"/>attritum propter nostras infirmitates, quibus significabat, in locum scele<lb ed="#K"/>ratorum,
+        sponsorem, vadem, adeoque instar Rei submissum, qui dependeret
+        <pb ed="#K" n="153-r"/>
+        <lb ed="#K"/>ac persolveret omnes, quae ab illis expetende erant poenas, uno 
+        <lb ed="#K"/>hoc duntaxat excepto, quod doloribus mortis non poterat de timeri.
+        <lb ed="#K"/>Et <ref>ibidem paragrapho <unclear>11</unclear></ref> manu Dei percussus et afflictus, omnia ira<lb ed="#K"/>ti
+        et punientis Dei signa expertus est. Si omnia certe etiam desperatio<lb ed="#K"/>nem 
+        expertus est. Et in <ref>parvo Cathachismo</ref> proponit hanc quaestionem:
+        <lb ed="#K"/><quote>quomodo autem fieri potest, ut Iesus Christus qui est salus mundi, in tali 
+        <lb ed="#K"/>fuerit damnatione?</quote> Et respondit: <quote>non in ea fuit, ut in ea permane<lb ed="#K"/>ret.</quote>
+        <lb ed="#K"/>Hoc est quod supra asserebat Christum sustinuisse mones poenas 
+        <lb ed="#K"/>damnatorum, uno hoc excepto, quod doloribus mortis non poterat detineri. 
+        <lb ed="#K"/>Idem docet <name>Beza</name> Calvini discipulus annotatione in <ref>caput 17 Matthei</ref> 
+        <lb ed="#K"/><quote>Iesus in inferorum gurgitem immersus <unclear>eiulat</unclear></quote>. Sed contra.
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum est. Mera est blasphemia et insania dicere
+        <lb ed="#K"/>et asserere desperationem Christi in cruce. Ita Sancta fides Orthodoxa.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur quia generatim loquendo falsum est Christum omnes poenas
+        <lb ed="#K"/>damnatorum sustinuisse. Nam praecipua poena damnatorum est poena
+        <lb ed="#K"/>damni, quam vocant, id est carentia seu privatio aeternae beatitudi<lb ed="#K"/>nis,
+        seu visionis beatificae. Sicut enim beati in caelo clare vident
+        <lb ed="#K"/>Divinam essentiam, in qua visione consistit aeterna beatitudo: ita dam<lb ed="#K"/>nati 
+        in inferno privantur illa visione, et in hac privatione consis<lb ed="#K"/>tit
+        poena damni, est enim ingens damnum privari aeterna beatitudi<lb ed="#K"/>ne.
+        At Christus nec in morte, nec post mortem privatus fuit clara 
+        <lb ed="#K"/>Dei visione: Ergo non sustinuit hanc poenam damni. Minor probatur:
+        <lb ed="#K"/>quia constat eum fuisse beatum ante passionem cum dixit <ref>Ioannis 14<!-- 14:23 --></ref>.
+        <lb ed="#K"/><quote>Si quis mihi ministrat, me sequatur et ubi ego sum, illic et minister
+        <lb ed="#K"/>meus erit.</quote> Et <ref>capite 17<!-- 17:24 --></ref>. <quote>Pater quos dedisti mihi, volo ut ubi ego 
+        <lb ed="#K"/>sum, et illi sint mecum, ut videant claritatem meam, quam dedisti mihi</quote> 
+        <lb ed="#K"/>Quid hoc est: ubi sum ego? Id est in statu beatitudinis. Igitur sensus est: opto 
+        <lb ed="#K"/>ut mei ministri si perseveraverint, veniant ad illum statum beatitudinis,
+        <lb ed="#K"/>in quo ego nunc sum. At status beatitudinis est immutabilis. Ergo si Christus
+        <lb ed="#K"/>ante passionem fuit in illo statu, semper in eo mansit. Ergo non est expertus
+        <lb ed="#K"/>poenam damni, et consequenter, neque omnes damnatorum poenas.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur secundo: Christus fuit impeccabilis. Ergo desperationis peccatum committere <unclear>non</unclear>
+        <lb ed="#K"/>potuit. Antecedens patet tum ex <ref>disputatione <unclear>9</unclear> de Incarnationis</ref>. Tum ex scriptura
+        <pb ed="#K" n="153-v"/>
+        <lb ed="#K"/><ref>Isaiae 53</ref> et <ref>1 Petri 2do</ref> dicitur de Christo quod non fecerit iniquitatem,
+        <lb ed="#K"/>nec inventus est dolus in ore eius. <ref>Ioannis 8<!-- 8:46 --></ref>, <quote>quis ex vobis arguet mea
+        <lb ed="#K"/>de peccato</quote>. <ref>Ad hebreos 4<!-- 4:15 --></ref> <quote>temptatus per omnia pro similitudine absque peccato</quote>.
+        <lb ed="#K"/><ref>Ad hebreos 7<!-- 7:26 --></ref> <quote>talis enim decebat ut nobis esset Pontifex, Sanctus, Innocens,
+        <lb ed="#K"/>impollutus, segregatus, a peccatoribus</quote>.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur tertio. Christus erat in statu beatitudinis et in clara Dei visione
+        <lb ed="#K"/>ab instanti conceptionis per totum tempus vitae suae. Ergo peccasse non
+        <lb ed="#K"/>potuit antecedens patet tum ex probatione prima, tum ex scriptura <ref>Ioannis 1<!-- 1:14 --></ref>
+        <lb ed="#K"/><quote>Vidimus gloriam eius, gloriam quasi unigeniti a Patre, plenum gratiae et veri<lb ed="#K"/>tatis.</quote>
+        <ref>1 ad Corinthios 11<!-- actually John 1:18 --></ref>. <quote>Deum nemo vidit unquam: unigenitus
+        <lb ed="#K"/>filius qui est in sinu Patris ipse enarravit</quote>. <ref>Ioannis 17<!-- 17:24 --></ref>: <quote>Pater quos
+        <lb ed="#K"/>dedisti mihi volo ut ubi sum ego, (id est in statu beatitudinis) et illi
+        <lb ed="#K"/>sint mecum, ut videant claritate meam quam dedisti mihi</quote>. Conse<lb ed="#K"/>quentia
+        patet quia status beatificus excludit omne peccatum.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur quarto. Si Christus in cruce per quam redempti sumus desperavit,
+        <lb ed="#K"/>sequitur nos per detestabile Redemptoris peccatum a peccato esse 
+        <lb ed="#K"/>solutos atque redemptos, sequela est absurda. Ergo et hoc ex quos sequitur.
+        <lb ed="#K"/>Probatur autem sequela quia nulli dubium est quod gestis in Cruce Sacra 
+        <lb ed="#K"/>pagina adscribat pretium redemptionis nostrae. Sic <ref>ad Ephesios secundo<!-- 2:6 --></ref>.
+        <lb ed="#K"/><quote>Reconciliet (id est Christus) ambos in uno corpore Deo per crucem</quote>. <ref>Ad Colos<lb ed="#K"/>senses secundo<!-- 2:14 --></ref>. 
+        <quote>Delens quod adversus nos erat chirographum decreti
+        <lb ed="#K"/>quod erat contrarium nobis; et ipsum tulit de medio affigens illud cruci</quote>.
+        <lb ed="#K"/><ref>Ad Philippenses secundo<!-- 2:8 --></ref>. <quote>humiliavit semet ipsum factus obediens usque
+        <lb ed="#K"/>ad mortem, mortem autem Crucis</quote>. <ref>1 Petri secundo<!-- 2:14 --></ref>. <quote>qui peccata nostra 
+        <lb ed="#K"/>ipse pertulit in Corpore suo super lignum</quote>.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur quinto ab ipsa enormitate illius peccati. Nam desperatio
+        <lb ed="#K"/>est qua vel Divina misericordia in condonandis peccatis, vel beni<lb ed="#K"/>gnitas 
+        in convertendis peccatoribus, vel veritas promissionis in con<lb ed="#K"/>sequenda
+        beatitudine propter aestimatam adipiscendi impossibilitatem,
+        <lb ed="#K"/>abdicatur. Hoc peccatum omnium scelerum est compendium tamque grave
+        <lb ed="#K"/>est in scripturis contra Spiritum Sanctum ut <ref>Matthei 12<!-- 12:32 --></ref> dictatur de illo
+        <lb ed="#K"/>quod <quote>non remittetur, neque in hoc saeculo neque in futuro</quote>. Ideoque dicitur
+        <lb ed="#K"/>insanabile <ref>Ieremiae 15<!-- 15:18 --></ref>. <quote>quare facta est plaga mea incurabilis</quote>.
+        <lb ed="#K"/>Ergo quomodo tanta peccati enormitas cum sanctitate summa
+        <lb ed="#K"/>Christi est compossibilis?
+      </p>
+      <p>
+        <pb ed="#K" n="154-r"/>
+        <lb ed="#K"/>Obiicitur primo Christus clamat in cruce Deus, Deus meus ut quid
+        <lb ed="#K"/>dereliquisti me. Et <ref>Psalmo 21<!-- 21:2 --></ref>. <quote>Deus, Deus meus respice in me, quare me dere<lb ed="#K"/>liquisti.</quote>
+        Respondeo primo Utique Christi humanitas non fuit etiam tempore passionis
+        <lb ed="#K"/>a divinitate relicta, quantam ad unionis hypostaticae vinculum nam
+        <lb ed="#K"/><ref>Divus Damascenus libro 3 de fide capite 27</ref> loquitur <quote>Verbum quod semel
+        <lb ed="#K"/>assumpsit nunquam dimisit</quote>. Nec fuit derelicta quantum est ad gratiam,
+        <lb ed="#K"/>sanctitatem, et reliqua a Spiritu Sancto infusa dona ut loquitur <ref>Isaias
+        <lb ed="#K"/>capite 11<!-- 11:2 --></ref>. <quote>Requiescet super eum Spiritus domini</quote>. Respondeo secundo Verba
+        <lb ed="#K"/>illa a Christo in Cruce <unclear>prolata</unclear> nec speciem desperationis habuere, patet
+        <lb ed="#K"/>hoc ex sequenti mox commendatione: <quote>Pater in manus tuas commen<lb ed="#K"/>do
+        Spiritum meum</quote>. Quam utique ad eum vel ut animae suae depositarium,
+        <lb ed="#K"/>non direxisset, si desperasset. Deinde patet vel hinc illas voces
+        <lb ed="#K"/>non fuisse desperatorias siquidem ingeminabat Deus, quae ingemi<lb ed="#K"/>natio
+        certe est deliberata, temperata, placida, religiosa, Divina,
+        <lb ed="#K"/>plenaeque in Deum adiutorem fiduciae. Respondeo tertio Clamare salvator
+        <lb ed="#K"/>voluit, non tanquam desperans, exitio damnationis devotus aut
+        <lb ed="#K"/>in inferorum gurgitem immersus, ut mentitur <ref>Beza</ref>, <ref>Calvinus</ref>;
+        <lb ed="#K"/>verum ut humanae naturae (de cuius integritate est pars sensitiva)
+        <lb ed="#K"/>confirmet veritatem, diserteque testetur, se horribilia tormenta 
+        <lb ed="#K"/>et mortem ipsam non propria sed aliena pati culpa. Unde ait: quare.
+        <lb ed="#K"/>Veluti si dicat: non commisi culpam tantis poenis expiandam, homi<lb ed="#K"/>num 
+        sunt peccata, quae quasi mea forent, decrevi expianda.
+        <lb ed="#K"/><unclear>Adducuntur hanc</unclear> in re <ref>Divus Cyrillus libro Thesauri capite 3</ref>. <quote>Opus erat certe
+        <lb ed="#K"/>ad fidem nostram etiam in ipso passionis tempore, verum se hominem esse osten<lb ed="#K"/>dere</quote>. 
+        Ideo ne quis dubitare posset, ut homo clamabat: Deus meus
+        <lb ed="#K"/>Deus meus cur me dereliquisti.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur secundo Christus omnium nostrum personam gerebat, atque ad Patris
+        <lb ed="#K"/>tribunal ratione humani generis peccatorum reum se sistebat ac persolvere
+        <lb ed="#K"/>debebat omnes, quae a nobis in tartaro expetendae erant poenas. Atqui
+        <lb ed="#K"/>inter reliquas damnatorum poenas est desperatio et aeternae salutis
+        <lb ed="#K"/>renuntiatio iuncta timori et horrori. Ergo eam Christus subisse
+        <lb ed="#K"/>debuit. Respondeo iam dixi in probatione conclusionis falsum esse quod Christus 
+        <lb ed="#K"/>omnes poenas damnatorum sustinuit. Nam praecipua poena damnatorum
+        <pb ed="#K" n="154-v"/>
+        <lb ed="#K"/>est poena damni; id est carentia seu privatio aeternae beatitudinis
+        <lb ed="#K"/>seu visionis beatificae. Et tamen Christus visionem beatificam a primo
+        <lb ed="#K"/>conceptionis instanti, in <unclear>inamissibiliter</unclear> habuit. Unde nec debuit
+        <lb ed="#K"/>nec potuit omnes peccatorum poenas tolerare.
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
