@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Controversia 3</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Controversia 5</title>
+          <date when="2025-04-03">Mar 18, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-03-18" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="154-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jsjasx-d1e72">
+      <head>Controversia 5</head> 
+      <head type="question-title">An Christus pro omnibus sit mortuus an vero pro solis praedestinatis?</head>
+      <p>
+        <lb ed="#K" n="5"/>CONTROVERSIA V
+        <lb ed="#K"/>An Christus pro omnibus sit mortuus 
+        <lb ed="#K"/>an vero pro solis Praedestinatis?
+      </p>
+      <p>
+        <lb ed="#K"/>Praenoto <ref><name>Calvinus</name></ref> docet quod Christus pro solis praedestinatis mortuus est, et quod meri<lb ed="#K"/>ta
+        Christi solis praedestinatis <unclear>pro sunt</unclear>, non etiam <unclear>repbis</unclear>. Docet denique quod solis praedesti<lb ed="#K"/>natis
+        non <unclear>reprobatis</unclear> deus largitur fidem et gratiam ex meritis Christi. Ratio Calvinus est,
+        <lb ed="#K"/>quia Deus ab aeterno voluit solos praedestinatos admittere ad vitam aeternam: reli<lb ed="#K"/>quos 
+        autem omnes ad iram et contumeliam destinavit. Sic enim scribit <ref>libro tertio
+        <lb ed="#K"/>Institutionum capite 24 paragrapho 10</ref> <quote>Si omnes vellet salvos, custodem illis
+        <lb ed="#K"/><unclear>proficeret</unclear> filium, et omnes in eius corpus sacro fidei vinculo insereret</quote>.
+        <lb ed="#K"/>Nunc constat singulare esse Paterni amoris pignus, filios, quod adopta<lb ed="#K"/>vit,
+        reconditum. Et <ref>ibidem capite 29</ref>. <quote>Cur ergo gratiam illis largiendo hos 
+        <lb ed="#K"/><unclear>praetermittit</unclear>?</quote> De aliis rationem <ref>Lucas</ref>, quia ad vitam sunt ordinati.
+        <lb ed="#K"/>De aliis ergo suid sentimus? nisi quia sunt vasa irae ad contumeliam. Sed Contra.
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum est. Mors merita et beneficia Christi in omnes redun<lb ed="#K"/>dant, 
+        et omnibus sunt communia. Ita Sancta Ecclesia Orthodoxa Catholica.
+        <lb ed="#K"/>Probatur ex Sacra Scriptura <ref>2 ad Corinthios 5</ref>. <quote>pro omnibus mortuus est Christus</quote>.
+        <lb ed="#K"/><ref>Prima ad Thimoth 2</ref> <quote>qui dedit redemptionem semet ipsum pro omnibus</quote>. 
+        <lb ed="#K"/><ref>Prima Ioannis secundo<!-- John 2:2 --></ref>. <quote>Ipse est propiciatio pro peccatis nostris, non autem pro nostris
+        <lb ed="#K"/>tantum, sed etiam pro totius mundi</quote>. <ref>Ioannis 1</ref>. <quote>illuminat omnem hominem
+        <lb ed="#K"/>venientem in hunc mundum</quote>. Hinc <ref>Divus Ambrosius Sermone 8 in psa 118</ref>:
+        <lb ed="#K"/><quote>Sol iustitiae omnibus ortus, omnibus venit, omnibus passus est, et om<lb ed="#K"/>nibus
+        surrexit</quote>. Et <ref>Clemens Alexandrinus in oratione ad Gentes</ref>:
+        <lb ed="#K"/><quote>audite qui estis longe, qui estis <unclear>prope</unclear>, nullis celatum est verbum, lux est com<lb ed="#K"/>munis,
+        omnibus illucescit hominibus, nullus est in verbo Cimmerius</quote>.
+        <lb ed="#K"/><ref>Prima ad Timotheum secundo</ref>. <quote>Deus vult omnes humanes salvos fieri et ad
+        <lb ed="#K"/>agnitionem veritatis venire</quote>. <ref>Secunda Petri tertio</ref> <quote>non vult aliquos perire
+
+        <lb ed="#K"/>sed omnes ad paenitentiam revertit</quote>. Probatur secundo. Quicunque
+        <lb ed="#K"/>a Deo <unclear>excitantur</unclear> ad fidem aut poenitentium, per gratiam poenientem, sine dubio
+        <lb ed="#K"/>percipiunt donum aliquod gratiae a Deo. Sed non soli praedestinati, verum etiam re<lb ed="#K"/>probati
+        hoc modo saepe excitantur. Ergo saepe percipiunt aliquod donum gratiae
+        <lb ed="#K"/>a Deo. Minor probatur. quia Christus <unclear>promiscere</unclear> omnes vocat et envitat <ref>Math 11</ref>,
+        <lb ed="#K"/><quote>Vinete ad me omnes qui laboratis et tribulati estis, et ego reficiam vos</quote>.
+        <lb ed="#K"/><ref>Mathei 20</ref>. <quote>Multi vocati pauci electi</quote>. <ref>Mathei 16</ref>. <quote>Euntes in mundum
+        <lb ed="#K"/>universum praedicate Evangelium omni creaturae</quote>. <ref>Apocalypseos 3</ref>. <quote>Ego 
+        <lb ed="#K"/><unclear>sto</unclear> ad ostium et pulso, si quis audienti vocem meam, et aperuent mihi
+        <lb ed="#K"/>ianuam, intrabo ad illum et caenabo cum illo</quote>.
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
