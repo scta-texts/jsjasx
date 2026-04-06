@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Controversia 6</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Controversia 6</title>
+          <date when="2025-04-06">April 6, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-04-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="156-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jsjasx-d1e80">
+      <head>Controversia 6</head> 
+      <head type="question-title">An Christus vere descenderit ad inferos?</head>
+      <p>
+        <lb ed="#K" n="25"/>CONTROVERSIA VI
+        <lb ed="#K"/>An Christus vere descenderit ad inferos?
+      </p>
+      <p>
+        <lb ed="#K"/>Praenoto. Doctrinam hac in re a <name>Calvino</name> conscriptam, nolo hic tanquam faeti<lb ed="#K"/>dam
+        cloacam, ne gravius sordeat movere: si quem curiositas invaserit, remitto
+        <lb ed="#K"/>ad ipsius <ref>Cathechismum Heidelbergensem</ref>, qui apud plerosque Calvinistas
+        <lb ed="#K"/>parem cum scriptura authoritatem habet. Videat ibi curiosus lector
+        <lb ed="#K"/><ref>quaestione 44</ref>, quae absurda et ridicula ab illo docentur.
+        <pb ed="#K" n="157-r"/>
+        <lb ed="#K"/>Idem docetur <ref>libro secundo Institutionum capite 16 paragrapho 10, 11, et 12</ref>. 
+        <lb ed="#K"/>Hic solum breviter ex ipsius prolixiori doctrina, tres errores eruo.
+        <lb ed="#K"/>Primus est. Descendere Christum ad inferos, nihil aliud est, quam perpeti
+        <lb ed="#K"/>poenus et cruciatus damnatorum. Sed contra.
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum primo. Hae merissima est blasphemia <name>Calvini</name> contra scriptu<lb ed="#K"/>ras 
+        et Patres, qui descensum Christi proprie interpretantur, asserentes illum
+        <lb ed="#K"/>descendisse ad loca subterranea, ubi animae veterum detinebantur.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur primo authoritate scripturae: <ref>Matthei 12<!-- 12:40 --></ref> sicut fuit Ionas
+        <lb ed="#K"/>in ventre ceti tribus diebus et tribus noctibus, sic erit filius hominis 
+        <lb ed="#K"/>in corde terrae tribus diebus et tribus noctibus. <ref>Ad Ephesios 4<!-- 4:9 --></ref> <quote>qui autem
+        <lb ed="#K"/>ascendit, quid est, nisi quia et descendit primum in inferiores partes terrae</quote>.
+        <lb ed="#K"/><ref>Prima Petri 3</ref>: <quote>Mortificatus quidem carne, vivificatus autem Spiritu, in
+        <lb ed="#K"/>quo et his qui in carcere erant spiritibus, veniens praedicavit</quote>.
+        <lb ed="#K"/>Ex his textibus tria notanda sunt. Primum quod Christus secundum Spiritum,
+        <lb ed="#K"/>id est secundum animam descenderit in carcerem, in quo erant animae Patrum
+        <lb ed="#K"/>veteris testamenti. Secundum quod carcer ille fuerit in corde, id est
+        <lb ed="#K"/>in medio terrae; vel ut Apostolus loquitur, in inferioribus terrae partibus.
+        <lb ed="#K"/>Tertium quod ibi manserit tribus diebus ac noctibus. Nulla fit hic
+        <lb ed="#K"/>mentio cruciatum quos Christus illo triduo passus sit. Solius <ref>Calvini</ref>
+        <lb ed="#K"/>hoc figmentum an verius mendacium est.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur secundo authoritate <name>Sanctorum Patrum</name>. <ref>Clemens Alexandrinus libro 
+        <lb ed="#K"/>6 Stromatum capite 2</ref>. <quote>Si ergo Dominus nulla alia de causa descendit
+        <lb ed="#K"/>ad inferos, quam ut annuciaret Evangelium, sicut certe descendit</quote> etc, etc.
+        <lb ed="#K"/><ref>Sanctus Gregorius Neocaesariensis oratione in Epiphaniam</ref>: <quote>oportet me inquit 
+        <lb ed="#K"/>Christus in inferni profundum descendere, ut eos, qui illic detinentur, 
+        <lb ed="#K"/>eripiam</quote>. <ref>Sanctus Damascenus libro 3 de fide capite <unclear>29</unclear></ref>. <quote>Ob id porro Deifi<lb ed="#K"/>cata
+        Christi anima ad inferos descendit, ut quemadmodum iis qui in 
+        <lb ed="#K"/>terra versabantur, iustitiae sol ortus erat, ita etiam iis, qui infra terram
+        <lb ed="#K"/>in tenebris et umbra sedebant, illuceret</quote>. <ref>Theopylactus in caput 4
+        <lb ed="#K"/>ad Ephesios</ref>: <quote>quo descendit Christus ad inferos. Has enim infimae 
+        <lb ed="#K"/>terrae partes appellat. Et Paulo post: descendit igitur ad infimas 
+        <lb ed="#K"/>partes, <unclear>posset</unclear> quas non est aliud quid: et ascendit super omnia, ultra
+        <pb ed+"#K" n="157-v"/>
+        <lb ed="#K"/>quae non sunt alia</quote>, etc. 
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
