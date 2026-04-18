@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+   <fileDesc>
+     <titleStmt>
+       <title>Controversia</title>
+       <author ref="#per-sykisy">Stefan Yavorskyi</author>
+       <respStmt>
+         <name ref="#justincoyle">Justin Coyle</name>
+         <resp>Transcription Editor</resp>
+         <resp>TEI Encoder</resp>
+       </respStmt>
+       <respStmt>
+         <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+         <resp>Transcription Editor</resp>
+         <resp>TEI Encoder</resp>
+       </respStmt>
+     </titleStmt>
+     <editionStmt>
+       <edition n="0.0.0-dev">
+         <title>Controversia 2</title>
+         <date when="2025-04-17">Apr 17, 2025</date>
+       </edition>
+     </editionStmt>
+     <publicationStmt>
+       <authority>SCTA</authority>
+       <availability status="free">
+         <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+         </p>
+       </availability>
+     </publicationStmt>
+     <sourceDesc>
+       <listWit>
+         <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+       </listWit>
+     </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+     <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+     <editorialDecl>
+       <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+         guidelines for a diplomatic edition.</p>
+     </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+     <listChange>
+       <change when="2025-04-17" status="draft" n="0.0.0">
+         <p>Created file for the first time.</p>
+       </change>
+     </listChange>
+   </revisionDesc>
+ </teiHeader>
+ <text xml:lang="la">
+   <front>
+     <div xml:id="starts-on">
+       <pb ed="#K" n="158-r"/>
+     </div>
+   </front>
+   <body>
+     <div>
+     <head>Controversia 7</head>
+     <head type="question-title">An Christus sua passione ac morte sibi aliquid meruerit?</head>
+     <p>
+       <lb ed="#K" n="23"/>CONTROVERSIA VII
+       <lb ed="#K"/>An Christus sua Passione ac Morte sibi
+       <lb ed="#K"/>aliquid meruerit?
+     </p>
+     <p>
+      <lb ed="#K"/>Praenoto. <ref>Calvinus Libro secundo Institutionum capite 17 paragraphus 6</ref> docet Christum nobis
+      <lb ed="#K"/>tantum meruisse non sibi: sed contra.
+     </p>
+     <p>
+      <lb ed="#K"/>Dicendum est Etiam sibi aliquid Christus meruit nempe gloriam corporis, exal<lb ed="#K"/>tationem
+      <lb ed="#K"/>nominis, et alia multa, quae ei data sunt post passionem. Ita fides orthodoxa catholica.
+    </p>
+    <p>
+      <lb ed="#K"/>Probatur <ref>ad Philipens 4</ref> frumiliavit semet ipsum factus obediens usque ad mortem
+      <lb ed="#K"/>mortem autem crucis propter quod et Deus exaltavit illum et donavit illi nomen
+      <lb ed="#K"/>quod est supra omne nomen. <ref>Ad hebreos 2</ref> videmus Iesus propter passionem mortis
+
+      <lb ed="#K"/>gloria et honore coronatum. Ubi particula propter significat causam meritoram. 
+      <lb ed="#K"/>Item ipse Christus de se loquitur; nonne haec oportuit pati Christum, et intrare in glo<lb ed="#K"/>riam
+      suam. Hanc gloriam et exaltationem <unclear>peri erat</unclear> a Patre. <ref>Ioan. 12</ref>.
+     </p>
+     </div>
+   </body>
+ </text>
+</TEI>
