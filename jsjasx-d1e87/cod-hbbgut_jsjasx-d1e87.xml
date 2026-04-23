@@ -56,93 +56,93 @@
      </div>
    </front>
    <body>
-     <div>
-     <head>Controversia 7</head>
-     <head type="question-title">An Christus sua passione ac morte sibi aliquid meruerit?</head>
-      <p>
+     <div xml:id="--Dd1e106">
+     <head xml:id="--Hd1e108">Controversia 7</head>
+     <head xml:id="--Hd1e110" type="question-title">An Christus sua passione ac morte sibi aliquid meruerit?</head>
+      <p xml:id="--d1e113">
         <lb ed="#K" n="23"/>CONTROVERSIA VII
-        <lb ed="#K"/>An Christus sua Passione ac Morte sibi
-        <lb ed="#K"/>aliquid meruerit?
+        <lb ed="#K" n="24"/>An Christus sua Passione ac Morte sibi
+        <lb ed="#K" n="25"/>aliquid meruerit?
       </p>
-      <p>
-        <lb ed="#K"/>Praenoto. <ref>Calvinus Libro secundo Institutionum capite 17 paragraphus 6</ref> docet Christum nobis
-        <lb ed="#K"/>tantum meruisse non sibi: sed contra.
+      <p xml:id="--d1e122">
+        <lb ed="#K" n="26"/>Praenoto. <ref xml:id="--Rd1e126">Calvinus Libro secundo Institutionum capite 17 paragraphus 6</ref> docet Christum nobis
+        <lb ed="#K" n="27"/>tantum meruisse non sibi: sed contra.
       </p>
-      <p>
-        <lb ed="#K"/>Dicendum est Etiam sibi aliquid Christus meruit nempe gloriam corporis, exal<lb ed="#K"/>tationem
-        <lb ed="#K"/>nominis, et alia multa, quae ei data sunt post passionem. Ita fides orthodoxa catholica.
+      <p xml:id="--d1e131">
+        <lb ed="#K" n="28"/>Dicendum est Etiam sibi aliquid Christus meruit nempe gloriam corporis, exal<lb ed="#K" n="29"/>tationem
+        <lb ed="#K" n="30"/>nominis, et alia multa, quae ei data sunt post passionem. Ita fides orthodoxa catholica.
       </p>
-      <p>
-        <lb ed="#K"/>Probatur <ref>ad Philippenses 2<!-- 2:8-9 --></ref> <quote>humiliavit semet ipsum factus obediens usque ad mortem
-        <lb ed="#K"/>mortem autem crucis propter quod et Deus exaltavit illum et donavit illi nomen
-        <lb ed="#K"/>quod est supra omne nomen</quote>. <ref>Ad hebreos 2<!-- 2:9 --></ref> <quote>videmus Iesum propter passionem mortis
+      <p xml:id="--d1e141">
+        <lb ed="#K" n="31"/>Probatur <ref xml:id="--Rd1e145">ad Philippenses 2<!-- 2:8-9 --></ref> <quote xml:id="--Qd1e149">humiliavit semet ipsum factus obediens usque ad mortem
+        <lb ed="#K" n="32"/>mortem autem crucis propter quod et Deus exaltavit illum et donavit illi nomen
+        <lb ed="#K" n="33"/>quod est supra omne nomen</quote>. <ref xml:id="--Rd1e156">Ad hebreos 2<!-- 2:9 --></ref> <quote xml:id="--Qd1e160">videmus Iesum propter passionem mortis
         <pb ed="#K" n="158-v"/>
-        <lb ed="#K"/>gloria et honore coronatum</quote>. Ubi particula propter significat causam meritorum. 
-        <lb ed="#K"/>Item ipse Christus de se loquitur; nonne haec oportuit pati Christum, et intrare in glo<lb ed="#K"/>riam
-        suam. Hanc gloriam et exaltationem <unclear>perierat</unclear> a Patre. <ref>Ioan. 12<!-- 12:28 --></ref>. Pater clari<lb ed="#K"/>fica
+        <lb ed="#K" n="1"/>gloria et honore coronatum</quote>. Ubi particula propter significat causam meritorum. 
+        <lb ed="#K" n="2"/>Item ipse Christus de se loquitur; nonne haec oportuit pati Christum, et intrare in glo<lb ed="#K" n="3"/>riam
+        suam. Hanc gloriam et exaltationem <unclear>perierat</unclear> a Patre. <ref xml:id="--Rd1e174">Ioan. 12<!-- 12:28 --></ref>. Pater clari<lb ed="#K" n="4"/>fica
         et iterum clarificabo. Hoc est clarificavi te hac tenus tum voce de 
-        <lb ed="#K"/>caelo missa: hic est filius meus dilectus in quo mihi complacui. Tum
-        <lb ed="#K"/>variis signis et miraculis. Et iterum clarificabo te post mortem<unclear>!</unclear>ut
-        <lb ed="#K"/>omnes evidenter intelligant, te verum esse Dei filium. Quam <unclear>promissionem</unclear>
-        <lb ed="#K"/>postea exigit a patre: Pater venit hora clarifica filium tuum, ut Filius
-        <lb ed="#K"/>tuus clarificet te. Huc spectat illud quod sequitur ibidem <ref>Ioannis 17</ref>. 
-        <lb ed="#K"/>Ego clarificavi te super terram! opus consummavi quod dedisti mihi ut
-        <lb ed="#K"/>faciam: et nunc clarifica me tu Pater apud temet ipsum claritate
-        <lb ed="#K"/>quam habui prius quam mundus esset apud te. Sensus est: ego clari<lb ed="#K"/>ficavi 
+        <lb ed="#K" n="5"/>caelo missa: hic est filius meus dilectus in quo mihi complacui. Tum
+        <lb ed="#K" n="6"/>variis signis et miraculis. Et iterum clarificabo te post mortem<unclear>!</unclear>ut
+        <lb ed="#K" n="7"/>omnes evidenter intelligant, te verum esse Dei filium. Quam <unclear>promissionem</unclear>
+        <lb ed="#K" n="8"/>postea exigit a patre: Pater venit hora clarifica filium tuum, ut Filius
+        <lb ed="#K" n="9"/>tuus clarificet te. Huc spectat illud quod sequitur ibidem <ref xml:id="--Rd1e196">Ioannis 17</ref>. 
+        <lb ed="#K" n="10"/>Ego clarificavi te super terram! opus consummavi quod dedisti mihi ut
+        <lb ed="#K" n="11"/>faciam: et nunc clarifica me tu Pater apud temet ipsum claritate
+        <lb ed="#K" n="12"/>quam habui prius quam mundus esset apud te. Sensus est: ego clari<lb ed="#K" n="13"/>ficavi 
         te id est nomen et gloriam tuam hominibus manifestavi:
-        <lb ed="#K"/>et ideo quam mercedis loco a te peto, ut me vicissim clarifices
-        <lb ed="#K"/>post mortem, quod fiet: si eam claritatem quam secundum Divinitatem ab aeterno
-        <lb ed="#K"/>habui, dederis etiam mihi secundum humanitatem. Si quemadmodum ab aeter<lb ed="#K"/>no sedi
+        <lb ed="#K" n="14"/>et ideo quam mercedis loco a te peto, ut me vicissim clarifices
+        <lb ed="#K" n="15"/>post mortem, quod fiet: si eam claritatem quam secundum Divinitatem ab aeterno
+        <lb ed="#K" n="16"/>habui, dederis etiam mihi secundum humanitatem. Si quemadmodum ab aeter<lb ed="#K" n="17"/>no sedi
         ad Detram tuam, ut Deus; ita post ascensionem sed eam ad Dextram
-        <lb ed="#K"/>ut homo.
+        <lb ed="#K" n="18"/>ut homo.
       </p>
-      <p>
-        <lb ed="#K"/>Obiicit primo. <ref>Calvinus</ref> quid opus fuit descendere filium
-        <lb ed="#K"/>Dei, ut sibi acquireret aliquid novi qui est sibi sufficientissimum <unclear>ens</unclear>?
-        <lb ed="#K"/>Respondeo <ref>Calvinus</ref> vel non intelligit quod obiicit, vel vult simplices decipere.
-        <lb ed="#K"/>Nam aliud est loqui de filio Dei, quatenus praecise Deus est. Aliud de Christo
-        <lb ed="#K"/>quatenus est homo. Nos non dicimus filium Dei: descendisse de caelo,
-        <lb ed="#K"/>seu carnem <unclear>assumpsisse</unclear>, ut sibi tanquam Deo aliquid novi acquireret
-        <lb ed="#K"/>per meritum: sed dicimus Christum supposita iam Incarnatione, volunta<lb ed="#K"/>riam
-        <unclear>mortem</unclear> suscepisse, ut sibi tanquam homini aliquid novi ac<lb ed="#K"/>quireret 
+      <p xml:id="--d1e218">
+        <lb ed="#K" n="19"/>Obiicit primo. <ref xml:id="--Rd1e222">Calvinus</ref> quid opus fuit descendere filium
+        <lb ed="#K" n="20"/>Dei, ut sibi acquireret aliquid novi qui est sibi sufficientissimum <unclear>ens</unclear>?
+        <lb ed="#K" n="21"/>Respondeo <ref xml:id="--Rd1e231">Calvinus</ref> vel non intelligit quod obiicit, vel vult simplices decipere.
+        <lb ed="#K" n="22"/>Nam aliud est loqui de filio Dei, quatenus praecise Deus est. Aliud de Christo
+        <lb ed="#K" n="23"/>quatenus est homo. Nos non dicimus filium Dei: descendisse de caelo,
+        <lb ed="#K" n="24"/>seu carnem <unclear>assumpsisse</unclear>, ut sibi tanquam Deo aliquid novi acquireret
+        <lb ed="#K" n="25"/>per meritum: sed dicimus Christum supposita iam Incarnatione, volunta<lb ed="#K" n="26"/>riam
+        <unclear>mortem</unclear> suscepisse, ut sibi tanquam homini aliquid novi ac<lb ed="#K" n="27"/>quireret 
         per meritum, nempe ut acquireret sibi gloriam corporis, et
-        <lb ed="#K"/>exaltationem nominis.
+        <lb ed="#K" n="28"/>exaltationem nominis.
       </p>
-      <p>
-        <lb ed="#K"/>Obiicitur secundo. Scriptura testatur Christum non venisse propter suam uti<lb ed="#K"/>litatem,
+      <p xml:id="--d1e253">
+        <lb ed="#K" n="29"/>Obiicitur secundo. Scriptura testatur Christum non venisse propter suam uti<lb ed="#K" n="30"/>litatem,
         sed solum propter nos: imo adeo se totum addixisse in nostram salutem,
-        <lb ed="#K"/>ut quodammodo sui oblitus sit <ref>Isaiae 9<!-- 9:6 --></ref>. <quote>Puer natus est nobis</quote>.
+        <lb ed="#K" n="31"/>ut quodammodo sui oblitus sit <ref xml:id="--Rd1e261">Isaiae 9<!-- 9:6 --></ref>. <quote xml:id="--Qd1e265">Puer natus est nobis</quote>.
 
-        <lb ed="#K"/><ref>Zachariae 9<!-- 9:9 --></ref>. <quote>Ecce Rex tuus venit tibi iustus et salvator</quote>. <ref>Ioannis 17</ref>
-        <lb ed="#K"/><quote>Pro eis ego sanctifico me ipsum</quote>. Respondeo scriptura testatur quidem Christum
-        <lb ed="#K"/>venisse propter nos, non tamen negat etiam pro se fuisse sollicitum. Imo diserte
-        <lb ed="#K"/>hoc affirmat, verbis supra citatis: Pater venit hora clarifica filium tuum.
-        <lb ed="#K"/>Non ergo sui fuit oblitus.
+        <lb ed="#K" n="32"/><ref xml:id="--Rd1e269">Zachariae 9<!-- 9:9 --></ref>. <quote xml:id="--Qd1e273">Ecce Rex tuus venit tibi iustus et salvator</quote>. <ref xml:id="--Rd1e275">Ioannis 17</ref>
+        <lb ed="#K" n="33"/><quote xml:id="--Qd1e278">Pro eis ego sanctifico me ipsum</quote>. Respondeo scriptura testatur quidem Christum
+        <lb ed="#K" n="34"/>venisse propter nos, non tamen negat etiam pro se fuisse sollicitum. Imo diserte
+        <lb ed="#K" n="35"/>hoc affirmat, verbis supra citatis: Pater venit hora clarifica filium tuum.
+        <lb ed="#K" n="36"/>Non ergo sui fuit oblitus.
       </p>
-      <p>
-        <lb ed="#K"/>Obiicitur tertio. Paulus commendat charitatem Christi quod pro inimi<lb ed="#K"/>cis 
+      <p xml:id="--d1e288">
+        <lb ed="#K" n="37"/>Obiicitur tertio. Paulus commendat charitatem Christi quod pro inimi<lb ed="#K" n="38"/>cis 
         mortem subierit (ad Rom. 5). Haec autem commendatio fingeret, si
-        <lb ed="#K"/>etiam pro se mortuus fuisset. Respondeo non sequitur quia tametsi Christus pro se
-        <lb ed="#K"/>aliquid meruerit, hoc tamen non derogat charitati ipsius erga nos: imo 
-        <lb ed="#K"/>auget potius. Primo quia potuisset ab instanti conceptionis habere
-        <lb ed="#K"/>gloriam corporis, et exaltationem nominis; sed in gratiam nostri elegit
-        <lb ed="#K"/>potius pati et humiliari, ut sic a servitate peccati nos liberaret.
-        <lb ed="#K"/>Secundo quod autem postea per proprium meritum acquisiverit sibi gloriam
-        <lb ed="#K"/>ex exaltationem qua propter nos tam diu carverat; hoc etiam factum est
-        <lb ed="#K"/>ex charitate nostri: nimirum ut nos etiam in ipso, tanquam in nostro 
-        <lb ed="#K"/>capite essemus gloriosi et ex altati.
+        <lb ed="#K" n="39"/>etiam pro se mortuus fuisset. Respondeo non sequitur quia tametsi Christus pro se
+        <lb ed="#K" n="40"/>aliquid meruerit, hoc tamen non derogat charitati ipsius erga nos: imo 
+        <lb ed="#K" n="41"/>auget potius. Primo quia potuisset ab instanti conceptionis habere
+        <lb ed="#K" n="42"/>gloriam corporis, et exaltationem nominis; sed in gratiam nostri elegit
+        <lb ed="#K" n="43"/>potius pati et humiliari, ut sic a servitate peccati nos liberaret.
+        <lb ed="#K" n="44"/>Secundo quod autem postea per proprium meritum acquisiverit sibi gloriam
+        <lb ed="#K" n="45"/>ex exaltationem qua propter nos tam diu carverat; hoc etiam factum est
+        <lb ed="#K" n="46"/>ex charitate nostri: nimirum ut nos etiam in ipso, tanquam in nostro 
+        <lb ed="#K" n="47"/>capite essemus gloriosi et ex altati.
       </p>
-      <p>
-        <lb ed="#K"/>Obiicitur quarto. Quibus meritis assequi potuit homo ut esset 
-        <lb ed="#K"/>iudex mundi? ut esset caput Angelorum? ut potiretur summo Dei imperio?
-        <lb ed="#K"/>ut in eo resideret maiestas Dei? Respondeo nos non asserimus Christum haec om<lb ed="#K"/>nia 
+      <p xml:id="--d1e314">
+        <lb ed="#K" n="48"/>Obiicitur quarto. Quibus meritis assequi potuit homo ut esset 
+        <lb ed="#K" n="49"/>iudex mundi? ut esset caput Angelorum? ut potiretur summo Dei imperio?
+        <lb ed="#K" n="50"/>ut in eo resideret maiestas Dei? Respondeo nos non asserimus Christum haec om<lb ed="#K" n="51"/>nia 
         meruisse: meruit quidem ut esset iudex mundi: quia si potuit 
-        <lb ed="#K"/>mereri, ut mundus reconciliaretur Deo, potuit etiam mereri, ut ipse
-        <lb ed="#K"/>mundum iudicaret. Reliqua tria non meruit, sed ex vi Incarnationis
-        <lb ed="#K"/>illi concessa sunt. Nam vi Incarnationis factum est, ut homo esset Deus,
-        <lb ed="#K"/>ac proinde ut esset caput Angelorum et summo Dei imperio potiretur,
-        <lb ed="#K"/>et in eo resideret maiestas Dei. Potuit tamen mereri externam
-        <lb ed="#K"/>manifestationem horum omnium.
+        <lb ed="#K" n="52"/>mereri, ut mundus reconciliaretur Deo, potuit etiam mereri, ut ipse
+        <lb ed="#K" n="53"/>mundum iudicaret. Reliqua tria non meruit, sed ex vi Incarnationis
+        <lb ed="#K" n="54"/>illi concessa sunt. Nam vi Incarnationis factum est, ut homo esset Deus,
+        <lb ed="#K" n="55"/>ac proinde ut esset caput Angelorum et summo Dei imperio potiretur,
+        <lb ed="#K" n="56"/>et in eo resideret maiestas Dei. Potuit tamen mereri externam
+        <lb ed="#K" n="57"/>manifestationem horum omnium.
       </p>
      </div>
    </body>
