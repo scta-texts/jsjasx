@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Controversia 6</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Controversia 6</title>
+          <date when="2025-04-06">April 6, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-04-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="156-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="jsjasx-d1e80">
+      <head xml:id="jsjasx-d1e80-Hd1e108">Controversia 6</head> 
+      <head xml:id="jsjasx-d1e80-Hd1e110" type="question-title">An Christus vere descenderit ad inferos?</head>
+      <p xml:id="jsjasx-d1e80-d1e113">
+        <lb ed="#K" n="25"/>CONTROVERSIA VI
+        <lb ed="#K" n="26"/>An Christus vere descenderit ad inferos?
+      </p>
+      <p xml:id="jsjasx-d1e80-d1e120">
+        <lb ed="#K" n="27"/>Praenoto. Doctrinam hac in re a <name xml:id="jsjasx-d1e80-Nd1e124">Calvino</name> conscriptam, nolo hic tanquam foeti<lb ed="#K" n="28"/>dam
+        cloacam, ne gravius sordeat movere: si quem curiositas invaserit, remitto
+        <lb ed="#K" n="29"/>ad ipsius <ref xml:id="jsjasx-d1e80-Rd1e130">Catechismum Heidelbergensem</ref>, qui apud plerosque Calvinistas
+        <lb ed="#K" n="30"/>parem cum scriptura authoritatem habet. Videat ibi curiosus lector
+        <lb ed="#K" n="31"/><ref xml:id="jsjasx-d1e80-Rd1e136">quaestione 44</ref>, quae absurda et ridicula ab illo docentur.
+        <pb ed="#K" n="157-r"/>
+        <lb ed="#K" n="1"/>Idem docetur <ref xml:id="jsjasx-d1e80-Rd1e142">libro secundo Institutionum capite 16 paragrapho 10, 11, et 12</ref>. 
+        <lb ed="#K" n="2"/>Hic solum breviter ex ipsius prolixiori doctrina, tres errores eruo.
+        <lb ed="#K" n="3"/>Primus est. Descendere Christum ad inferos, nihil aliud est, quam perpeti
+        <lb ed="#K" n="4"/>poenas et cruciatus damnatorum. Sed contra.
+      </p>
+      <p xml:id="jsjasx-d1e80-d1e152">
+        <lb ed="#K" n="5"/>Dicendum primo. Haec merissima est blasphemia <name xml:id="jsjasx-d1e80-Nd1e156">Calvini</name> contra scriptu<lb ed="#K" n="6"/>ras 
+        et Patres, qui descensum Christi proprie interpretantur, asserentes illum
+        <lb ed="#K" n="7"/>descendisse ad loca subterranea, ubi animae veterum detinebantur.
+      </p>
+      <p xml:id="jsjasx-d1e80-d1e164">
+        <lb ed="#K" n="8"/>Probatur primo authoritate scripturae: <ref xml:id="jsjasx-d1e80-Rd1e168">Matthei 12<!-- 12:40 --></ref> sicut fuit Ionas
+        <lb ed="#K" n="9"/>in ventre ceti tribus diebus et tribus noctibus, sic erit filius hominis 
+        <lb ed="#K" n="10"/>in corde terrae tribus diebus et tribus noctibus. <ref xml:id="jsjasx-d1e80-Rd1e176">Ad Ephesios 4<!-- 4:9 --></ref> <quote xml:id="jsjasx-d1e80-Qd1e181">qui autem
+        <lb ed="#K" n="11"/>ascendit, quid est, nisi quia et descendit primum in inferiores partes terrae</quote>.
+        <lb ed="#K" n="12"/><ref xml:id="jsjasx-d1e80-Rd1e187">Prima Petri 3 <!-- 3:18 --></ref>: <quote xml:id="jsjasx-d1e80-Qd1e191">Mortificatus quidem carne, vivificatus autem Spiritu, in
+        <lb ed="#K" n="13"/>quo et his qui in carcere erant spiritibus, veniens praedicavit</quote>.
+        <lb ed="#K" n="14"/>Ex his textibus tria notanda sunt. Primum quod Christus secundum Spiritum,
+        <lb ed="#K" n="15"/>id est secundum animam descenderit in carcerem, in quo erant animae Patrum
+        <lb ed="#K" n="16"/>veteris testamenti. Secundum quod carcer ille fuerit in corde, id est
+        <lb ed="#K" n="17"/>in medio terrae; vel ut Apostolus loquitur, in inferioribus terrae partibus.
+        <lb ed="#K" n="18"/>Tertium quod ibi manserit tribus diebus ac noctibus. Nulla fit hic
+        <lb ed="#K" n="19"/>mentio cruciatuum quos Christus illo triduo passus sit. Solius <ref xml:id="jsjasx-d1e80-Rd1e209">Calvini</ref>
+        <lb ed="#K" n="20"/>hoc figmentum an verius mendacium est.
+      </p>
+      <p xml:id="jsjasx-d1e80-d1e214">
+        <lb ed="#K" n="21"/>Probatur secundo authoritate <name xml:id="jsjasx-d1e80-Nd1e218">Sanctorum Patrum</name>. <ref xml:id="jsjasx-d1e80-Rd1e220">Clemens Alexandrinus libro 
+        <lb ed="#K" n="22"/>6 Stromatum capite 2</ref>. <quote xml:id="jsjasx-d1e80-Qd1e225">Si ergo Dominus nulla alia de causa descendit
+        <lb ed="#K" n="23"/>ad inferos, quam ut annunciaret Evangelium, sicut certe descendit</quote> etc, etc.
+        <lb ed="#K" n="24"/><ref xml:id="jsjasx-d1e80-Rd1e231">Sanctus Gregorius Neocaesariensis oratione in Epiphaniam</ref>: <quote xml:id="jsjasx-d1e80-Qd1e234">oportet me inquit 
+        <lb ed="#K" n="25"/>Christus in inferni profundum descendere, ut eos, qui illic detinentur, 
+        <lb ed="#K" n="26"/>eripiam</quote>. <ref xml:id="jsjasx-d1e80-Rd1e241">Sanctus Damascenus libro 3 de fide capite <unclear>29</unclear></ref>. <quote xml:id="jsjasx-d1e80-Qd1e245">Ob id porro Deifi<lb ed="#K" n="27"/>cata
+        Christi anima ad inferos descendit, ut quemadmodum iis qui in 
+        <lb ed="#K" n="28"/>terra versabantur, iustitiae sol ortus erat, ita etiam iis, qui infra terram
+        <lb ed="#K" n="29"/>in tenebris et umbra sedebant, illuceret</quote>. <ref xml:id="jsjasx-d1e80-Rd1e254">Theophylactus in caput 4
+        <lb ed="#K" n="30"/>ad Ephesios</ref>: <quote xml:id="jsjasx-d1e80-Qd1e259">quo descendit Christus ad inferos. Has enim infimae 
+        <lb ed="#K" n="31"/>terrae partes appellat. Et Paulo post: descendit igitur ad infimas 
+        <lb ed="#K" n="32"/>partes, <unclear>posset</unclear> quas non est aliud quid: et ascendit super omnia, ultra
+        <pb ed="#K" n="157-v"/>
+        <lb ed="#K" n="1"/>quae non sunt alia</quote>, etc. Omitto reliquos Patres, qui omnes in eo conspi<lb ed="#K" n="2"/>rant
+        quod Christus post mortem, secundum carnem iacuerit in sepulchro; secundum
+        <lb ed="#K" n="3"/>animam descenderit in inferiores terrae partes, ut inde animas sanc<lb ed="#K" n="4"/>torum
+        veteris testamenti liberavit. Nullus ex omnibus est, qui sentiat 
+        <lb ed="#K" n="5"/>cum <name xml:id="jsjasx-d1e80-Nd1e281">Calvino</name> Christum post mortem diros in anima cruciatus perpessum esse,
+        <lb ed="#K" n="6"/>et coram severo Dei Tribunali, tanquam reum aeternae mortis comparuisse.
+        <lb ed="#K" n="7"/>Novum hoc est phantasma.
+      </p>
+      <p xml:id="jsjasx-d1e80-d1e288">
+        <lb ed="#K" n="8"/>Secundus. hac in parte Calvini error, quod Christus ceperit descendere
+        <lb ed="#K" n="9"/>ad inferos, quando in horto mortem deprecatus est, his verbis: Pater 
+        <lb ed="#K" n="10"/>si possibile est transeat <unclear>animae</unclear> calix iste. Sed contra.
+      </p>
+      <p xml:id="jsjasx-d1e80-d1e299">
+        <lb ed="#K" n="11"/>Dicendum secundo. Etiam haec doctrina est unicum falsitatis dogma.
+        <lb ed="#K" n="12"/>Quia pervertit ordinem symboli. Nam in symbolo habemus Christum
+        <lb ed="#K" n="13"/>descendisse ad inferos post mortem et sepulturam. At secundum Calvinum
+        <lb ed="#K" n="14"/>descendit ad inferos post mortem et sepulturam. At secundum <name xml:id="jsjasx-d1e80-Nd1e309">Calvinum</name>
+        <lb ed="#K" n="15"/>descendit ad inferos ante mortem et sepulturam.
+      </p>
+      <p xml:id="jsjasx-d1e80-d1e315">
+        <lb ed="#K" n="16"/>Tertius hac in re error Calvini est, Christum nihil fuisse nobis <unclear>pro</unclear> futurum
+        <lb ed="#K" n="17"/>sua passione et morte, si non comparuisset post mortem coram irato Deo,
+        <lb ed="#K" n="18"/>et poenas damnatorum passus fuisset. Sed contra.
+      </p>
+      <p xml:id="jsjasx-d1e80-d1e326">
+        <lb ed="#K" n="19"/>Dicendum tertio. Etiam haec est mera insania Calvini, quia pugnat
+        <lb ed="#K" n="20"/>cum scriptura, ex qua habemus haec duo principia: primo quod Christus
+        <lb ed="#K" n="21"/>sua passione et sanguine perfecerit, seu consummaverit opus nostrae
+        <lb ed="#K" n="22"/>redemptionis. Secundo quod post mortem nihil amplius perpessus sit, neque
+        <lb ed="#K" n="23"/>comparuerit coram Deo tanquam reus, sed tanquam victor et Triumphator.
+      </p>
+      <p xml:id="jsjasx-d1e80-d1e340">
+        <lb ed="#K" n="24"/>Probatur quo ad primum. <ref xml:id="jsjasx-d1e80-Rd1e344">Ad hebreos 2<!-- 2:10 --></ref> <quote xml:id="jsjasx-d1e80-Qd1e348">Decebat eum qui multos
+        <lb ed="#K" n="25"/>filios in gloriam adduxerat, authorem salutis eorum per passionem con<lb ed="#K" n="26"/>summari</quote>. 
+        <ref xml:id="jsjasx-d1e80-Rd1e355">Ad Hebreos 5<!-- 5:9 --></ref> <quote xml:id="jsjasx-d1e80-Qd1e359">Et consummatus (id est per mortem) factus est
+        <lb ed="#K" n="27"/>omnibus obtemperantibus sibi causa salutis aeternae</quote>. <ref xml:id="jsjasx-d1e80-Rd1e365">Ad Ephesios 1<!-- 1:7 --></ref>
+        <lb ed="#K" n="28"/><quote xml:id="jsjasx-d1e80-Qd1e370">In quo habemus redemptionem per sanguinem eius</quote>. <ref xml:id="jsjasx-d1e80-Rd1e372">Ad Colosenses 1<!-- 1:20 --></ref>
+        <lb ed="#K" n="29"/><quote xml:id="jsjasx-d1e80-Qd1e377">Pacificans per sanguinem eius quae in caelis et quae in terra sunt</quote>. <ref xml:id="jsjasx-d1e80-Rd1e379">1
+        <lb ed="#K" n="30"/>Petri 1<!-- 1:18 --></ref>. <quote xml:id="jsjasx-d1e80-Qd1e386">Scientes quod non corruptibilibus auro vel argento redempti
+        <lb ed="#K" n="31"/>estis, sed pretioso sanguine Christi</quote>. <ref xml:id="jsjasx-d1e80-Rd1e391">Apocalypsis 5<!-- 5:9 --></ref> <quote xml:id="jsjasx-d1e80-Qd1e395">Redemisti nos Domine
+        <lb ed="#K" n="32"/>in sanguine tuo</quote>.
+      </p>
+      <p xml:id="jsjasx-d1e80-d1e401">
+        <lb ed="#K" n="33"/>Probatur quo ad secundum quod scilicet Christus nil amplius passus sit
+        <lb ed="#K" n="34"/>post mortem, constat enim ex propria ipsius Confessione, quam in articulo
+        <pb ed="#K" n="158"/>
+        <lb ed="#K" n="1"/>mortuus edidit. Consummatum est. Quasi diceret: nil iam mihi patien<lb ed="#K" n="2"/>dum
+        super est, sustinui omnia <unclear>pro</unclear> redemptione humani generis, quae mihi
+        <lb ed="#K" n="3"/>erant imposita. Simili fere sensu dicebat Apostolus <ref xml:id="jsjasx-d1e80-Rd1e418">2 ad Timotheum 4<!-- 4:6 --></ref>
+        <lb ed="#K" n="4"/><quote xml:id="jsjasx-d1e80-Qd1e423">Tempus resolutionis meae instat. Bonum certamen certavi, cursum
+        <lb ed="#K" n="5"/>consummavi, fidem servavi</quote>. Quod etiam spectat illud <ref xml:id="jsjasx-d1e80-Rd1e428">ad Philippenses 2<!-- 2:8-9 --></ref>
+        <lb ed="#K" n="6"/><quote xml:id="jsjasx-d1e80-Qd1e434">Humiliavit semet ipsum factus obediens usque ad mortem, mortem autem crucis,
+        <lb ed="#K" n="7"/>propter quod et Deus exaltavit illum</quote>. Ubi consummatio meritorum Christi,
+        <lb ed="#K" n="8"/>tribuitur morti ipsius: et post mortem non sequitur alius animae cruciatus
+        <lb ed="#K" n="9"/>sed exaltatio.
+      </p>
+      <p xml:id="jsjasx-d1e80-d1e444">
+        <lb ed="#K" n="10"/>Obiicit Calvinus. <ref xml:id="jsjasx-d1e80-Rd1e448">Actorum 2<!-- 2:24 --></ref> dicitur, quem <quote xml:id="jsjasx-d1e80-Qd1e452">Deus susci<lb ed="#K" n="11"/>tavit
+        solutis doloribus inferni. Certe si Christus antequam resurgeret,
+        <lb ed="#K" n="12"/>solutus seu liberatus fuit a doloribus inferni, necesse est illum 
+        <lb ed="#K" n="13"/>prius fuisse in doloribus inferni, id est passum fuisse cruciatus dam<lb ed="#K" n="14"/>natorum</quote>.
+        <lb ed="#K" n="15"/>Respondeo Textus non dicit Christum fuisse solutum, seu dolores infer<lb ed="#K" n="16"/>ni 
+        fuisse solutos a Christo, vel Christum soluisse dolores inferni.
+        <lb ed="#K" n="17"/>Quod dupliciter intelligi potest primo quod solvent, id est initos fece<lb ed="#K" n="18"/>rit, 
+        et evitaverit dolores inferni, non quibus tenebatur, sed ne tene<lb ed="#K" n="19"/>retur.
+        Sicut si dicerem: Leo solvit laqueos venantium, id est rupit
+        <lb ed="#K" n="20"/>seu evitavit, ne caperetur. Secundo quod solverit dolores inferni, qui<lb ed="#K" n="21"/>bus 
+        animae iustorum <unclear>veteris</unclear> testamenti tenebantur, id est quod libe<lb ed="#K" n="22"/>raverit 
+        illas animas, a doloribus inferni. Sic Sancti Patres interpretantur. 
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
